@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Загрузка файлов Unity</title>
+    <title>Загрузка файлов Unity3D</title>
     <style>
         table {
             border-collapse: collapse;
@@ -21,8 +21,8 @@
 </head>
 <body>
 
-<input type="file" id="fileInput" accept=".unity">
-<button onclick="loadUnityFile()">Загрузить файл Unity</button>
+<input type="file" id="fileInput" accept=".unity,.prefab,.txt">
+<button onclick="loadUnityFile()">Загрузить файл Unity3D</button>
 
 <table id="dataTable">
     <thead>
@@ -39,7 +39,7 @@
     function loadUnityFile() {
         const fileInput = document.getElementById('fileInput');
         const file = fileInput.files[0];
-        
+
         if (file) {
             const reader = new FileReader();
             reader.onload = function(event) {
@@ -55,3 +55,8 @@
             };
             reader.readAsText(file);
         }
+    }
+</script>
+
+</body>
+</html>

@@ -5,16 +5,16 @@ $(document).ready(function ($) {
     },
     ajax: {
       type: 'GET',
-      url: 'https://mrgulka.github.io/id-gulka.json',
+      url: 'https://Balicon01.github.io/3412516593.json',
     },
     columns: [
       {
         width: '20%',
         data: 'ID',
         render: function (data) {
-          return ('<img loading="lazy" height="50px" class="image" src="https://mrgulka.github.io/images/' 
+          return ('<img loading="lazy" height="50px" class="image" src="https://Balicon01.github.io/images/' 
             + data
-            + ".png\" tooltip title=\"<img height='140px' src='https://mrgulka.github.io/images/" 
+            + ".png\" tooltip title=\"<img height='140px' src='https://Balicon01.github.io/images/" 
             + data 
             + ".png' alt='Item'>\">");
         },

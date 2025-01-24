@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Загрузка файлов Unity3D</title>
+    <title>Загрузка Excel файла</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.0/xlsx.full.min.js"></script>
     <style>
         table {
             border-collapse: collapse;
@@ -21,13 +22,13 @@
 </head>
 <body>
 
-<input type="file" id="fileInput" accept=".unity,.prefab,.txt">
-<button onclick="loadUnityFile()">Загрузить файл Unity3D</button>
+<input type="file" id="fileInput" accept=".xlsx">
+<button onclick="loadExcelFile()">Загрузить файл Excel</button>
 
 <table id="dataTable">
     <thead>
         <tr>
-            <th>Содержимое файла</th>
+            <!-- Заголовки таблицы будут добавлены динамически -->
         </tr>
     </thead>
     <tbody>
@@ -36,24 +37,42 @@
 </table>
 
 <script>
-    function loadUnityFile() {
+    function loadExcelFile() {
         const fileInput = document.getElementById('fileInput');
         const file = fileInput.files[0];
-
+        
         if (file) {
             const reader = new FileReader();
             reader.onload = function(event) {
-                const content = event.target.result;
-                const tbody = document.querySelector('#dataTable tbody');
-                tbody.innerHTML = ''; // Очистка предыдущих данных
+                const data = new Uint8Array(event.target.result);
+                const workbook = XLSX.read(data, { type: 'array' });
+                const firstSheet = workbook.Sheets[workbook.SheetNames[0]];
+                const jsonData = XLSX.utils.sheet_to_json(firstSheet, { header: 1 });
 
-                const tr = document.createElement('tr');
-                const td = document.createElement('td');
-                td.textContent = content; // Отображение содержимого файла
-                tr.appendChild(td);
-                tbody.appendChild(tr);
+                const tbody = document.querySelector('#dataTable tbody');
+                const thead = document.querySelector('#dataTable thead tr');
+                tbody.innerHTML = ''; // Очистка предыдущих данных
+                thead.innerHTML = ''; // Очистка заголовков
+
+                // Добавление заголовков
+                jsonData[0].forEach(header => {
+                    const th = document.createElement('th');
+                    th.textContent = header;
+                    thead.appendChild(th);
+                });
+
+                // Добавление данных из остальных строк
+                jsonData.slice(1).forEach(row => {
+                    const tr = document.createElement('tr');
+                    row.forEach(cell => {
+                        const td = document.createElement('td');
+                        td.textContent = cell;
+                        tr.appendChild(td);
+                    });
+                    tbody.appendChild(tr);
+                });
             };
-            reader.readAsText(file);
+            reader.readAsArrayBuffer(file);
         }
     }
 </script>

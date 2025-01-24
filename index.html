@@ -3,11 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Статическая таблица</title>
+    <title>Загрузка файлов Unity</title>
     <style>
         table {
             border-collapse: collapse;
             width: 100%;
+            margin-top: 20px;
         }
         th, td {
             border: 1px solid #ddd;
@@ -20,37 +21,37 @@
 </head>
 <body>
 
-<table>
+<input type="file" id="fileInput" accept=".unity">
+<button onclick="loadUnityFile()">Загрузить файл Unity</button>
+
+<table id="dataTable">
     <thead>
         <tr>
-            <th>ID</th>
-            <th>Name</th>
-            <th>Description</th>
+            <th>Содержимое файла</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>1</td>
-            <td>Item 1</td>
-            <td>Description of Item 1</td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>Item 2</td>
-            <td>Description of Item 2</td>
-        </tr>
-        <tr>
-            <td>3</td>
-            <td>Item 3</td>
-            <td>Description of Item 3</td>
-        </tr>
-        <tr>
-            <td>4</td>
-            <td>Item 4</td>
-            <td>Description of Item 4</td>
-        </tr>
+        <!-- Данные будут добавлены сюда -->
     </tbody>
 </table>
 
-</body>
-</html>
+<script>
+    function loadUnityFile() {
+        const fileInput = document.getElementById('fileInput');
+        const file = fileInput.files[0];
+        
+        if (file) {
+            const reader = new FileReader();
+            reader.onload = function(event) {
+                const content = event.target.result;
+                const tbody = document.querySelector('#dataTable tbody');
+                tbody.innerHTML = ''; // Очистка предыдущих данных
+
+                const tr = document.createElement('tr');
+                const td = document.createElement('td');
+                td.textContent = content; // Отображение содержимого файла
+                tr.appendChild(td);
+                tbody.appendChild(tr);
+            };
+            reader.readAsText(file);
+        }

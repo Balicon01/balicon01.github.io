@@ -5,7 +5,7 @@ $(document).ready(function ($) {
     },
     ajax: {
       type: 'GET',
-      url: 'https://Balicon01.github.io/3412516593.json',
+      url: 'https://balicon01.github.io/id-site/',
     },
     columns: [
       {

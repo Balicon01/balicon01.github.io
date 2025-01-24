@@ -3,15 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Таблица из файла</title>
+    <title>Таблица</title>
     <style>
         table {
-            border-collapse: collapse;
             width: 100%;
+            border-collapse: collapse;
         }
         th, td {
-            border: 1px solid #ddd;
+            border: 1px solid black;
             padding: 8px;
+            text-align: left;
         }
         th {
             background-color: #f2f2f2;
@@ -19,53 +20,88 @@
     </style>
 </head>
 <body>
-
-<input type="file" id="fileInput" accept=".csv">
-<button onclick="loadFile()">Загрузить файл</button>
-
-<table id="dataTable">
-    <thead>
+    <h1>Таблица</h1>
+    <table>
         <tr>
             <th>ID</th>
-            <th>Name</th>
-            <th>Description</th>
+            <th>Наименование</th>
+            <th>Описание</th>
         </tr>
-    </thead>
-    <tbody>
-        <!-- Данные будут добавлены сюда -->
-    </tbody>
-</table>
-
-<script>
-    function loadFile() {
-        const fileInput = document.getElementById('fileInput');
-        const file = fileInput.files[0];
-        
-        if (file) {
-            const reader = new FileReader();
-            reader.onload = function(event) {
-                const text = event.target.result;
-                const rows = text.split('\n');
-                const tbody = document.querySelector('#dataTable tbody');
-                tbody.innerHTML = ''; // Очистка предыдущих данных
-
-                rows.forEach(row => {
-                    const cols = row.split(',');
-                    if (cols.length > 1) { // Проверка, что строка не пустая
-                        const tr = document.createElement('tr');
-                        cols.forEach(col => {
-                            const td = document.createElement('td');
-                            td.textContent = col.trim();
-                            tr.appendChild(td);
-                        });
-                        tbody.appendChild(tr);
-                    }
-                });
-            };
-            reader.readAsText(file);
-        }
-    }
-</script>
-
+        <tr>
+            <td>1</td>
+            <td>Airplane</td>
+            <td>A powered flying vehicle with wings.</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Boat</td>
+            <td>A watercraft of any size designed to float.</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Bus</td>
+            <td>A large vehicle for transporting passengers.</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Car</td>
+            <td>A motor vehicle with wheels for transportation.</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Bicycle</td>
+            <td>A human-powered vehicle with two wheels.</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Truck</td>
+            <td>A motor vehicle designed for transporting cargo.</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Train</td>
+            <td>A series of connected vehicles traveling on railways.</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Helicopter</td>
+            <td>A type of rotorcraft capable of vertical flight.</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>Scooter</td>
+            <td>A human-powered or motorized vehicle with a platform for standing.</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>Van</td>
+            <td>A medium-sized road vehicle for transporting goods or people.</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>Motorcycle</td>
+            <td>A two-wheeled motor vehicle.</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>Moped</td>
+            <td>A low-powered two-wheeled vehicle.</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>Taxi</td>
+            <td>A vehicle for hire to carry passengers.</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>Tricycle</td>
+            <td>A vehicle with three wheels, often human-powered.</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>Subway</td>
+            <td>A rail transport system for urban transit.</td>
+        </tr>
+    </table>
 </body>
 </html>

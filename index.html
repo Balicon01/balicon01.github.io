@@ -3,75 +3,67 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Таблицы</title>
+    <title>Таблица из файла</title>
     <style>
-        .table-container {
-            display: none;
+        table {
+            border-collapse: collapse;
+            width: 100%;
         }
-        .active {
-            display: block;
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
         }
     </style>
 </head>
 <body>
 
-<button onclick="toggleTables()">Переключить таблицы</button>
+<input type="file" id="fileInput" accept=".csv">
+<button onclick="loadFile()">Загрузить файл</button>
 
-<div id="table1" class="table-container active">
-    <table>
-        <thead>
-            <tr>
-                <th>ID</th>
-                <th>Name</th>
-                <th>Description</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>1</td>
-                <td>Item 1</td>
-                <td>Description of Item 1</td>
-            </tr>
-            <tr>
-                <td>2</td>
-                <td>Item 2</td>
-                <td>Description of Item 2</td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-
-<div id="table2" class="table-container">
-    <table>
-        <thead>
-            <tr>
-                <th>ID</th>
-                <th>Name</th>
-                <th>Description</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>3</td>
-                <td>Item 3</td>
-                <td>Description of Item 3</td>
-            </tr>
-            <tr>
-                <td>4</td>
-                <td>Item 4</td>
-                <td>Description of Item 4</td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+<table id="dataTable">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Данные будут добавлены сюда -->
+    </tbody>
+</table>
 
 <script>
-    function toggleTables() {
-        const table1 = document.getElementById('table1');
-        const table2 = document.getElementById('table2');
+    function loadFile() {
+        const fileInput = document.getElementById('fileInput');
+        const file = fileInput.files[0];
         
-        table1.classList.toggle('active');
-        table2.classList.toggle('active');
+        if (file) {
+            const reader = new FileReader();
+            reader.onload = function(event) {
+                const text = event.target.result;
+                const rows = text.split('\n');
+                const tbody = document.querySelector('#dataTable tbody');
+                tbody.innerHTML = ''; // Очистка предыдущих данных
+
+                rows.forEach(row => {
+                    const cols = row.split(',');
+                    if (cols.length > 1) { // Проверка, что строка не пустая
+                        const tr = document.createElement('tr');
+                        cols.forEach(col => {
+                            const td = document.createElement('td');
+                            td.textContent = col.trim();
+                            tr.appendChild(td);
+                        });
+                        tbody.appendChild(tr);
+                    }
+                });
+            };
+            reader.readAsText(file);
+        }
     }
 </script>
 

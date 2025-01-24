@@ -29,16 +29,6 @@
       font-size: 17px;
     }
 
-    .topnav a:hover {
-      background-color: #ddd;
-      color: black;
-    }
-
-    .topnav a.active {
-      background-color: #4CAF50;
-      color: white;
-    }
-
     header {
       position: fixed;
       top: 0;
@@ -59,8 +49,8 @@
 <body>
   <header>
     <div class="topnav text-white">
-      <button type="button" class="btn btn-primary btn-lg" id="relsi" data-bs-toggle="button" autocomplete="off">Eternal</button>
-      <button type="button" class="btn btn-secondary btn-lg" id="relorig" data-bs-toggle="button" autocomplete="off">Original</button>
+      <button type="button" class="btn btn-primary btn-lg" id="relsi" autocomplete="off">Eternal</button>
+      <button type="button" class="btn btn-secondary btn-lg" id="relorig" autocomplete="off">Original</button>
       <div class="form-group">
         <input type="text" class="form-control" id="search" placeholder="Поиск по таблице">
       </div>
@@ -78,7 +68,9 @@
       <tbody id="dataTable"></tbody>
     </table>
   </div>
+
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
   <script src="https://cdn.datatables.net/2.0.8/js/jquery.dataTables.min.js"></script>
   <script>
     $(document).ready(function () {
@@ -93,35 +85,37 @@
       function Reload(path) {
         $.getJSON(path)
           .done(function (data) {
-            var allRecordsHTML = '';
-            for (var i = 0; i < data.length; i++) {
-              if (data[i].Type == "Object" || data[i].Type == "Vehicle" || 
-                  data[i].Type == "Effect" || data[i].Type == "Large" || 
-                  data[i].Type == "Medium" || data[i].Type == "Decal") continue;
+            let allRecordsHTML = '';
+            const excludedTypes = ["Object", "Vehicle", "Effect", "Large", "Medium", "Decal"];
+            for (let i = 0; i < data.length; i++) {
+              if (excludedTypes.includes(data[i].Type)) continue;
 
-              allRecordsHTML += '<tr>';
-              allRecordsHTML += '<td>' + '<img loading="lazy" height="50" class="image" src="https://Balicon01.github.io/images/' + data[i].ID + '.png" onerror="this.style.display=\'none\'" tooltip title="<img height=\'140px\' src=\'https://Balicon01.github.io/images/' + data[i].ID + '.png\' alt=\'Item\'>' + '"> </td>';
-              allRecordsHTML += '<td>' + data[i].ID + '</td>';
-              allRecordsHTML += '<td>' + data[i].Name + '</td>';
-              allRecordsHTML += '</tr>';
+              allRecordsHTML += `
+                <tr>
+                  <td>
+                    <img loading="lazy" height="50" class="image" 
+                      src="https://Balicon01.github.io/images/${data[i].ID}.png" 
+                      onerror="this.style.display='none'" 
+                      data-toggle="tooltip" title="<img height='140px' src='https://Balicon01.github.io/images/${data[i].ID}.png' alt='Item'>" />
+                  </td>
+                  <td>${data[i].ID}</td>
+                  <td>${data[i].Name}</td>
+                </tr>`;
             }
-            var table = document.getElementById("dataTable");
-            table.innerHTML = allRecordsHTML;
-            $('#display_json_data').DataTable(); // Initialize DataTable after content is loaded.
+            $('#dataTable').html(allRecordsHTML);
+            $('#display_json_data').DataTable().destroy(); // Удалить предыдущую инициализацию
+            $('#display_json_data').DataTable(); // Инициализация DataTable после контента
+            $('[data-toggle="tooltip"]').tooltip(); // Инициализация тултипов
           })
           .fail(function () {
             alert('Ошибка загрузки данных. Пожалуйста, попробуйте снова.');
           });
-      };
+      }
 
       $("#search").keyup(function () {
         var searchText = $(this).val().toLowerCase();
         $("#dataTable tr").each(function () {
-          if ($(this).text().toLowerCase().indexOf(searchText) === -1) {
-            $(this).hide();
-          } else {
-            $(this).show();
-          }
+          $(this).toggle($(this).text().toLowerCase().indexOf(searchText) > -1);
         });
       });
     });

@@ -76,14 +76,16 @@
   </div>
 
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdn.datatables.net/2.0.8/js/jquery.dataTables.min.js"></script>
   <script>
     $(document).ready(function () {
       // Привязка кнопок
+      const baseURL = 'https://balicon01.github.io/id-site.json'; // URL для данных
       $('#relsi').click(function () {
         Reload('https://Balicon01.github.io/3412516593.json');
       });
       $('#relorig').click(function () {
-        Reload('https://Balicon01.github.io/3412516593.json');
+        Reload('https://Balicon01.github.io/3266436726.json'); // Поменяйте на другой URL, если необходимо
       });
 
       // Функция загрузки данных
@@ -105,10 +107,11 @@
                 </td>
                 <td>${item.ID}</td>
                 <td>${item.Name}</td>
-                <td>${item.Description || "No description available"}</td>
+                <td>${item.Description || "Нет доступного описания"}</td>
               </tr>`;
             });
             $('#dataTable').html(allRecordsHTML);
+            $('#display_json_data').DataTable(); // Инициализация DataTable
           })
           .fail(function () {
             console.error("Не удалось загрузить данные JSON.");

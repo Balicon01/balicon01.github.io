@@ -11,22 +11,21 @@
     body {
       margin: 0;
       width: auto;
-      flex: auto;
       font-family: Arial, Helvetica, sans-serif;
     }
 
     .topnav {
       overflow: hidden;
       background-color: #333;
+      padding: 10px;
     }
 
-    .topnav a {
-      float: left;
-      color: #f2f2f2;
-      text-align: center;
-      padding: 14px 16px;
-      text-decoration: none;
-      font-size: 17px;
+    .topnav .btn {
+      margin-right: 10px;
+    }
+
+    .topnav input {
+      max-width: 300px;
     }
 
     header {
@@ -41,45 +40,46 @@
     }
 
     .base_dataTable {
-      margin-top: 90px;
+      margin-top: 100px;
+      padding: 20px;
     }
   </style>
 </head>
 
 <body>
   <header>
-    <div class="topnav text-white">
-      <button type="button" class="btn btn-primary btn-lg" id="relsi" autocomplete="off">Eternal</button>
-      <button type="button" class="btn btn-secondary btn-lg" id="relorig" autocomplete="off">Original</button>
-      <div class="form-group">
+    <div class="topnav text-white d-flex align-items-center">
+      <button type="button" class="btn btn-primary btn-lg" id="relsi" autocomplete="off">
+        Base Eternal
+      </button>
+      <button type="button" class="btn btn-secondary btn-lg" id="relorig" autocomplete="off">
+        Original
+      </button>
+      <div class="form-group ms-auto">
         <input type="text" class="form-control" id="search" placeholder="Поиск по таблице">
       </div>
     </div>
   </header>
+
   <div class="base_dataTable">
-    <table id="display_json_data" class="table table-bordered table-striped table-vcenter dataTable no-footer">
+    <table id="display_json_data" class="table table-bordered table-striped table-vcenter dataTable">
       <thead>
         <tr>
           <th>Photo</th>
           <th>ID</th>
           <th>Name</th>
+          <th>Description</th>
         </tr>
       </thead>
       <tbody id="dataTable"></tbody>
     </table>
   </div>
 
-  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-  <script src="https://cdn.datatables.net/2.0.8/js/jquery.dataTables.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script>
     $(document).ready(function () {
       // Привязка кнопок
-      $('#relsi').click(function () {
-        Reload('https://Balicon01.github.io/3266436726.json');
-      });
-
-      $('#relorig').click(function () {
+      $('#relsi, #relorig').click(function () {
         Reload('https://Balicon01.github.io/3412516593.json');
       });
 
@@ -88,37 +88,36 @@
         $.getJSON(path)
           .done(function (data) {
             let allRecordsHTML = '';
-            const excludedTypes = ["Object", "Vehicle", "Effect", "Large", "Medium", "Decal"];
-            for (let i = 0; i < data.length; i++) {
-              if (excludedTypes.includes(data[i].Type)) continue;
+            data.forEach(item => {
+              // Фильтрация типов
+              if (["Object", "Vehicle", "Effect", "Large", "Medium", "Decal"].includes(item.Type)) return;
 
-              allRecordsHTML += `
-                <tr>
-                  <td>
-                    <img loading="lazy" height="50" class="image" 
-                      src="https://Balicon01.github.io/images/${data[i].ID}.png" 
-                      onerror="this.style.display='none'" 
-                      data-toggle="tooltip" title="<img height='140px' src='https://Balicon01.github.io/images/${data[i].ID}.png' alt='Item'>" />
-                  </td>
-                  <td>${data[i].ID}</td>
-                  <td>${data[i].Name}</td>
-                </tr>`;
-            }
+              // Добавление строки в таблицу
+              allRecordsHTML += `<tr>
+                <td>
+                  <img height="50" class="image" 
+                    src="https://Balicon01.github.io/images/${item.ID}.png" 
+                    onerror="this.style.display='none'" 
+                    alt="No Image">
+                </td>
+                <td>${item.ID}</td>
+                <td>${item.Name}</td>
+                <td>${item.Description || "Нет описания"}</td>
+              </tr>`;
+            });
             $('#dataTable').html(allRecordsHTML);
-            $('#display_json_data').DataTable().destroy(); // Удалить предыдущую инициализацию
-            $('#display_json_data').DataTable(); // Инициализация DataTable после контента
-            $('[data-toggle="tooltip"]').tooltip(); // Инициализация тултипов
           })
           .fail(function () {
-            alert('Ошибка загрузки данных. Пожалуйста, попробуйте снова.');
+            console.error("Не удалось загрузить данные JSON.");
+            alert('Ошибка загрузки данных. Пожалуйста, попробуйте позже.');
           });
       }
 
       // Реализация поиска
-      $("#search").keyup(function () {
-        var searchText = $(this).val().toLowerCase();
-        $("#dataTable tr").each(function () {
-          $(this).toggle($(this).text().toLowerCase().indexOf(searchText) > -1);
+      $('#search').on('keyup', function () {
+        const searchValue = $(this).val().toLowerCase();
+        $('#dataTable tr').filter(function () {
+          $(this).toggle($(this).text().toLowerCase().indexOf(searchValue) > -1);
         });
       });
     });

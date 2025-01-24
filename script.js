@@ -74,14 +74,16 @@
   <script src="https://cdn.datatables.net/2.0.8/js/jquery.dataTables.min.js"></script>
   <script>
     $(document).ready(function () {
+      // Привязка кнопок
       $('#relsi').click(function () {
         Reload('https://Balicon01.github.io/3266436726.json');
       });
 
-      $("#relorig").click(function () {
+      $('#relorig').click(function () {
         Reload('https://Balicon01.github.io/3412516593.json');
       });
 
+      // Функция загрузки данных
       function Reload(path) {
         $.getJSON(path)
           .done(function (data) {
@@ -112,6 +114,7 @@
           });
       }
 
+      // Реализация поиска
       $("#search").keyup(function () {
         var searchText = $(this).val().toLowerCase();
         $("#dataTable tr").each(function () {

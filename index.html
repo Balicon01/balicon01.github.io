@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 
 <head>
   <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
   <meta charset="utf-8">
   <title>ID Eternal RP</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.css" />
   <style>
     body {
       margin: 0;
@@ -27,14 +28,6 @@
       max-width: 300px;
     }
 
-    .topnav a {
-      float: left;
-      color: #f2f2f2;
-      text-align: center;
-      text-decoration: none;
-      font-size: 17px;
-    }
-
     header {
       position: fixed;
       top: 0;
@@ -51,16 +44,15 @@
       padding: 20px;
     }
   </style>
-  <link rel="stylesheet" href="https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.css" />
 </head>
 
 <body>
   <header>
     <div class="topnav text-white d-flex align-items-center">
-      <button type="button" class="btn btn-primary btn-lg" id="relsi" data-bs-toggle="button" autocomplete="off">
+      <button type="button" class="btn btn-primary btn-lg" id="relsi" autocomplete="off">
         Base Eternal
       </button>
-      <button type="button" class="btn btn-secondary btn-lg" id="relorig" data-bs-toggle="button" autocomplete="off">
+      <button type="button" class="btn btn-secondary btn-lg" id="relorig" autocomplete="off">
         Original
       </button>
       <div class="form-group ms-auto">
@@ -96,37 +88,38 @@
 
       // Функция загрузки данных
       function Reload(path) {
-        $.getJSON(path, function (data) {
-          let allRecordsHTML = '';
-          data.forEach(item => {
-            // Фильтрация типов
-            if (
-              ["Object", "Vehicle", "Effect", "Large", "Medium", "Decal"].includes(item.Type)
-            ) return;
+        $.getJSON(path)
+          .done(function (data) {
+            let allRecordsHTML = '';
+            data.forEach(item => {
+              // Фильтрация типов
+              if (["Object", "Vehicle", "Effect", "Large", "Medium", "Decal"].includes(item.Type)) return;
 
-            // Добавление строки в таблицу
-            allRecordsHTML += `<tr>
-              <td>
-                <img height="50" class="image" 
-                  src="https://Balicon01.github.io/images/${item.ID}.png" 
-                  onerror="this.style.display='none'" 
-                  alt="No Image">
-              </td>
-              <td>${item.ID}</td>
-              <td>${item.Name}</td>
-              <td>${item.Description || "No description available"}</td>
-            </tr>`;
+              // Добавление строки в таблицу
+              allRecordsHTML += `<tr>
+                <td>
+                  <img height="50" class="image" 
+                    src="https://Balicon01.github.io/images/${item.ID}.png" 
+                    onerror="this.style.display='none'" 
+                    alt="No Image">
+                </td>
+                <td>${item.ID}</td>
+                <td>${item.Name}</td>
+                <td>${item.Description || "No description available"}</td>
+              </tr>`;
+            });
+            $('#dataTable').html(allRecordsHTML);
+          })
+          .fail(function () {
+            console.error("Не удалось загрузить данные JSON.");
+            alert('Ошибка загрузки данных. Пожалуйста, попробуйте позже.');
           });
-          $('#dataTable').html(allRecordsHTML);
-        }).fail(function () {
-          console.error("Failed to load JSON data.");
-        });
       }
 
       // Реализация поиска
       $('#search').on('keyup', function () {
         const searchValue = $(this).val().toLowerCase();
-        $('#display_json_data tbody tr').filter(function () {
+        $('#dataTable tr').filter(function () {
           $(this).toggle($(this).text().toLowerCase().indexOf(searchValue) > -1);
         });
       });

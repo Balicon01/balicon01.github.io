@@ -3,3192 +3,2736 @@
     "ID": 200,
     "Name": "Bomb_200",
     "Type": "Effect",
-    "Rarity": null,
-    "Description": null
+    "Rarity": null
   },
   {
     "ID": 201,
     "Name": "Bomb_201",
     "Type": "Effect",
-    "Rarity": null,
-    "Description": null
+    "Rarity": null
   },
   {
     "ID": 202,
     "Name": "Bomb_202",
     "Type": "Effect",
-    "Rarity": null,
-    "Description": null
+    "Rarity": null
   },
   {
     "ID": 203,
     "Name": "Bomb_203",
     "Type": "Effect",
-    "Rarity": null,
-    "Description": null
+    "Rarity": null
   },
   {
     "ID": 501,
     "Name": "Tracer_Blue",
     "Type": "Effect",
-    "Rarity": null,
-    "Description": null
+    "Rarity": null
   },
   {
     "ID": 8340,
-    "Name": "Hans",
+    "Name": "Hans Vest",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Bullet"
+    "Rarity": "Rare"
   },
   {
     "ID": 8444,
-    "Name": "Shadowstalker",
+    "Name": "Shadowstalker Mk. II Drum",
     "Type": "Magazine",
-    "Rarity": "Mythical",
-    "Description": "Prototype"
+    "Rarity": "Mythical"
   },
   {
     "ID": 8445,
-    "Name": "Shadowstalker",
+    "Name": "Shadowstalker Mk. II Drum",
     "Type": "Magazine",
-    "Rarity": "Mythical",
-    "Description": "Prototype"
+    "Rarity": "Mythical"
   },
   {
     "ID": 8447,
-    "Name": "Shadowstalker",
+    "Name": "Shadowstalker Mk. II Drum",
     "Type": "Magazine",
-    "Rarity": "Mythical",
-    "Description": "Prototype"
+    "Rarity": "Mythical"
   },
   {
     "ID": 9603,
-    "Name": "E-11",
+    "Name": "E-11 Blaster",
     "Type": "Gun",
-    "Rarity": "Legendary",
-    "Description": "Standard"
+    "Rarity": "Legendary"
   },
   {
     "ID": 9604,
-    "Name": "DH-17",
+    "Name": "DH-17 Blaster",
     "Type": "Gun",
-    "Rarity": "Legendary",
-    "Description": "Firearm"
+    "Rarity": "Legendary"
   },
   {
     "ID": 9605,
-    "Name": "Energy",
+    "Name": "Energy Cell",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "Energy"
+    "Rarity": "Epic"
   },
   {
     "ID": 11006,
     "Name": "Muzzle_5",
     "Type": "Effect",
-    "Rarity": null,
-    "Description": null
+    "Rarity": null
   },
   {
     "ID": 11016,
     "Name": "Muzzle_6",
     "Type": "Effect",
-    "Rarity": null,
-    "Description": null
+    "Rarity": null
   },
   {
     "ID": 11019,
     "Name": "Muzzle_7",
     "Type": "Effect",
-    "Rarity": null,
-    "Description": null
+    "Rarity": null
   },
   {
     "ID": 11020,
     "Name": "Muzzle_8",
     "Type": "Effect",
-    "Rarity": null,
-    "Description": null
+    "Rarity": null
   },
   {
     "ID": 11021,
     "Name": "Muzzle_9",
     "Type": "Effect",
-    "Rarity": null,
-    "Description": null
+    "Rarity": null
   },
   {
     "ID": 11022,
     "Name": "Muzzle_10",
     "Type": "Effect",
-    "Rarity": null,
-    "Description": null
+    "Rarity": null
   },
   {
     "ID": 11028,
-    "Name": "DLT-19",
+    "Name": "DLT-19 Blaster",
     "Type": "Gun",
-    "Rarity": "Legendary",
-    "Description": "Standard"
+    "Rarity": "Legendary"
   },
   {
     "ID": 13704,
     "Name": "ThermalDetonatorEffect",
     "Type": "Effect",
-    "Rarity": null,
-    "Description": null
+    "Rarity": null
   },
   {
     "ID": 26015,
     "Name": "A280C",
     "Type": "Gun",
-    "Rarity": "Legendary",
-    "Description": "Standard"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33000,
-    "Name": "TX-225",
+    "Name": "TX-225 Combat Assault Tank",
     "Type": "Vehicle",
-    "Rarity": "Legendary",
-    "Description": null
+    "Rarity": "Legendary"
   },
   {
     "ID": 33001,
-    "Name": "Reconnaissance",
+    "Name": "Reconnaissance Troop Transporter",
     "Type": "Vehicle",
-    "Rarity": "Legendary",
-    "Description": null
+    "Rarity": "Legendary"
   },
   {
     "ID": 33002,
-    "Name": "X-34",
+    "Name": "X-34 Landspeeder",
     "Type": "Vehicle",
-    "Rarity": "Rare",
-    "Description": null
+    "Rarity": "Rare"
   },
   {
     "ID": 33003,
-    "Name": "Millenium",
+    "Name": "Millenium Falcon",
     "Type": "Vehicle",
-    "Rarity": "Legendary",
-    "Description": null
+    "Rarity": "Legendary"
   },
   {
     "ID": 33004,
-    "Name": "Rebel",
+    "Name": "Rebel Scout Speeder",
     "Type": "Vehicle",
-    "Rarity": "Rare",
-    "Description": null
+    "Rarity": "Rare"
   },
   {
     "ID": 33005,
-    "Name": "TIE",
+    "Name": "TIE Bomber",
     "Type": "Vehicle",
-    "Rarity": "Epic",
-    "Description": null
+    "Rarity": "Epic"
   },
   {
     "ID": 33006,
-    "Name": "TIE",
+    "Name": "TIE Fighter",
     "Type": "Vehicle",
-    "Rarity": "Epic",
-    "Description": null
+    "Rarity": "Epic"
   },
   {
     "ID": 33007,
-    "Name": "TIE",
+    "Name": "TIE Interceptor",
     "Type": "Vehicle",
-    "Rarity": "Epic",
-    "Description": null
+    "Rarity": "Epic"
   },
   {
     "ID": 33008,
     "Name": "X-wing",
     "Type": "Vehicle",
-    "Rarity": "Legendary",
-    "Description": null
+    "Rarity": "Legendary"
   },
   {
     "ID": 33009,
     "Name": "X-wing",
     "Type": "Vehicle",
-    "Rarity": "Legendary",
-    "Description": null
+    "Rarity": "Legendary"
   },
   {
     "ID": 33010,
     "Name": "Y-wing",
     "Type": "Vehicle",
-    "Rarity": "Legendary",
-    "Description": null
+    "Rarity": "Legendary"
   },
   {
     "ID": 33011,
-    "Name": "181st",
+    "Name": "181st TIE Interceptor",
     "Type": "Vehicle",
-    "Rarity": "Epic",
-    "Description": null
+    "Rarity": "Epic"
   },
   {
     "ID": 33012,
-    "Name": "74-Z",
+    "Name": "74-Z speeder bike",
     "Type": "Vehicle",
-    "Rarity": null,
-    "Description": null
+    "Rarity": null
   },
   {
     "ID": 33013,
-    "Name": "UT-60D",
+    "Name": "UT-60D U-wing starfighter",
     "Type": "Vehicle",
-    "Rarity": "Epic",
-    "Description": null
+    "Rarity": "Epic"
   },
   {
     "ID": 33014,
-    "Name": "TIE",
+    "Name": "TIE Reaper",
     "Type": "Vehicle",
-    "Rarity": "Epic",
-    "Description": null
+    "Rarity": "Epic"
   },
   {
     "ID": 33015,
-    "Name": "Slave",
+    "Name": "Slave 1",
     "Type": "Vehicle",
-    "Rarity": "Epic",
-    "Description": null
+    "Rarity": "Epic"
   },
   {
     "ID": 33016,
-    "Name": "Jetpack",
+    "Name": "Jetpack Remote",
     "Type": "Cloud",
-    "Rarity": "Uncommon",
-    "Description": "A"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33017,
-    "Name": "Jetpack",
+    "Name": "Jetpack Remote",
     "Type": "Cloud",
-    "Rarity": "Uncommon",
-    "Description": "A"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33018,
     "Name": "Phantom",
     "Type": "Vehicle",
-    "Rarity": "Epic",
-    "Description": null
+    "Rarity": "Epic"
   },
   {
     "ID": 33019,
-    "Name": "Fang",
+    "Name": "Fang Fighter",
     "Type": "Vehicle",
-    "Rarity": "Epic",
-    "Description": null
+    "Rarity": "Epic"
   },
   {
     "ID": 33020,
-    "Name": "TIE",
+    "Name": "TIE Defender",
     "Type": "Vehicle",
-    "Rarity": "Epic",
-    "Description": null
+    "Rarity": "Epic"
   },
   {
     "ID": 33021,
-    "Name": "TIE",
+    "Name": "TIE Defender",
     "Type": "Vehicle",
-    "Rarity": "Epic",
-    "Description": null
+    "Rarity": "Epic"
   },
   {
     "ID": 33022,
-    "Name": "TIE",
+    "Name": "TIE Defender",
     "Type": "Vehicle",
-    "Rarity": "Epic",
-    "Description": null
+    "Rarity": "Epic"
   },
   {
     "ID": 33023,
-    "Name": "TIE",
+    "Name": "TIE Defender",
     "Type": "Vehicle",
-    "Rarity": "Epic",
-    "Description": null
+    "Rarity": "Epic"
   },
   {
     "ID": 33024,
-    "Name": "TIE",
+    "Name": "TIE Defender",
     "Type": "Vehicle",
-    "Rarity": "Epic",
-    "Description": null
+    "Rarity": "Epic"
   },
   {
     "ID": 33025,
     "Name": "X-wing",
     "Type": "Vehicle",
-    "Rarity": "Legendary",
-    "Description": null
+    "Rarity": "Legendary"
   },
   {
     "ID": 33026,
     "Name": "X-wing",
     "Type": "Vehicle",
-    "Rarity": "Legendary",
-    "Description": null
+    "Rarity": "Legendary"
   },
   {
     "ID": 33027,
     "Name": "X-wing",
     "Type": "Vehicle",
-    "Rarity": "Legendary",
-    "Description": null
+    "Rarity": "Legendary"
   },
   {
     "ID": 33028,
-    "Name": "Auzituck",
+    "Name": "Auzituck anti-slaver gunship",
     "Type": "Vehicle",
-    "Rarity": "Epic",
-    "Description": null
+    "Rarity": "Epic"
   },
   {
     "ID": 33029,
-    "Name": "Auzituck",
+    "Name": "Auzituck anti-slaver gunship",
     "Type": "Vehicle",
-    "Rarity": "Epic",
-    "Description": null
+    "Rarity": "Epic"
   },
   {
     "ID": 33030,
-    "Name": "Anti",
+    "Name": "Anti Air Turret",
     "Type": "Vehicle",
-    "Rarity": "Legendary",
-    "Description": null
+    "Rarity": "Legendary"
   },
   {
     "ID": 33031,
-    "Name": "616-AvA",
+    "Name": "616-AvA Speeder Bike",
     "Type": "Vehicle",
-    "Rarity": null,
-    "Description": null
+    "Rarity": null
   },
   {
     "ID": 33101,
-    "Name": "Luke",
+    "Name": "Luke Skywalker's Lightsaber",
     "Type": "Melee",
-    "Rarity": "Mythical",
-    "Description": "A"
+    "Rarity": "Mythical"
   },
   {
     "ID": 33102,
-    "Name": "Obi",
+    "Name": "Obi Wan Kenobi's Lightsaber",
     "Type": "Melee",
-    "Rarity": "Mythical",
-    "Description": "A"
+    "Rarity": "Mythical"
   },
   {
     "ID": 33103,
-    "Name": "Darth",
+    "Name": "Darth Vader's Lightsaber",
     "Type": "Melee",
-    "Rarity": "Mythical",
-    "Description": "A"
+    "Rarity": "Mythical"
   },
   {
     "ID": 33107,
-    "Name": "The",
+    "Name": "The Darksaber",
     "Type": "Melee",
-    "Rarity": "Epic",
-    "Description": "An"
+    "Rarity": "Epic"
   },
   {
     "ID": 33108,
-    "Name": "Darth",
+    "Name": "Darth Malgus' lightsaber",
     "Type": "Melee",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33109,
-    "Name": "Darth",
+    "Name": "Darth Bane's Lightsaber",
     "Type": "Melee",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33110,
-    "Name": "Ezra's",
+    "Name": "Ezra's Lightsaber",
     "Type": "Melee",
-    "Rarity": "Epic",
-    "Description": "Crafted"
+    "Rarity": "Epic"
   },
   {
     "ID": 33111,
-    "Name": "Durge's",
+    "Name": "Durge's Lance",
     "Type": "Melee",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33112,
-    "Name": "Ezra's",
+    "Name": "Ezra's Lightsaber",
     "Type": "Melee",
-    "Rarity": "Epic",
-    "Description": "Crafted"
+    "Rarity": "Epic"
   },
   {
     "ID": 33113,
-    "Name": "Light",
+    "Name": "Light Club",
     "Type": "Melee",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33118,
-    "Name": "Kanan",
+    "Name": "Kanan Jarrus's Lightsaber",
     "Type": "Melee",
-    "Rarity": "Legendary",
-    "Description": "A"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33200,
-    "Name": "Chewbaccas",
+    "Name": "Chewbaccas Head",
     "Type": "Hat",
-    "Rarity": "Uncommon",
-    "Description": "The"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33201,
-    "Name": "Granf",
+    "Name": "Granf Moff Hair",
     "Type": "Hat",
-    "Rarity": "Uncommon",
-    "Description": "The"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33202,
-    "Name": "Imperial",
+    "Name": "Imperial Pilot Helmet",
     "Type": "Hat",
-    "Rarity": "Uncommon",
-    "Description": "Standard"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33203,
-    "Name": "Imperial",
+    "Name": "Imperial Pilot Helmet",
     "Type": "Hat",
-    "Rarity": "Uncommon",
-    "Description": "Standard"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33204,
-    "Name": "Leia's",
+    "Name": "Leia's Hair.",
     "Type": "Hat",
-    "Rarity": "Uncommon",
-    "Description": "Princess"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33205,
-    "Name": "Imperial",
+    "Name": "Imperial Officer Cap",
     "Type": "Hat",
-    "Rarity": "Uncommon",
-    "Description": "A"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33206,
-    "Name": "Rebel",
+    "Name": "Rebel Helmet",
     "Type": "Hat",
-    "Rarity": "Rare",
-    "Description": "Protecting"
+    "Rarity": "Rare"
   },
   {
     "ID": 33207,
-    "Name": "Rebel",
+    "Name": "Rebel Pilot Helmet",
     "Type": "Hat",
-    "Rarity": "Uncommon",
-    "Description": "Standard"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33208,
-    "Name": "Rebel",
+    "Name": "Rebel Pilot Helmet",
     "Type": "Hat",
-    "Rarity": "Uncommon",
-    "Description": "Blue"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33209,
-    "Name": "Rebel",
+    "Name": "Rebel Desert Helmet",
     "Type": "Hat",
-    "Rarity": "Uncommon",
-    "Description": "Helmet"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33210,
-    "Name": "Stormtrooper",
+    "Name": "Stormtrooper Helmet",
     "Type": "Hat",
-    "Rarity": "Legendary",
-    "Description": "How"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33211,
-    "Name": "Tar",
+    "Name": "Tar Vizsla's Helmet",
     "Type": "Hat",
-    "Rarity": "Uncommon",
-    "Description": "An"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33212,
-    "Name": "Vader’s",
+    "Name": "Vader’s Helmet",
     "Type": "Hat",
-    "Rarity": "Legendary",
-    "Description": "Equipped"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33213,
-    "Name": "181st",
+    "Name": "181st Imperial Pilot Helmet",
     "Type": "Hat",
-    "Rarity": "Uncommon",
-    "Description": "A"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33214,
-    "Name": "Scout",
+    "Name": "Scout Trooper Helmet",
     "Type": "Hat",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33215,
-    "Name": "Rebel",
+    "Name": "Rebel Commando Mask",
     "Type": "Mask",
-    "Rarity": null,
-    "Description": "Face"
+    "Rarity": null
   },
   {
     "ID": 33216,
-    "Name": "Y-Wing",
+    "Name": "Y-Wing Pilot Helmet",
     "Type": "Hat",
-    "Rarity": "Uncommon",
-    "Description": "Helmet"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33217,
-    "Name": "Hero's",
+    "Name": "Hero's Helmet",
     "Type": "Hat",
-    "Rarity": "Legendary",
-    "Description": "A"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33218,
-    "Name": "Shoretrooper",
+    "Name": "Shoretrooper Helmet",
     "Type": "Hat",
-    "Rarity": null,
-    "Description": "A"
+    "Rarity": null
   },
   {
     "ID": 33219,
-    "Name": "Bistans",
+    "Name": "Bistans Head",
     "Type": "Hat",
-    "Rarity": "Uncommon",
-    "Description": "How"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33220,
-    "Name": "Bistans",
+    "Name": "Bistans Head",
     "Type": "Hat",
-    "Rarity": "Uncommon",
-    "Description": "How"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33221,
-    "Name": "Rebel",
+    "Name": "Rebel Scarif Helmet",
     "Type": "Hat",
-    "Rarity": null,
-    "Description": "A"
+    "Rarity": null
   },
   {
     "ID": 33222,
-    "Name": "Rebel",
+    "Name": "Rebel Scarif Helmet",
     "Type": "Hat",
-    "Rarity": null,
-    "Description": "A"
+    "Rarity": null
   },
   {
     "ID": 33223,
-    "Name": "Rebel",
+    "Name": "Rebel Scarif Helmet",
     "Type": "Hat",
-    "Rarity": null,
-    "Description": "A"
+    "Rarity": null
   },
   {
     "ID": 33225,
-    "Name": "Death",
+    "Name": "Death Trooper Helmet",
     "Type": "Hat",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33226,
-    "Name": "Death",
+    "Name": "Death Trooper Nightvision",
     "Type": "Glasses",
-    "Rarity": "Rare",
-    "Description": "Brightness"
+    "Rarity": "Rare"
   },
   {
     "ID": 33227,
-    "Name": "Darth",
+    "Name": "Darth Malgus' Mask",
     "Type": "Hat",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33228,
-    "Name": "Darth",
+    "Name": "Darth Malgus' Mask",
     "Type": "Hat",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33229,
-    "Name": "Ezra's",
+    "Name": "Ezra's Hair",
     "Type": "Hat",
-    "Rarity": "Rare",
-    "Description": "Shaggy"
+    "Rarity": "Rare"
   },
   {
     "ID": 33230,
-    "Name": "Inferno",
+    "Name": "Inferno Squad Helmet",
     "Type": "Hat",
-    "Rarity": "Uncommon",
-    "Description": "A"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33231,
-    "Name": "Boba",
+    "Name": "Boba Fett's Helmet",
     "Type": "Hat",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33232,
-    "Name": "Durge's",
+    "Name": "Durge's Helmet",
     "Type": "Hat",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33233,
-    "Name": "Pre",
+    "Name": "Pre Vizsla's Helmet",
     "Type": "Hat",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33234,
-    "Name": "Endor",
+    "Name": "Endor Rebel Commando Helmet",
     "Type": "Hat",
-    "Rarity": null,
-    "Description": "Camouflage"
+    "Rarity": null
   },
   {
     "ID": 33235,
-    "Name": "Rebel",
+    "Name": "Rebel Goggles",
     "Type": "Glasses",
-    "Rarity": "Rare",
-    "Description": "Goggles"
+    "Rarity": "Rare"
   },
   {
     "ID": 33236,
-    "Name": "Clan",
+    "Name": "Clan Wren Helmet",
     "Type": "Hat",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33237,
-    "Name": "Dark",
+    "Name": "Dark Wookie head",
     "Type": "Hat",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33238,
-    "Name": "Wookie",
+    "Name": "Wookie Head",
     "Type": "Hat",
-    "Rarity": "Uncommon",
-    "Description": "A"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33239,
-    "Name": "Jaster",
+    "Name": "Jaster Mereel's Helmet",
     "Type": "Hat",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33240,
-    "Name": "Darth",
+    "Name": "Darth Bane Helmet",
     "Type": "Hat",
-    "Rarity": "Rare",
-    "Description": "An"
+    "Rarity": "Rare"
   },
   {
     "ID": 33245,
-    "Name": "Kanan's",
+    "Name": "Kanan's Hair",
     "Type": "Hat",
-    "Rarity": "Legendary",
-    "Description": "Long"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33246,
-    "Name": "Kanan's",
+    "Name": "Kanan's Mask",
     "Type": "Mask",
-    "Rarity": "Legendary",
-    "Description": "A"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33300,
-    "Name": "Han",
+    "Name": "Han Solo's Belt",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "The"
+    "Rarity": "Epic"
   },
   {
     "ID": 33301,
-    "Name": "Imperial",
+    "Name": "Imperial Belt",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33302,
-    "Name": "Leia's",
+    "Name": "Leia's Skirt",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33303,
-    "Name": "Luke",
+    "Name": "Luke Skywalker's Belt",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33304,
-    "Name": "Obi-Wan",
+    "Name": "Obi-Wan Kenobi's Belt",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33305,
-    "Name": "Rebel",
+    "Name": "Rebel Pilot Belt",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33306,
-    "Name": "Rebel",
+    "Name": "Rebel Desert Backpack",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33307,
-    "Name": "Stormtrooper",
+    "Name": "Stormtrooper Commander pauldron",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "An"
+    "Rarity": "Epic"
   },
   {
     "ID": 33307,
-    "Name": "Storm",
+    "Name": "Storm Trooper Pauldron",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33308,
-    "Name": "Darth",
+    "Name": "Darth Vader's Belt",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33309,
-    "Name": "Rebel",
+    "Name": "Rebel Commando Cover",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "Leather"
+    "Rarity": "Epic"
   },
   {
     "ID": 33310,
-    "Name": "Storm",
+    "Name": "Storm Trooper Pauldron",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33311,
-    "Name": "Storm",
+    "Name": "Storm Trooper Pauldron",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33312,
-    "Name": "Storm",
+    "Name": "Storm Trooper Pauldron",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33313,
-    "Name": "Storm",
+    "Name": "Storm Trooper Pauldron",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33314,
-    "Name": "Storm",
+    "Name": "Storm Trooper Pauldron",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33315,
-    "Name": "Storm",
+    "Name": "Storm Trooper Pauldron",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33316,
-    "Name": "Storm",
+    "Name": "Storm Trooper Pauldron",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33317,
-    "Name": "Storm",
+    "Name": "Storm Trooper Pauldron",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33318,
-    "Name": "Storm",
+    "Name": "Storm Trooper Pauldron",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33319,
-    "Name": "Tar",
+    "Name": "Tar Vizsla's belt",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33319,
-    "Name": "Squad",
+    "Name": "Squad Leader Skirt",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33320,
-    "Name": "Death",
+    "Name": "Death Trooper Chest Carrier",
     "Type": "Backpack",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33321,
-    "Name": "Rebel",
+    "Name": "Rebel Scarif Belt",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33322,
-    "Name": "Rebel",
+    "Name": "Rebel Jetpack",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33323,
-    "Name": "R717",
+    "Name": "R717 Refrigerant Tank",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33324,
-    "Name": "Jyn",
+    "Name": "Jyn Erso's belt",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33325,
-    "Name": "Anakin's",
+    "Name": "Anakin's robe",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33326,
-    "Name": "Darth",
+    "Name": "Darth Malgus' Belt",
     "Type": "Backpack",
-    "Rarity": "Rare",
-    "Description": "An"
+    "Rarity": "Rare"
   },
   {
     "ID": 33327,
-    "Name": "Ezra's",
+    "Name": "Ezra's Backpack",
     "Type": "Backpack",
-    "Rarity": "Rare",
-    "Description": "Who"
+    "Rarity": "Rare"
   },
   {
     "ID": 33328,
-    "Name": "Boba's",
+    "Name": "Boba's Jetpack",
     "Type": "Backpack",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33329,
-    "Name": "Durge's",
+    "Name": "Durge's Jetpack",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33330,
-    "Name": "Pre",
+    "Name": "Pre Vizsla's Jetpack",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33331,
     "Name": "Jetpack",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33332,
-    "Name": "Clan",
+    "Name": "Clan Wren Jetpack",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33333,
-    "Name": "Jaster's",
+    "Name": "Jaster's Cape",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33334,
-    "Name": "Jaster's",
+    "Name": "Jaster's Jetpack",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33335,
-    "Name": "Darth",
+    "Name": "Darth Banes Cape",
     "Type": "Backpack",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33400,
-    "Name": "Chewbaccas",
+    "Name": "Chewbaccas Bandolier",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33401,
-    "Name": "Hans",
+    "Name": "Hans Vest",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Bullet"
+    "Rarity": "Rare"
   },
   {
     "ID": 33402,
-    "Name": "Imperial",
+    "Name": "Imperial Pilot Vest",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33403,
-    "Name": "Hans",
+    "Name": "Hans Vest",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Bullet"
+    "Rarity": "Rare"
   },
   {
     "ID": 33404,
-    "Name": "Obi",
+    "Name": "Obi Wans Robe",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33405,
-    "Name": "Hans",
+    "Name": "Hans Vest",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Bullet"
+    "Rarity": "Rare"
   },
   {
     "ID": 33406,
-    "Name": "Rebel",
+    "Name": "Rebel Pilot Vest",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33407,
-    "Name": "Rebel",
+    "Name": "Rebel Vest",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Vest"
+    "Rarity": "Rare"
   },
   {
     "ID": 33408,
-    "Name": "Stormtrooper",
+    "Name": "Stormtrooper Armor",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Good"
+    "Rarity": "Rare"
   },
   {
     "ID": 33409,
-    "Name": "Tar",
+    "Name": "Tar Vizla's Armor",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "An"
+    "Rarity": "Rare"
   },
   {
     "ID": 33410,
-    "Name": "Darth",
+    "Name": "Darth Vaders Armor",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Sith"
+    "Rarity": "Rare"
   },
   {
     "ID": 33411,
-    "Name": "Captain",
+    "Name": "Captain Rank Pin",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Rank"
+    "Rarity": "Rare"
   },
   {
     "ID": 33412,
-    "Name": "Midshipman",
+    "Name": "Midshipman Rank Pin",
     "Type": "Vest",
-    "Rarity": "Uncommon",
-    "Description": "Rank"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33413,
-    "Name": "Sub-Lieutenant",
+    "Name": "Sub-Lieutenant Rank Pin",
     "Type": "Vest",
-    "Rarity": "Uncommon",
-    "Description": "Rank"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33414,
-    "Name": "Lieutenant",
+    "Name": "Lieutenant Rank Pin",
     "Type": "Vest",
-    "Rarity": "Uncommon",
-    "Description": "Rank"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33415,
-    "Name": "Lieutenant",
+    "Name": "Lieutenant Commander Rank Pin",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Rank"
+    "Rarity": "Rare"
   },
   {
     "ID": 33416,
-    "Name": "Commander",
+    "Name": "Commander Rank Pin",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Rank"
+    "Rarity": "Rare"
   },
   {
     "ID": 33417,
-    "Name": "Commodore",
+    "Name": "Commodore Rank Pin",
     "Type": "Vest",
-    "Rarity": "Epic",
-    "Description": "Rank"
+    "Rarity": "Epic"
   },
   {
     "ID": 33418,
-    "Name": "Rear",
+    "Name": "Rear Admiral Rank Pin",
     "Type": "Vest",
-    "Rarity": "Epic",
-    "Description": "Rank"
+    "Rarity": "Epic"
   },
   {
     "ID": 33419,
-    "Name": "Vice",
+    "Name": "Vice Admiral Rank Pin",
     "Type": "Vest",
-    "Rarity": "Epic",
-    "Description": "Rank"
+    "Rarity": "Epic"
   },
   {
     "ID": 33420,
-    "Name": "Admiral",
+    "Name": "Admiral Rank Pin",
     "Type": "Vest",
-    "Rarity": "Legendary",
-    "Description": "Rank"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33421,
-    "Name": "Fleet",
+    "Name": "Fleet Admiral Rank Pin",
     "Type": "Vest",
-    "Rarity": "Legendary",
-    "Description": "Rank"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33422,
-    "Name": "High",
+    "Name": "High Admiral Rank Pin",
     "Type": "Vest",
-    "Rarity": "Legendary",
-    "Description": "Rank"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33423,
-    "Name": "Grand",
+    "Name": "Grand Moff Rank Insignia",
     "Type": "Vest",
-    "Rarity": "Legendary",
-    "Description": "Rank"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33424,
-    "Name": "High",
+    "Name": "High General Rank Insignia",
     "Type": "Vest",
-    "Rarity": "Legendary",
-    "Description": "Rank"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33425,
-    "Name": "General",
+    "Name": "General Rank Insignia",
     "Type": "Vest",
-    "Rarity": "Legendary",
-    "Description": "Rank"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33426,
-    "Name": "Major",
+    "Name": "Major General Rank Insignia",
     "Type": "Vest",
-    "Rarity": "Legendary",
-    "Description": "Rank"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33427,
-    "Name": "High",
+    "Name": "High Colonel Rank Insignia",
     "Type": "Vest",
-    "Rarity": "Epic",
-    "Description": "Rank"
+    "Rarity": "Epic"
   },
   {
     "ID": 33428,
-    "Name": "Colonel",
+    "Name": "Colonel Rank Insignia",
     "Type": "Vest",
-    "Rarity": "Epic",
-    "Description": "Rank"
+    "Rarity": "Epic"
   },
   {
     "ID": 33429,
-    "Name": "Lieutenant",
+    "Name": "Lieutenant Colonel Rank Insignia",
     "Type": "Vest",
-    "Rarity": "Epic",
-    "Description": "Rank"
+    "Rarity": "Epic"
   },
   {
     "ID": 33430,
-    "Name": "Major",
+    "Name": "Major Rank Insignia",
     "Type": "Vest",
-    "Rarity": "Epic",
-    "Description": "Rank"
+    "Rarity": "Epic"
   },
   {
     "ID": 33431,
-    "Name": "Captain",
+    "Name": "Captain Rank Insignia",
     "Type": "Vest",
-    "Rarity": "Epic",
-    "Description": "Rank"
+    "Rarity": "Epic"
   },
   {
     "ID": 33432,
-    "Name": "Lieutenant",
+    "Name": "Lieutenant Rank Insignia",
     "Type": "Vest",
-    "Rarity": "Epic",
-    "Description": "Rank"
+    "Rarity": "Epic"
   },
   {
     "ID": 33433,
-    "Name": "Second",
+    "Name": "Second Lieutenant Rank Insignia",
     "Type": "Vest",
-    "Rarity": "Epic",
-    "Description": "Rank"
+    "Rarity": "Epic"
   },
   {
     "ID": 33434,
-    "Name": "Brigadier",
+    "Name": "Brigadier Rank Insignia",
     "Type": "Vest",
-    "Rarity": "Epic",
-    "Description": "Rank"
+    "Rarity": "Epic"
   },
   {
     "ID": 33435,
-    "Name": "Master",
+    "Name": "Master Sergeant Insignia",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Rank"
+    "Rarity": "Rare"
   },
   {
     "ID": 33436,
-    "Name": "Staff",
+    "Name": "Staff Sergeant Insignia",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Rank"
+    "Rarity": "Rare"
   },
   {
     "ID": 33437,
-    "Name": "Sergeant",
+    "Name": "Sergeant Insignia",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Rank"
+    "Rarity": "Rare"
   },
   {
     "ID": 33438,
-    "Name": "Corporal",
+    "Name": "Corporal Insignia",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Rank"
+    "Rarity": "Rare"
   },
   {
     "ID": 33439,
-    "Name": "Lance",
+    "Name": "Lance Corporal Insignia",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Rank"
+    "Rarity": "Rare"
   },
   {
     "ID": 33440,
-    "Name": "Private",
+    "Name": "Private Insignia",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Rank"
+    "Rarity": "Rare"
   },
   {
     "ID": 33441,
-    "Name": "Surface",
+    "Name": "Surface Marshal Rank Insignia",
     "Type": "Vest",
-    "Rarity": "Legendary",
-    "Description": "Rank"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33442,
-    "Name": "Scout",
+    "Name": "Scout Trooper Vest",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33445,
-    "Name": "Rebel",
+    "Name": "Rebel Commando Chest Carrier",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Heavy"
+    "Rarity": "Rare"
   },
   {
     "ID": 33446,
-    "Name": "Rebel",
+    "Name": "Rebel Y-Wing Pilot Flight Vest",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Flight"
+    "Rarity": "Rare"
   },
   {
     "ID": 33447,
-    "Name": "Hero",
+    "Name": "Hero Vest",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33448,
-    "Name": "Death",
+    "Name": "Death Trooper armor",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Strong,"
+    "Rarity": "Rare"
   },
   {
     "ID": 33449,
-    "Name": "Bistan's",
+    "Name": "Bistan's Harness",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33450,
-    "Name": "Rebel",
+    "Name": "Rebel Scarif Vest",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33451,
-    "Name": "Baze's",
+    "Name": "Baze's Armor",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Tough,"
+    "Rarity": "Rare"
   },
   {
     "ID": 33452,
-    "Name": "Shoretrooper",
+    "Name": "Shoretrooper Squad Commander Armor",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33453,
-    "Name": "Shoretrooper",
+    "Name": "Shoretrooper Armor",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33454,
-    "Name": "Jyn's",
+    "Name": "Jyn's Vest",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33455,
-    "Name": "Krennic's",
+    "Name": "Krennic's Cape",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33456,
-    "Name": "Shoretrooper",
+    "Name": "Shoretrooper Captain Armor",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33457,
-    "Name": "Anakin's",
+    "Name": "Anakin's Belt",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33458,
-    "Name": "Anakin's",
+    "Name": "Anakin's Belt",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33459,
-    "Name": "Darth",
+    "Name": "Darth Malgus' Armor",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Ancient"
+    "Rarity": "Rare"
   },
   {
     "ID": 33460,
-    "Name": "Ezra's",
+    "Name": "Ezra's Vest",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33461,
-    "Name": "Inferno",
+    "Name": "Inferno Squad Vest",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Adapative"
+    "Rarity": "Rare"
   },
   {
     "ID": 33462,
-    "Name": "Boba",
+    "Name": "Boba Fett's Armor",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Mandalorian"
+    "Rarity": "Rare"
   },
   {
     "ID": 33463,
-    "Name": "Durge's",
+    "Name": "Durge's Armor",
     "Type": "Vest",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33464,
-    "Name": "Pre",
+    "Name": "Pre Vizsla's Armor",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Traditional"
+    "Rarity": "Rare"
   },
   {
     "ID": 33465,
-    "Name": "Clan",
+    "Name": "Clan Wren Armor",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Mandalorian"
+    "Rarity": "Rare"
   },
   {
     "ID": 33466,
-    "Name": "Wookie",
+    "Name": "Wookie Chest Carrier",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33467,
-    "Name": "Wookie",
+    "Name": "Wookie Vest",
     "Type": "Vest",
-    "Rarity": "Uncommon",
-    "Description": "Wookie"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33468,
-    "Name": "Jaster's",
+    "Name": "Jaster's Armor",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Traditional"
+    "Rarity": "Rare"
   },
   {
     "ID": 33469,
-    "Name": "Darth",
+    "Name": "Darth Banes Armor",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33474,
-    "Name": "Kanan's",
+    "Name": "Kanan's Belt",
     "Type": "Vest",
-    "Rarity": "Legendary",
-    "Description": "A"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33500,
-    "Name": "Blue",
+    "Name": "Blue Squadron Bottoms",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Worn"
+    "Rarity": "Rare"
   },
   {
     "ID": 33501,
-    "Name": "Chewbacca's",
+    "Name": "Chewbacca's Bottom",
     "Type": "Pants",
-    "Rarity": "Legendary",
-    "Description": "Wookie"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33502,
-    "Name": "Officer",
+    "Name": "Officer bottoms",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Imperial"
+    "Rarity": "Rare"
   },
   {
     "ID": 33503,
-    "Name": "Han's",
+    "Name": "Han's Pants",
     "Type": "Pants",
-    "Rarity": "Legendary",
-    "Description": "A"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33504,
-    "Name": "Imperial",
+    "Name": "Imperial Interceptor Pilot Bottom",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Suit"
+    "Rarity": "Rare"
   },
   {
     "ID": 33505,
-    "Name": "Imperial",
+    "Name": "Imperial Pilot Bottom",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Suit"
+    "Rarity": "Rare"
   },
   {
     "ID": 33506,
-    "Name": "Princess",
+    "Name": "Princess Leia's dress bottom",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Fine"
+    "Rarity": "Rare"
   },
   {
     "ID": 33507,
-    "Name": "Luke's",
+    "Name": "Luke's pants",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Light"
+    "Rarity": "Rare"
   },
   {
     "ID": 33508,
-    "Name": "Obi-Wan",
+    "Name": "Obi-Wan Kenobi's Robes",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Robes"
+    "Rarity": "Rare"
   },
   {
     "ID": 33509,
-    "Name": "Rebel",
+    "Name": "Rebel Desert Pants",
     "Type": "Pants",
-    "Rarity": "Uncommon",
-    "Description": "Worn"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33510,
-    "Name": "Rebel",
+    "Name": "Rebel Captain pants.",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33511,
-    "Name": "Rebel",
+    "Name": "Rebel Pilot Bottom",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Suit"
+    "Rarity": "Rare"
   },
   {
     "ID": 33512,
-    "Name": "Stormtrooper",
+    "Name": "Stormtrooper Greaves",
     "Type": "Pants",
-    "Rarity": null,
-    "Description": "Plastisteel"
+    "Rarity": null
   },
   {
     "ID": 33513,
-    "Name": "Rebel",
+    "Name": "Rebel Pants",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33514,
-    "Name": "Tar",
+    "Name": "Tar Vizsla's Greaves",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Ancient"
+    "Rarity": "Rare"
   },
   {
     "ID": 33515,
-    "Name": "Darth",
+    "Name": "Darth Vader's suit bottoms",
     "Type": "Pants",
-    "Rarity": "Legendary",
-    "Description": "Black"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33516,
-    "Name": "Imperial",
+    "Name": "Imperial Interceptor Pilot Bottom",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Suit"
+    "Rarity": "Rare"
   },
   {
     "ID": 33517,
-    "Name": "Scout",
+    "Name": "Scout Trooper bottom.",
     "Type": "Pants",
-    "Rarity": null,
-    "Description": "Plastisteel"
+    "Rarity": null
   },
   {
     "ID": 33518,
-    "Name": "Rebel",
+    "Name": "Rebel Y-Wing Pilot Bottom",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Suit"
+    "Rarity": "Rare"
   },
   {
     "ID": 33519,
-    "Name": "Rebel",
+    "Name": "Rebel Commando Bottom",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Durable"
+    "Rarity": "Rare"
   },
   {
     "ID": 33520,
-    "Name": "Shoretrooper",
+    "Name": "Shoretrooper Bottom",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Armored"
+    "Rarity": "Rare"
   },
   {
     "ID": 33521,
-    "Name": "Scarif",
+    "Name": "Scarif Rebel Marine Bottoms",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Tan"
+    "Rarity": "Rare"
   },
   {
     "ID": 33522,
-    "Name": "Scarif",
+    "Name": "Scarif Rebel Marine Bottoms",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Brown"
+    "Rarity": "Rare"
   },
   {
     "ID": 33523,
-    "Name": "Scarif",
+    "Name": "Scarif Rebel Marine Bottoms",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Tan"
+    "Rarity": "Rare"
   },
   {
     "ID": 33524,
-    "Name": "Baze",
+    "Name": "Baze Malbus' Suit Bottoms",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Tan"
+    "Rarity": "Rare"
   },
   {
     "ID": 33525,
-    "Name": "Cassian",
+    "Name": "Cassian Andor's Bottoms",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Gray"
+    "Rarity": "Rare"
   },
   {
     "ID": 33526,
-    "Name": "Director",
+    "Name": "Director Krenni's Pants",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Black,"
+    "Rarity": "Rare"
   },
   {
     "ID": 33527,
-    "Name": "Jyn",
+    "Name": "Jyn Erso's Pants",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Dingy"
+    "Rarity": "Rare"
   },
   {
     "ID": 33528,
-    "Name": "Bistan's",
+    "Name": "Bistan's Flight Suit Bottom",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Flight"
+    "Rarity": "Rare"
   },
   {
     "ID": 33529,
-    "Name": "Deathtrooper",
+    "Name": "Deathtrooper Bottoms",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Armored"
+    "Rarity": "Rare"
   },
   {
     "ID": 33530,
-    "Name": "Darth",
+    "Name": "Darth Malgus' Bottom",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Armored"
+    "Rarity": "Rare"
   },
   {
     "ID": 33531,
-    "Name": "Ezra",
+    "Name": "Ezra Bridger's Bottoms",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Orange"
+    "Rarity": "Rare"
   },
   {
     "ID": 33532,
-    "Name": "Boba",
+    "Name": "Boba Fett's Pants",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Tan"
+    "Rarity": "Rare"
   },
   {
     "ID": 33533,
-    "Name": "Durge's",
+    "Name": "Durge's Greaves",
     "Type": "Pants",
-    "Rarity": "Epic",
-    "Description": "An"
+    "Rarity": "Epic"
   },
   {
     "ID": 33534,
-    "Name": "Pre",
+    "Name": "Pre Vizsla's Pants",
     "Type": "Pants",
-    "Rarity": "Epic",
-    "Description": "Pants"
+    "Rarity": "Epic"
   },
   {
     "ID": 33535,
-    "Name": "Blue",
+    "Name": "Blue Squad Infantry Bottoms",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Dark"
+    "Rarity": "Rare"
   },
   {
     "ID": 33536,
-    "Name": "Clan",
+    "Name": "Clan Wren Bottoms",
     "Type": "Pants",
-    "Rarity": "Epic",
-    "Description": "An"
+    "Rarity": "Epic"
   },
   {
     "ID": 33537,
-    "Name": "Dark",
+    "Name": "Dark Wookie Bottoms",
     "Type": "Pants",
-    "Rarity": null,
-    "Description": "Pants"
+    "Rarity": null
   },
   {
     "ID": 33538,
-    "Name": "Wookie",
+    "Name": "Wookie Bottom's",
     "Type": "Pants",
-    "Rarity": "Uncommon",
-    "Description": "Wookie"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33539,
-    "Name": "Durge's",
+    "Name": "Durge's Greaves",
     "Type": "Pants",
-    "Rarity": "Epic",
-    "Description": "An"
+    "Rarity": "Epic"
   },
   {
     "ID": 33540,
-    "Name": "Darth",
+    "Name": "Darth Bane Bottom",
     "Type": "Pants",
-    "Rarity": "Epic",
-    "Description": "Black"
+    "Rarity": "Epic"
   },
   {
     "ID": 33545,
-    "Name": "Kanan's",
+    "Name": "Kanan's Pants",
     "Type": "Pants",
-    "Rarity": "Legendary",
-    "Description": "Gray"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33560,
-    "Name": "Anakin",
+    "Name": "Anakin Skywalker's Bottoms",
     "Type": "Pants",
-    "Rarity": "Rare",
-    "Description": "Brown"
+    "Rarity": "Rare"
   },
   {
     "ID": 33600,
-    "Name": "Blue",
+    "Name": "Blue Squadron Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Worn"
+    "Rarity": "Rare"
   },
   {
     "ID": 33601,
-    "Name": "Chewbacca",
+    "Name": "Chewbacca Top",
     "Type": "Shirt",
-    "Rarity": "Uncommon",
-    "Description": "Wookie"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33602,
-    "Name": "Officer",
+    "Name": "Officer top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Worn"
+    "Rarity": "Rare"
   },
   {
     "ID": 33603,
-    "Name": "Han's",
+    "Name": "Han's Top",
     "Type": "Shirt",
-    "Rarity": "Uncommon",
-    "Description": "A"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33604,
-    "Name": "Imperial",
+    "Name": "Imperial Interceptor Pilot Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33605,
-    "Name": "Imperial",
+    "Name": "Imperial Pilot Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33606,
-    "Name": "Princess",
+    "Name": "Princess Leia's dress top.",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Fine"
+    "Rarity": "Rare"
   },
   {
     "ID": 33607,
-    "Name": "Luke's",
+    "Name": "Luke's shirt",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33608,
-    "Name": "Obi-Wan",
+    "Name": "Obi-Wan Kenobi's Robes",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Robes"
+    "Rarity": "Rare"
   },
   {
     "ID": 33609,
-    "Name": "Obi-Wan",
+    "Name": "Obi-Wan Kenobi's Robes",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Robes"
+    "Rarity": "Rare"
   },
   {
     "ID": 33610,
-    "Name": "Rebel",
+    "Name": "Rebel Captain Top.",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Top"
+    "Rarity": "Rare"
   },
   {
     "ID": 33611,
-    "Name": "Rebel",
+    "Name": "Rebel Pilot Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33612,
-    "Name": "Stormtrooper",
+    "Name": "Stormtrooper Shirt",
     "Type": "Shirt",
-    "Rarity": "Uncommon",
-    "Description": "Worn"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33613,
-    "Name": "Rebel",
+    "Name": "Rebel Shirt",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33614,
-    "Name": "Tar",
+    "Name": "Tar Vizsla's shirt",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33615,
-    "Name": "Darth",
+    "Name": "Darth Vader's suit top",
     "Type": "Shirt",
-    "Rarity": "Legendary",
-    "Description": "A"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33616,
-    "Name": "Midshipman",
+    "Name": "Midshipman Desert Top",
     "Type": "Shirt",
-    "Rarity": "Uncommon",
-    "Description": "Worn"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33617,
-    "Name": "Captain",
+    "Name": "Captain Desert Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Worn"
+    "Rarity": "Rare"
   },
   {
     "ID": 33618,
-    "Name": "Sub-Lieutenant",
+    "Name": "Sub-Lieutenant Desert Top",
     "Type": "Shirt",
-    "Rarity": "Uncommon",
-    "Description": "Worn"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33619,
-    "Name": "Lieutenant",
+    "Name": "Lieutenant Desert Top",
     "Type": "Shirt",
-    "Rarity": "Uncommon",
-    "Description": "Worn"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33620,
-    "Name": "Lieutenant",
+    "Name": "Lieutenant Commander Desert Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Worn"
+    "Rarity": "Rare"
   },
   {
     "ID": 33621,
-    "Name": "Commander",
+    "Name": "Commander Desert Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Worn"
+    "Rarity": "Rare"
   },
   {
     "ID": 33622,
-    "Name": "Commodore",
+    "Name": "Commodore Desert Top",
     "Type": "Shirt",
-    "Rarity": "Epic",
-    "Description": "Worn"
+    "Rarity": "Epic"
   },
   {
     "ID": 33623,
-    "Name": "Rear",
+    "Name": "Rear Admiral Desert Top",
     "Type": "Shirt",
-    "Rarity": "Epic",
-    "Description": "Worn"
+    "Rarity": "Epic"
   },
   {
     "ID": 33624,
-    "Name": "Vice",
+    "Name": "Vice Admiral Desert Top",
     "Type": "Shirt",
-    "Rarity": "Epic",
-    "Description": "Worn"
+    "Rarity": "Epic"
   },
   {
     "ID": 33625,
-    "Name": "Admiral",
+    "Name": "Admiral Desert Top",
     "Type": "Shirt",
-    "Rarity": "Legendary",
-    "Description": "Worn"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33626,
-    "Name": "Fleet",
+    "Name": "Fleet Admiral Desert Top",
     "Type": "Shirt",
-    "Rarity": "Legendary",
-    "Description": "Worn"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33627,
-    "Name": "High",
+    "Name": "High Admiral Desert Top",
     "Type": "Shirt",
-    "Rarity": "Legendary",
-    "Description": "Worn"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33628,
-    "Name": "Imperial",
+    "Name": "Imperial Interceptor Pilot Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33629,
-    "Name": "Scout",
+    "Name": "Scout Trooper Top",
     "Type": "Shirt",
-    "Rarity": "Uncommon",
-    "Description": "Light"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33630,
-    "Name": "Rebel",
+    "Name": "Rebel Y-Wing Pilot Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33631,
-    "Name": "Rebel",
+    "Name": "Rebel Commando Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33632,
-    "Name": "Deathtrooper",
+    "Name": "Deathtrooper Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33633,
-    "Name": "Bistan's",
+    "Name": "Bistan's Flight Suit Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Flight"
+    "Rarity": "Rare"
   },
   {
     "ID": 33634,
-    "Name": "Shoretrooper",
+    "Name": "Shoretrooper Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Armored"
+    "Rarity": "Rare"
   },
   {
     "ID": 33635,
-    "Name": "Shoretrooper",
+    "Name": "Shoretrooper Captain Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Armored"
+    "Rarity": "Rare"
   },
   {
     "ID": 33636,
-    "Name": "Scarif",
+    "Name": "Scarif Rebel Marine Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Water"
+    "Rarity": "Rare"
   },
   {
     "ID": 33637,
-    "Name": "Scarif",
+    "Name": "Scarif Rebel Marine Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Water"
+    "Rarity": "Rare"
   },
   {
     "ID": 33638,
-    "Name": "Scarif",
+    "Name": "Scarif Rebel Marine Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Water"
+    "Rarity": "Rare"
   },
   {
     "ID": 33639,
-    "Name": "Baze",
+    "Name": "Baze Malbus' Suit Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Tan"
+    "Rarity": "Rare"
   },
   {
     "ID": 33640,
-    "Name": "Shoretrooper",
+    "Name": "Shoretrooper Leader Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Armored"
+    "Rarity": "Rare"
   },
   {
     "ID": 33641,
-    "Name": "Blue",
+    "Name": "Blue Squad Infantry Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Blue"
+    "Rarity": "Rare"
   },
   {
     "ID": 33642,
-    "Name": "Cassian",
+    "Name": "Cassian Andor's Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Tan"
+    "Rarity": "Rare"
   },
   {
     "ID": 33643,
-    "Name": "Director",
+    "Name": "Director Krennic's Shirt",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "White"
+    "Rarity": "Rare"
   },
   {
     "ID": 33644,
-    "Name": "Jyn",
+    "Name": "Jyn Erso Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Blue,"
+    "Rarity": "Rare"
   },
   {
     "ID": 33645,
-    "Name": "Anakin",
+    "Name": "Anakin Skywalker's Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Brown"
+    "Rarity": "Rare"
   },
   {
     "ID": 33646,
-    "Name": "Anakin",
+    "Name": "Anakin Skywalker's Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Brown"
+    "Rarity": "Rare"
   },
   {
     "ID": 33647,
-    "Name": "Darth",
+    "Name": "Darth Malgus' Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Armored"
+    "Rarity": "Rare"
   },
   {
     "ID": 33648,
-    "Name": "Ezra",
+    "Name": "Ezra Bridger's Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Orange"
+    "Rarity": "Rare"
   },
   {
     "ID": 33649,
-    "Name": "Boba",
+    "Name": "Boba Fett's Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "An"
+    "Rarity": "Rare"
   },
   {
     "ID": 33650,
-    "Name": "Durge's",
+    "Name": "Durge's Top",
     "Type": "Shirt",
-    "Rarity": "Epic",
-    "Description": "An"
+    "Rarity": "Epic"
   },
   {
     "ID": 33651,
-    "Name": "Pre",
+    "Name": "Pre Vizsla's Top",
     "Type": "Shirt",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33652,
-    "Name": "Clan",
+    "Name": "Clan Wren Top",
     "Type": "Shirt",
-    "Rarity": "Epic",
-    "Description": "An"
+    "Rarity": "Epic"
   },
   {
     "ID": 33653,
-    "Name": "Dark",
+    "Name": "Dark Wookie pelt",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33654,
-    "Name": "Wookie",
+    "Name": "Wookie Top",
     "Type": "Shirt",
-    "Rarity": "Uncommon",
-    "Description": "Wookie"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33655,
-    "Name": "Durge's",
+    "Name": "Durge's Top",
     "Type": "Shirt",
-    "Rarity": "Epic",
-    "Description": "An"
+    "Rarity": "Epic"
   },
   {
     "ID": 33656,
-    "Name": "Darth",
+    "Name": "Darth Bane Top",
     "Type": "Shirt",
-    "Rarity": "Epic",
-    "Description": "Black"
+    "Rarity": "Epic"
   },
   {
     "ID": 33658,
-    "Name": "Rebel",
+    "Name": "Rebel Shirt",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33659,
-    "Name": "Rebel",
+    "Name": "Rebel Shirt",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33660,
-    "Name": "Rebel",
+    "Name": "Rebel Shirt",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33661,
-    "Name": "Rebel",
+    "Name": "Rebel Shirt",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33662,
-    "Name": "Rebel",
+    "Name": "Rebel Shirt",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33667,
-    "Name": "Kanan's",
+    "Name": "Kanan's Top",
     "Type": "Shirt",
-    "Rarity": "Legendary",
-    "Description": "A"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33700,
-    "Name": "A280C",
+    "Name": "A280C Optics",
     "Type": "Sight",
-    "Rarity": "Uncommon",
-    "Description": "Short-Medium"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33701,
-    "Name": "Bowcaster",
+    "Name": "Bowcaster Optics",
     "Type": "Sight",
-    "Rarity": "Uncommon",
-    "Description": "Dual"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33702,
-    "Name": "Scout",
+    "Name": "Scout Pistol Optics",
     "Type": "Sight",
-    "Rarity": "Uncommon",
-    "Description": "Rail"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33703,
-    "Name": "Relby-V10",
+    "Name": "Relby-V10 Optics",
     "Type": "Sight",
-    "Rarity": "Uncommon",
-    "Description": "Rail"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33704,
     "Name": "DL44",
     "Type": "Sight",
-    "Rarity": "Uncommon",
-    "Description": "Weak"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33705,
-    "Name": "DH-17",
+    "Name": "DH-17 Optics",
     "Type": "Sight",
-    "Rarity": "Uncommon",
-    "Description": "Short-Medium"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33706,
-    "Name": "4x",
+    "Name": "4x Scope",
     "Type": "Sight",
-    "Rarity": "Rare",
-    "Description": "Rail"
+    "Rarity": "Rare"
   },
   {
     "ID": 33707,
-    "Name": "4x",
+    "Name": "4x Scope",
     "Type": "Sight",
-    "Rarity": "Rare",
-    "Description": "Rail"
+    "Rarity": "Rare"
   },
   {
     "ID": 33708,
-    "Name": "T-21",
+    "Name": "T-21 Iron Sights",
     "Type": "Sight",
-    "Rarity": null,
-    "Description": "Rail"
+    "Rarity": null
   },
   {
     "ID": 33709,
-    "Name": "DH-17",
+    "Name": "DH-17 Optics",
     "Type": "Sight",
-    "Rarity": "Uncommon",
-    "Description": "Short-Medium"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33710,
-    "Name": "DLT-20A",
+    "Name": "DLT-20A Optics",
     "Type": "Sight",
-    "Rarity": "Uncommon",
-    "Description": "Medium-Long"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33711,
-    "Name": "E-22",
+    "Name": "E-22 Optics",
     "Type": "Sight",
-    "Rarity": "Uncommon",
-    "Description": "Short-Medium"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33712,
-    "Name": "DH-17",
+    "Name": "DH-17 Optics",
     "Type": "Sight",
-    "Rarity": "Uncommon",
-    "Description": "Short-Medium"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33713,
-    "Name": "DT-29",
+    "Name": "DT-29 Scope",
     "Type": "Sight",
-    "Rarity": "Uncommon",
-    "Description": "Optics"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33714,
-    "Name": "Heavy",
+    "Name": "Heavy Repeater Cannon Optics",
     "Type": "Sight",
-    "Rarity": "Uncommon",
-    "Description": "High"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33715,
-    "Name": "ASeries",
+    "Name": "ASeries Optics",
     "Type": "Sight",
-    "Rarity": "Uncommon",
-    "Description": "Short-Medium"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33716,
-    "Name": "DLT-19x",
+    "Name": "DLT-19x Optics",
     "Type": "Sight",
-    "Rarity": "Uncommon",
-    "Description": "Long"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33800,
-    "Name": "A280C",
+    "Name": "A280C Blaster Cell",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "High"
+    "Rarity": "Epic"
   },
   {
     "ID": 33801,
-    "Name": "SFS",
+    "Name": "SFS L-s1 Laser Cannon Cell",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "High"
+    "Rarity": "Epic"
   },
   {
     "ID": 33802,
-    "Name": "SW-4",
+    "Name": "SW-4 Ion Cannon Cell",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "High"
+    "Rarity": "Epic"
   },
   {
     "ID": 33803,
-    "Name": "Bowcaster",
+    "Name": "Bowcaster Energy Cells",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "Ionized"
+    "Rarity": "Epic"
   },
   {
     "ID": 33804,
-    "Name": "TX-225",
+    "Name": "TX-225 Blaster Cannon cell",
     "Type": "Magazine",
-    "Rarity": "Rare",
-    "Description": "High"
+    "Rarity": "Rare"
   },
   {
     "ID": 33805,
-    "Name": "DH-17",
+    "Name": "DH-17 Energy Cell",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "Compact"
+    "Rarity": "Epic"
   },
   {
     "ID": 33806,
-    "Name": "DL44",
+    "Name": "DL44 Energy Cell",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "Compressed"
+    "Rarity": "Epic"
   },
   {
     "ID": 33807,
-    "Name": "DLT-19",
+    "Name": "DLT-19 Magazine",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "High"
+    "Rarity": "Epic"
   },
   {
     "ID": 33808,
-    "Name": "E-11",
+    "Name": "E-11 Blaster Cell",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "Low"
+    "Rarity": "Epic"
   },
   {
     "ID": 33809,
-    "Name": "IX4",
+    "Name": "IX4 Laser Cannon Capsule",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "High"
+    "Rarity": "Epic"
   },
   {
     "ID": 33810,
-    "Name": "Twin",
+    "Name": "Twin Light Blaster Cannon Cell",
     "Type": "Magazine",
-    "Rarity": "Rare",
-    "Description": "Medium"
+    "Rarity": "Rare"
   },
   {
     "ID": 33811,
-    "Name": "Ion-Blaster",
+    "Name": "Ion-Blaster Magazine",
     "Type": "Magazine",
-    "Rarity": "Rare",
-    "Description": "Ranger"
+    "Rarity": "Rare"
   },
   {
     "ID": 33812,
-    "Name": "WESTAR-35",
+    "Name": "WESTAR-35 power cell",
     "Type": "Magazine",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33813,
-    "Name": "Z-6",
+    "Name": "Z-6 Energy Cell",
     "Type": "Magazine",
-    "Rarity": "Rare",
-    "Description": "Medium"
+    "Rarity": "Rare"
   },
   {
     "ID": 33814,
-    "Name": "Relby-V10",
+    "Name": "Relby-V10 Magazine",
     "Type": "Magazine",
-    "Rarity": "Rare",
-    "Description": "Energy"
+    "Rarity": "Rare"
   },
   {
     "ID": 33815,
-    "Name": "Rocket",
+    "Name": "Rocket Energy Cell",
     "Type": "Magazine",
-    "Rarity": "Legendary",
-    "Description": "Dual"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33816,
-    "Name": "Scout",
+    "Name": "Scout Pistol Cell",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "Light"
+    "Rarity": "Epic"
   },
   {
     "ID": 33817,
-    "Name": "Sporting",
+    "Name": "Sporting Pistol Energy Cell",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "Light"
+    "Rarity": "Epic"
   },
   {
     "ID": 33818,
-    "Name": "T-21",
+    "Name": "T-21 Energy Cell",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "Large"
+    "Rarity": "Epic"
   },
   {
     "ID": 33819,
-    "Name": "L-s1",
+    "Name": "L-s1 Laser Cannon Capsule",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "High"
+    "Rarity": "Epic"
   },
   {
     "ID": 33820,
-    "Name": "IX4",
+    "Name": "IX4 Laser Cannon Capsule",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "High"
+    "Rarity": "Epic"
   },
   {
     "ID": 33821,
-    "Name": "Ion",
+    "Name": "Ion Bomb Capsule",
     "Type": "Magazine",
-    "Rarity": "Legendary",
-    "Description": "Large"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33822,
-    "Name": "DLT-20A",
+    "Name": "DLT-20A Magazine",
     "Type": "Magazine",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33823,
-    "Name": "Blaster",
+    "Name": "Blaster Cannon Cell",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33824,
-    "Name": "E-22",
+    "Name": "E-22 Blaster Cell",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "Low"
+    "Rarity": "Epic"
   },
   {
     "ID": 33825,
-    "Name": "E-11D",
+    "Name": "E-11D Blaster Cell",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "Low"
+    "Rarity": "Epic"
   },
   {
     "ID": 33826,
-    "Name": "E-11D",
+    "Name": "E-11D Blaster Cell",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "Low"
+    "Rarity": "Epic"
   },
   {
     "ID": 33827,
-    "Name": "A-Series",
+    "Name": "A-Series magazine",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33828,
-    "Name": "A180",
+    "Name": "A180 power cell.",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33829,
-    "Name": "DT-29",
+    "Name": "DT-29 blaster cell",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33830,
-    "Name": "MWC-35c",
+    "Name": "MWC-35c power core",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33831,
     "Name": "Banana",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "Use"
+    "Rarity": "Epic"
   },
   {
     "ID": 33832,
-    "Name": "HE",
+    "Name": "HE Ion magazine",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "An"
+    "Rarity": "Epic"
   },
   {
     "ID": 33833,
-    "Name": "EE3",
+    "Name": "EE3 Magazine",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33834,
-    "Name": "Twin",
+    "Name": "Twin Cannon Energy Capsule",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "High"
+    "Rarity": "Epic"
   },
   {
     "ID": 33835,
-    "Name": "Blaster",
+    "Name": "Blaster Pistol Energy Cell",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33836,
     "Name": "Spikes",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "Small"
+    "Rarity": "Epic"
   },
   {
     "ID": 33837,
-    "Name": "Blaster",
+    "Name": "Blaster Pistol Energy Cell",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33838,
-    "Name": "MS-2B",
+    "Name": "MS-2B Twin Laser Cannon Capsule.",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "High"
+    "Rarity": "Epic"
   },
   {
     "ID": 33839,
-    "Name": "L-s1",
+    "Name": "L-s1 Laser Cannon Capsule",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "High"
+    "Rarity": "Epic"
   },
   {
     "ID": 33840,
-    "Name": "DLT-19X",
+    "Name": "DLT-19X Magazine",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "High"
+    "Rarity": "Epic"
   },
   {
     "ID": 33841,
-    "Name": "Bowcaster",
+    "Name": "Bowcaster Energy Cells",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "Ionized"
+    "Rarity": "Epic"
   },
   {
     "ID": 33842,
-    "Name": "AP",
+    "Name": "AP Ion magazine",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "An"
+    "Rarity": "Epic"
   },
   {
     "ID": 33843,
-    "Name": "IX4",
+    "Name": "IX4 Laser Cannon Capsule",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "Shield"
+    "Rarity": "Epic"
   },
   {
     "ID": 33844,
-    "Name": "IX4",
+    "Name": "IX4 Laser Cannon Capsule",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "High"
+    "Rarity": "Epic"
   },
   {
     "ID": 33845,
-    "Name": "IX4",
+    "Name": "IX4 Laser Cannon Capsule",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "High"
+    "Rarity": "Epic"
   },
   {
     "ID": 33846,
-    "Name": "Blaster",
+    "Name": "Blaster Pistol Energy Cell",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33847,
-    "Name": "IX7",
+    "Name": "IX7 Laser Cannon Capsule",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "High"
+    "Rarity": "Epic"
   },
   {
     "ID": 33900,
-    "Name": "A280C",
+    "Name": "A280C Blaster Rifle",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "Preferred"
+    "Rarity": "Epic"
   },
   {
     "ID": 33901,
-    "Name": "SFS",
+    "Name": "SFS L-s1 Laser Cannons",
     "Type": "Gun",
-    "Rarity": "Mythical",
-    "Description": "Dual"
+    "Rarity": "Mythical"
   },
   {
     "ID": 33902,
-    "Name": "SW-4",
+    "Name": "SW-4 Ion Cannon",
     "Type": "Gun",
-    "Rarity": "Mythical",
-    "Description": "Dual"
+    "Rarity": "Mythical"
   },
   {
     "ID": 33903,
     "Name": "Bowcaster",
     "Type": "Gun",
-    "Rarity": "Mythical",
-    "Description": "The"
+    "Rarity": "Mythical"
   },
   {
     "ID": 33904,
-    "Name": "TX-225",
+    "Name": "TX-225 Blaster Cannon",
     "Type": "Gun",
-    "Rarity": "Rare",
-    "Description": "Light"
+    "Rarity": "Rare"
   },
   {
     "ID": 33905,
-    "Name": "DH-17",
+    "Name": "DH-17 Blaster Pistol",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "Close"
+    "Rarity": "Epic"
   },
   {
     "ID": 33906,
     "Name": "DL44",
     "Type": "Gun",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33907,
     "Name": "DL44",
     "Type": "Gun",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33908,
     "Name": "DLT-19",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "Preferred"
+    "Rarity": "Epic"
   },
   {
     "ID": 33909,
-    "Name": "E-11",
+    "Name": "E-11 Blaster Rifle",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "Standard"
+    "Rarity": "Epic"
   },
   {
     "ID": 33910,
-    "Name": "IX4",
+    "Name": "IX4 Laser Cannon",
     "Type": "Gun",
-    "Rarity": "Mythical",
-    "Description": "IX4"
+    "Rarity": "Mythical"
   },
   {
     "ID": 33911,
-    "Name": "Twin",
+    "Name": "Twin Light blaster Cannon",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33912,
     "Name": "Ion-Blaster",
     "Type": "Gun",
-    "Rarity": "Uncommon",
-    "Description": "Blaster"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 33914,
-    "Name": "Z-6",
+    "Name": "Z-6 Rotary Cannon",
     "Type": "Gun",
-    "Rarity": "Rare",
-    "Description": "Limited-range"
+    "Rarity": "Rare"
   },
   {
     "ID": 33915,
     "Name": "Relby-V10",
     "Type": "Gun",
-    "Rarity": "Rare",
-    "Description": "Trigger"
+    "Rarity": "Rare"
   },
   {
     "ID": 33916,
-    "Name": "Smart",
+    "Name": "Smart Rocket Launcher",
     "Type": "Gun",
-    "Rarity": "Legendary",
-    "Description": "Powerful"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33917,
-    "Name": "Scout",
+    "Name": "Scout Pistol",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "Two"
+    "Rarity": "Epic"
   },
   {
     "ID": 33918,
-    "Name": "Sporting",
+    "Name": "Sporting Pistol",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "Light,"
+    "Rarity": "Epic"
   },
   {
     "ID": 33919,
     "Name": "T-21",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "Heavy"
+    "Rarity": "Epic"
   },
   {
     "ID": 33920,
-    "Name": "L-s1",
+    "Name": "L-s1 Laser Cannon",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "Twin"
+    "Rarity": "Epic"
   },
   {
     "ID": 33921,
-    "Name": "IX4",
+    "Name": "IX4 Laser Cannon",
     "Type": "Gun",
-    "Rarity": "Mythical",
-    "Description": "IX4"
+    "Rarity": "Mythical"
   },
   {
     "ID": 33922,
-    "Name": "SFS",
+    "Name": "SFS T-s5 Ion Bomb Launchers",
     "Type": "Gun",
-    "Rarity": "Legendary",
-    "Description": "Powerful"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33923,
-    "Name": "DLT-20A",
+    "Name": "DLT-20A Blaster Rifle",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33924,
-    "Name": "Blaster",
+    "Name": "Blaster Cannon",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33925,
-    "Name": "E-22",
+    "Name": "E-22 Blaster Rifle",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33926,
     "Name": "E-11D",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33927,
     "Name": "SE-14r",
     "Type": "Gun",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33928,
     "Name": "A280-CFE",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33929,
     "Name": "A180",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33930,
     "Name": "A-300",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33931,
     "Name": "DT-29",
     "Type": "Gun",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 33932,
     "Name": "MWC-35c",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33933,
-    "Name": "Bistan's",
+    "Name": "Bistan's scream",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "The"
+    "Rarity": "Epic"
   },
   {
     "ID": 33934,
-    "Name": "KX7",
+    "Name": "KX7 laser cannons",
     "Type": "Gun",
-    "Rarity": "Mythical",
-    "Description": "Twin"
+    "Rarity": "Mythical"
   },
   {
     "ID": 33935,
-    "Name": "M-45",
+    "Name": "M-45 repeating ion blaster",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33936,
-    "Name": "Bistans",
+    "Name": "Bistans DH-17 Blaster Pistol",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "Close"
+    "Rarity": "Epic"
   },
   {
     "ID": 33937,
     "Name": "EE3",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33938,
-    "Name": "Twin",
+    "Name": "Twin Rotating Blaster Cannons",
     "Type": "Gun",
-    "Rarity": "Mythical",
-    "Description": "Twin"
+    "Rarity": "Mythical"
   },
   {
     "ID": 33939,
-    "Name": "Durge's",
+    "Name": "Durge's Blaster Pistols",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "Dual"
+    "Rarity": "Epic"
   },
   {
     "ID": 33940,
-    "Name": "Durge's",
+    "Name": "Durge's Spike Launcher",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33941,
-    "Name": "Dual",
+    "Name": "Dual Westar-35s",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "Dual"
+    "Rarity": "Epic"
   },
   {
     "ID": 33942,
-    "Name": "MS-2B",
+    "Name": "MS-2B Twin Laser Cannons",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "Twin"
+    "Rarity": "Epic"
   },
   {
     "ID": 33943,
     "Name": "A280-CFE-S",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33944,
-    "Name": "NS-4C",
+    "Name": "NS-4C Twin Laser Cannons",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "Twin"
+    "Rarity": "Epic"
   },
   {
     "ID": 33945,
     "Name": "DLT-19X",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33946,
     "Name": "Bowcaster",
     "Type": "Gun",
-    "Rarity": "Mythical",
-    "Description": "The"
+    "Rarity": "Mythical"
   },
   {
     "ID": 33947,
-    "Name": "M-45",
+    "Name": "M-45 repeating ion blaster",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "A"
+    "Rarity": "Epic"
   },
   {
     "ID": 33948,
-    "Name": "IX4",
+    "Name": "IX4 Laser Cannon",
     "Type": "Gun",
-    "Rarity": "Mythical",
-    "Description": "IX4"
+    "Rarity": "Mythical"
   },
   {
     "ID": 33949,
-    "Name": "Dual",
+    "Name": "Dual Heavy Blasters",
     "Type": "Gun",
-    "Rarity": "Legendary",
-    "Description": "Dual"
+    "Rarity": "Legendary"
   },
   {
     "ID": 33950,
-    "Name": "Dual",
+    "Name": "Dual Heavy Blaster Cannons",
     "Type": "Gun",
-    "Rarity": "Epic",
-    "Description": "Twin"
+    "Rarity": "Epic"
   },
   {
     "ID": 34000,
-    "Name": "Thermal",
+    "Name": "Thermal Detonator",
     "Type": "Throwable",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 34001,
-    "Name": "Bar",
+    "Name": "Bar Tap",
     "Type": "Medium",
-    "Rarity": null,
-    "Description": null
+    "Rarity": null
   },
   {
     "ID": 34001,
-    "Name": "A280-CFE",
+    "Name": "A280-CFE Grip",
     "Type": "Grip",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 34002,
-    "Name": "Tatooine",
+    "Name": "Tatooine House #1",
     "Type": "Large",
-    "Rarity": null,
-    "Description": null
+    "Rarity": null
   },
   {
     "ID": 34002,
-    "Name": "A280-CFE",
+    "Name": "A280-CFE Barrel",
     "Type": "Barrel",
-    "Rarity": "Rare",
-    "Description": "A"
+    "Rarity": "Rare"
   },
   {
     "ID": 34003,
-    "Name": "E-11D",
+    "Name": "E-11D Laser",
     "Type": "Tactical",
-    "Rarity": "Rare",
-    "Description": "Side"
+    "Rarity": "Rare"
   },
   {
     "ID": 34003,
-    "Name": "Tatooine",
+    "Name": "Tatooine House #2",
     "Type": "Large",
-    "Rarity": null,
-    "Description": null
+    "Rarity": null
   },
   {
     "ID": 34004,
-    "Name": "Tatooine",
+    "Name": "Tatooine House #3",
     "Type": "Large",
-    "Rarity": null,
-    "Description": null
+    "Rarity": null
   },
   {
     "ID": 34005,
-    "Name": "Jabbas",
+    "Name": "Jabbas Palace",
     "Type": "Large",
-    "Rarity": null,
-    "Description": null
+    "Rarity": null
   },
   {
     "ID": 34006,
     "Name": "Cantina",
     "Type": "Large",
-    "Rarity": null,
-    "Description": null
+    "Rarity": null
   },
   {
     "ID": 47060,
-    "Name": "Phase",
+    "Name": "Phase 1 Clone Helmet",
     "Type": "Hat",
-    "Rarity": "Rare",
-    "Description": "Clone"
+    "Rarity": "Rare"
   },
   {
     "ID": 47061,
-    "Name": "Phase",
+    "Name": "Phase 1 Clone Armour",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Blaster"
+    "Rarity": "Rare"
   },
   {
     "ID": 47063,
-    "Name": "Clone",
+    "Name": "Clone Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Phase"
+    "Rarity": "Rare"
   },
   {
     "ID": 47064,
-    "Name": "Clone",
+    "Name": "Clone Pants",
     "Type": "Pants",
-    "Rarity": null,
-    "Description": "Phase"
+    "Rarity": null
   },
   {
     "ID": 47065,
     "Name": "DC15s",
     "Type": "Gun",
-    "Rarity": "Common",
-    "Description": "Republic"
+    "Rarity": "Common"
   },
   {
     "ID": 47066,
-    "Name": "DC15s",
+    "Name": "DC15s Mag",
     "Type": "Magazine",
-    "Rarity": "Common",
-    "Description": "Power"
+    "Rarity": "Common"
   },
   {
     "ID": 47080,
-    "Name": "Super",
+    "Name": "Super Battle Droid Helmet",
     "Type": "Hat",
-    "Rarity": "Rare",
-    "Description": "Super!"
+    "Rarity": "Rare"
   },
   {
     "ID": 47081,
-    "Name": "Super",
+    "Name": "Super Battle Droid Vest",
     "Type": "Vest",
-    "Rarity": "Rare",
-    "Description": "Blaster"
+    "Rarity": "Rare"
   },
   {
     "ID": 47083,
-    "Name": "SB",
+    "Name": "SB Droid Top",
     "Type": "Shirt",
-    "Rarity": "Rare",
-    "Description": "Droid"
+    "Rarity": "Rare"
   },
   {
     "ID": 47084,
-    "Name": "SB",
+    "Name": "SB Droid Pants",
     "Type": "Pants",
-    "Rarity": null,
-    "Description": "SBD"
+    "Rarity": null
   },
   {
     "ID": 47085,
-    "Name": "Droid",
+    "Name": "Droid Blaster",
     "Type": "Gun",
-    "Rarity": "Common",
-    "Description": "Wrist"
+    "Rarity": "Common"
   },
   {
     "ID": 47086,
-    "Name": "Droid",
+    "Name": "Droid Cell",
     "Type": "Magazine",
-    "Rarity": "Epic",
-    "Description": "Power"
+    "Rarity": "Epic"
   }
 ]

@@ -3,105 +3,77 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Таблица</title>
+    <title>Таблицы</title>
     <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
+        .table-container {
+            display: none;
         }
-        th, td {
-            border: 1px solid black;
-            padding: 8px;
-            text-align: left;
-        }
-        th {
-            background-color: #f2f2f2;
+        .active {
+            display: block;
         }
     </style>
 </head>
 <body>
-    <h1>Таблица</h1>
+
+<button onclick="toggleTables()">Переключить таблицы</button>
+
+<div id="table1" class="table-container active">
     <table>
-        <tr>
-            <th>ID</th>
-            <th>Наименование</th>
-            <th>Описание</th>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>Airplane</td>
-            <td>A powered flying vehicle with wings.</td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>Boat</td>
-            <td>A watercraft of any size designed to float.</td>
-        </tr>
-        <tr>
-            <td>3</td>
-            <td>Bus</td>
-            <td>A large vehicle for transporting passengers.</td>
-        </tr>
-        <tr>
-            <td>4</td>
-            <td>Car</td>
-            <td>A motor vehicle with wheels for transportation.</td>
-        </tr>
-        <tr>
-            <td>5</td>
-            <td>Bicycle</td>
-            <td>A human-powered vehicle with two wheels.</td>
-        </tr>
-        <tr>
-            <td>6</td>
-            <td>Truck</td>
-            <td>A motor vehicle designed for transporting cargo.</td>
-        </tr>
-        <tr>
-            <td>7</td>
-            <td>Train</td>
-            <td>A series of connected vehicles traveling on railways.</td>
-        </tr>
-        <tr>
-            <td>8</td>
-            <td>Helicopter</td>
-            <td>A type of rotorcraft capable of vertical flight.</td>
-        </tr>
-        <tr>
-            <td>9</td>
-            <td>Scooter</td>
-            <td>A human-powered or motorized vehicle with a platform for standing.</td>
-        </tr>
-        <tr>
-            <td>10</td>
-            <td>Van</td>
-            <td>A medium-sized road vehicle for transporting goods or people.</td>
-        </tr>
-        <tr>
-            <td>11</td>
-            <td>Motorcycle</td>
-            <td>A two-wheeled motor vehicle.</td>
-        </tr>
-        <tr>
-            <td>12</td>
-            <td>Moped</td>
-            <td>A low-powered two-wheeled vehicle.</td>
-        </tr>
-        <tr>
-            <td>13</td>
-            <td>Taxi</td>
-            <td>A vehicle for hire to carry passengers.</td>
-        </tr>
-        <tr>
-            <td>14</td>
-            <td>Tricycle</td>
-            <td>A vehicle with three wheels, often human-powered.</td>
-        </tr>
-        <tr>
-            <td>15</td>
-            <td>Subway</td>
-            <td>A rail transport system for urban transit.</td>
-        </tr>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Item 1</td>
+                <td>Description of Item 1</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Item 2</td>
+                <td>Description of Item 2</td>
+            </tr>
+        </tbody>
     </table>
+</div>
+
+<div id="table2" class="table-container">
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>3</td>
+                <td>Item 3</td>
+                <td>Description of Item 3</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Item 4</td>
+                <td>Description of Item 4</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<script>
+    function toggleTables() {
+        const table1 = document.getElementById('table1');
+        const table2 = document.getElementById('table2');
+        
+        table1.classList.toggle('active');
+        table2.classList.toggle('active');
+    }
+</script>
+
 </body>
 </html>

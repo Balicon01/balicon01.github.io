@@ -1,2 +1,2 @@
-# [Таблица с айди][index]
-[table_ids]: https://Balicon01.github.io/index
+# [Таблица с айди][index.html]
+[table_ids]: https://Balicon01.github.io/index.html

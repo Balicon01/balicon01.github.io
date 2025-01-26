@@ -85,22 +85,13 @@
   </div>
 
   <div class="cars-section" id="carsSection">
-    <h2>Cars</h2>
     <div class="cars-data">
       <table id="cars_data_table" class="table table-bordered table-striped table-vcenter dataTable no-footer">
         <thead>
-          <tr>
-            <th>Photo</th>
-            <th>ID</th>
-            <th>Name</th>
-            <th>Description</th>
-          </tr>
-        </thead>
         <tbody id="carsDataTable"></tbody>
       </table>
     </div>
     <button type="button" class="btn btn-success" id="loadCars">Load Cars Data</button> <!-- Кнопка для подгрузки данных для Cars -->
-    <p>Этот раздел содержит информацию о различных автомобилях.</p>
   </div>
 
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
@@ -126,7 +117,7 @@
 
       // Подгрузка данных для Cars
       $("#loadCars").click(function () {
-        LoadCarsData('https://balicon01.github.io/3266436726.json'); // Замените на фактический URL вашего JSON файла
+        LoadCarsData('https://balicon01.github.io/3354942093.json'); // Замените на фактический URL вашего JSON файла
       });
 
       // Поиск по всем таблицам

@@ -1,0 +1,746 @@
+[
+  {
+    "ID": 10100,
+    "Name": "CloneTrooper Bottom",
+    "Type": "Pants",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10101,
+    "Name": "501_Top_1",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10102,
+    "Name": "501_Top_2",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10103,
+    "Name": "501_Top_3",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10104,
+    "Name": "CG_Top_1",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10104,
+    "Name": "CG_Top_1",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10105,
+    "Name": "CG_Top_2",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10106,
+    "Name": "CG_Top_3",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10107,
+    "Name": "CG_Top_4",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10108,
+    "Name": "187_Top_1",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10109,
+    "Name": "187_Top_2",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10110,
+    "Name": "11_Top_1",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10111,
+    "Name": "11_Top_2",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10112,
+    "Name": "11_Top_3",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10113,
+    "Name": "CT_Top_1",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10114,
+    "Name": "127_Top_1",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10115,
+    "Name": "127_Top_2",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10116,
+    "Name": "127_Top_3",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10117,
+    "Name": "41_Top_1",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10118,
+    "Name": "K-9_Top_1",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10119,
+    "Name": "06_Top",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10120,
+    "Name": "07_Top",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10121,
+    "Name": "08_Top",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10201,
+    "Name": "501_Vest_1",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10202,
+    "Name": "CG_Vest_1",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10203,
+    "Name": "CG_Vest_1",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10204,
+    "Name": "187_Vest_1",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10205,
+    "Name": "187_Vest_2",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10206,
+    "Name": "11_Vest_1",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10207,
+    "Name": "11_Vest_2",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10208,
+    "Name": "CT_Vest_1",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10209,
+    "Name": "127_Vest_1",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10210,
+    "Name": "127_Vest_2",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10211,
+    "Name": "127_Vest_3",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10212,
+    "Name": "41_Vest_1",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10213,
+    "Name": "K-9_Vest_1",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10214,
+    "Name": "501_Vest_2",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10301,
+    "Name": "501_Hat_1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10302,
+    "Name": "501_Hat_2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10303,
+    "Name": "501_Hat_3",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10304,
+    "Name": "CG_Hat_1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10304,
+    "Name": "CG_Hat_1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10305,
+    "Name": "CG_Hat_2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10306,
+    "Name": "CG_Hat_3",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10307,
+    "Name": "187_Hat_1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10308,
+    "Name": "187_Hat_2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10309,
+    "Name": "11_Hat_1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10310,
+    "Name": "11_Hat_2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10311,
+    "Name": "CT_Hat_1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10312,
+    "Name": "127_Hat_1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10313,
+    "Name": "41_Hat_1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10314,
+    "Name": "K-9_Hat_1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10331,
+    "Name": "501_Hat_ARF1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10332,
+    "Name": "501_Hat_ARF2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10333,
+    "Name": "187_Hat_ARF1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10334,
+    "Name": "11_Hat_ARF1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10335,
+    "Name": "CT_Hat_ARF1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10336,
+    "Name": "CT_Hat_ARF2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10337,
+    "Name": "41_Hat_ARF1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10338,
+    "Name": "K-9_Hat_ARF1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10361,
+    "Name": "501_Hat_PIL1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10362,
+    "Name": "501_Hat_PIL2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10363,
+    "Name": "CG_Hat_PIL1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10364,
+    "Name": "187_Hat_PIL1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10365,
+    "Name": "CT_Hat_PIL1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10366,
+    "Name": "127_Hat_PIL1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10367,
+    "Name": "127_Hat_PIL2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10368,
+    "Name": "127_Hat_PIL3",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10391,
+    "Name": "501_Hat_AB1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10392,
+    "Name": "501_Hat_AB2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10393,
+    "Name": "187_Hat_AB1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10394,
+    "Name": "11_Hat_AB1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10395,
+    "Name": "CT_Hat_AB1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10420,
+    "Name": "CT_Hat_BAR1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10450,
+    "Name": "CT_Hat_P1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10451,
+    "Name": "06_CT_Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10452,
+    "Name": "07_CT_Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10453,
+    "Name": "08_CT_Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10500,
+    "Name": "CT_MV_0",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10501,
+    "Name": "CT_MV_1",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10502,
+    "Name": "CT_MV_2",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10503,
+    "Name": "CT_MV_3",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10504,
+    "Name": "CT_MV_4",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10505,
+    "Name": "CT_MV_5",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10506,
+    "Name": "CT_MV_PIL_1",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10507,
+    "Name": "CT_MV_PIL_2",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10508,
+    "Name": "CT_MV_KMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10509,
+    "Name": "CG_MV_KMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10510,
+    "Name": "11_MV_KMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10511,
+    "Name": "41_MV_KMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10512,
+    "Name": "187_MV_KMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10513,
+    "Name": "501_MV_KMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10514,
+    "Name": "CT_MV_ARC",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10515,
+    "Name": "06_CT_MV",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10516,
+    "Name": "07_CT_MV",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10517,
+    "Name": "08_CT_MV",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10518,
+    "Name": "06_CT_MV_J",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10519,
+    "Name": "07_CT_MV_J",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10520,
+    "Name": "08_CT_MV_J",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 10550,
+    "Name": "test1",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 10600,
+    "Name": "NVG_1",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 10601,
+    "Name": "NVG_2",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 10602,
+    "Name": "NVG_ARF_1",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 10603,
+    "Name": "NVG_K-9_1",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 10604,
+    "Name": "NVG_PIL_1",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 10605,
+    "Name": "NVG_ARC_1",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 20100,
+    "Name": "109_Hat_KMD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 20101,
+    "Name": "109_Top_KMD",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 20102,
+    "Name": "109_Vest_KMD",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 20103,
+    "Name": "109_NVG_KMD",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 20104,
+    "Name": "109_MV_KMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 20105,
+    "Name": "109_Hat_3",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 20106,
+    "Name": "109_Top_3",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 20107,
+    "Name": "109_Vest_3",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 20108,
+    "Name": "109_NVG_3",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 20109,
+    "Name": "109_MV_3",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 20110,
+    "Name": "109_Hat_2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 20111,
+    "Name": "109_Top_2",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 20112,
+    "Name": "109_Vest_2",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 20113,
+    "Name": "109_Hat_1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 20114,
+    "Name": "109_Top_1",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 20115,
+    "Name": "109_Vest_1",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 20116,
+    "Name": "109_Hat_AB1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 20117,
+    "Name": "109_Hat_ARF1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  }
+]

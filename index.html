@@ -64,7 +64,7 @@
       <button type="button" class="btn btn-primary btn-lg" id="relsi" data-bs-toggle="button" autocomplete="off">Eternal</button>
       <button type="button" class="btn btn-secondary btn-lg" id="relorig" data-bs-toggle="button" autocomplete="off">Original</button>
       <button type="button" class="btn btn-secondary btn-lg" id="STRIKE" data-bs-toggle="button" autocomplete="off">STRIKE</button>
-      <button type="button" class="btn btn-info btn-lg" id="toggleCars" data-bs-toggle="button" autocomplete="off">Cars</button>
+      <button type="button" class="btn btn-secondary btn-lg" id="Vehicle" data-bs-toggle="button" autocomplete="off">Vehicle</button>
       <div class="form-group">
         <input type="text" class="form-control" id="search" placeholder="Поиск по таблице">
       </div>
@@ -114,11 +114,10 @@
         $("#search").val(''); // Очищает поле поиска
       });
 
-      $("#toggleCars").click(function () {
-        $(".cars-section").show(); // Показывает раздел Cars
-        $("#dataTable").empty(); // Очищает таблицу данных для Eternal и Original
+      $("#vehicle").click(function () {
+        Reload('https://Balicon01.github.io/3354942093.json');
+        $(".cars-section").hide(); // Скрыть раздел Cars
         $("#search").val(''); // Очищает поле поиска
-        LoadCarsData('https://balicon01.github.io/3354942093.json'); // Замените на фактический URL вашего JSON файла
       });
 
       // Поиск по всем таблицам

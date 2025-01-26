@@ -63,7 +63,6 @@
     <div class="topnav text-white">
       <button type="button" class="btn btn-primary btn-lg" id="relsi" data-bs-toggle="button" autocomplete="off">Eternal</button>
       <button type="button" class="btn btn-secondary btn-lg" id="relorig" data-bs-toggle="button" autocomplete="off">Original</button>
-      <button type="button" class="btn btn-secondary btn-lg" id="relor" data-bs-toggle="button" autocomplete="off">Strike</button>
       <button type="button" class="btn btn-info btn-lg" id="toggleCars">Cars</button>
       <div class="form-group">
         <input type="text" class="form-control" id="search" placeholder="Поиск по таблице">
@@ -107,13 +106,6 @@
         $(".cars-section").hide(); // Скрыть раздел Cars
         $("#search").val(''); // Очищает поле поиска
       });
-
-$("#relor").click(function () {
-    Reload('https://balicon01.github.io/3354942927.json'); // Убедитесь, что URL верный
-    $(".cars-section").hide(); // Скрыть раздел Cars
-    $("#search").val(''); // Очищает поле поиска
-});
-
 
       $("#toggleCars").click(function () {
         $(".cars-section").show(); // Показывает раздел Cars

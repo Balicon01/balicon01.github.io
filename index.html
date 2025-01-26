@@ -54,6 +54,10 @@
     .base_dataTable {
       margin-top: 90px;
     }
+
+    .cars-section {
+      margin-top: 20px;
+    }
   </style>
   <link rel="stylesheet" href="https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.css" />
 </head>
@@ -75,12 +79,19 @@
           <th>Photo</th>
           <th>ID</th>
           <th>Name</th>
-          <th>Discription</th>
+          <th>Description</th>
         </tr>
       </thead>
       <tbody id="dataTable"></tbody>
     </table>
   </div>
+
+  <div class="cars-section">
+    <h2>Cars</h2>
+    <p>Этот раздел может содержать информацию о различных автомобилях.</p>
+    <!-- Добавьте дополнительный контент для раздела "Cars", если необходимо -->
+  </div>
+
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
   <script>
     $(document).ready(function ()

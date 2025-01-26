@@ -64,6 +64,7 @@
       <button type="button" class="btn btn-primary btn-lg" id="relsi" data-bs-toggle="button" autocomplete="off">Eternal</button>
       <button type="button" class="btn btn-secondary btn-lg" id="relorig" data-bs-toggle="button" autocomplete="off">Original</button>
       <button type="button" class="btn btn-info btn-lg" id="toggleCars">Cars</button>
+      <button type="button" class="btn btn-warning btn-lg" id="strike">STRIKE</button>
       <div class="form-group">
         <input type="text" class="form-control" id="search" placeholder="Поиск по таблице">
       </div>
@@ -84,13 +85,12 @@
     </table>
   </div>
 
-<div class="cars-data">
-  <table id="cars_data_table" class="table table-bordered table-striped table-vcenter dataTable no-footer">
-    </thead>
-    <tbody id="carsDataTable"></tbody>
-  </table>
-</div>
-
+  <div class="cars-data">
+    <table id="cars_data_table" class="table table-bordered table-striped table-vcenter dataTable no-footer">
+      </thead>
+      <tbody id="carsDataTable"></tbody>
+    </table>
+  </div>
 
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
   <script>
@@ -112,6 +112,12 @@
         $("#dataTable").empty(); // Очищает таблицу данных для Eternal и Original
         $("#search").val(''); // Очищает поле поиска
         LoadCarsData('https://balicon01.github.io/3354942093.json'); // Замените на фактический URL вашего JSON файла
+      });
+
+      $("#strike").click(function () {
+        Reload('https://Balicon01.github.io/3354942927.json');
+        $(".cars-section").hide(); // Скрыть раздел Cars
+        $("#search").val(''); // Очищает поле поиска
       });
 
       // Поиск по всем таблицам

@@ -108,11 +108,12 @@
         $("#search").val(''); // Очищает поле поиска
       });
 
-      $("#relor").click(function () {
-        Reload('https://Balicon01.github.io/3354942927.json');
-        $(".cars-section").hide(); // Скрыть раздел Cars
-        $("#search").val(''); // Очищает поле поиска
-      });
+$("#relor").click(function () {
+    Reload('https://balicon01.github.io/3354942927.json'); // Убедитесь, что URL верный
+    $(".cars-section").hide(); // Скрыть раздел Cars
+    $("#search").val(''); // Очищает поле поиска
+});
+
 
       $("#toggleCars").click(function () {
         $(".cars-section").show(); // Показывает раздел Cars

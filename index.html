@@ -88,46 +88,56 @@
     </table>
   </div>
 
-  <div class="cars-section" id="carsSection"> <!-- Добавлен ID для секции -->
+  <div class="cars-section" id="carsSection">
     <h2>Cars</h2>
+    <button type="button" class="btn btn-success" id="loadCars">Load Cars Data</button> <!-- Кнопка для подгрузки данных для Cars -->
+    <div class="cars-data">
+        <table id="cars_data_table" class="table table-bordered table-striped table-vcenter dataTable no-footer">
+          <thead>
+            <tr>
+              <th>Photo</th>
+              <th>ID</th>
+              <th>Name</th>
+              <th>Description</th>
+            </tr>
+          </thead>
+          <tbody id="carsDataTable"></tbody>
+        </table>
+    </div>
     <p>Этот раздел может содержать информацию о различных автомобилях.</p>
-    <!-- Добавьте дополнительный контент для раздела "Cars", если необходимо -->
   </div>
 
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
   <script>
-    $(document).ready(function ()
-    {
-      $('#relsi').click(
-        function ()
-        {
-          Reload('https://balicon01.github.io/3266436726.json')
-        });
-      $("#relorig").click(
-        function ()
-        {
-          Reload('https://Balicon01.github.io/3412516593.json')
-        }
-      );
+    $(document).ready(function () {
+      $('#relsi').click(function () {
+        Reload('https://balicon01.github.io/3266436726.json')
+      });
+      $("#relorig").click(function () {
+        Reload('https://Balicon01.github.io/3412516593.json')
+      });
 
       // Функция для переключения видимости раздела "Cars"
       $("#toggleCars").click(function () {
         $("#carsSection").toggle(); // Показывает или скрывает раздел
       });
+
+      // Подгрузка данных для Cars
+      $("#loadCars").click(function () {
+        LoadCarsData('https://example.com/cars_data.json'); // Замените на фактический URL вашего JSON файла
+      });
     });
 
-    function Reload(path)
-    {
-      $.getJSON(path, function (data)
-      {
+    function Reload(path) {
+      $.getJSON(path, function (data) {
         var allRecordsHTML = '';
         for (var i = 0; i < data.length; i++) {
-          if (data[i].Type == "Object" 
-          || data[i].Type == "Vehicle"
-          || data[i].Type == "Effect" 
-          || data[i].Type == "Large"
-          || data[i].Type == "Medium"
-          || data[i].Type == "Decal") continue;
+          if (data[i].Type == "Object"
+            || data[i].Type == "Vehicle"
+            || data[i].Type == "Effect"
+            || data[i].Type == "Large"
+            || data[i].Type == "Medium"
+            || data[i].Type == "Decal") continue;
           allRecordsHTML += '<tr>';
           allRecordsHTML += '<td>' + '<img height="50" class="image" src="https://Balicon01.github.io/images/' + data[i].ID + '.png" oneerror=\'this.style.display = "none"\' alt=" "/>' + '</td>';
           allRecordsHTML += '<td>' + data[i].ID + '</td>';
@@ -136,18 +146,30 @@
           allRecordsHTML += '</tr>';
         }
         var table = document.getElementById("dataTable");
-
         table.innerHTML = allRecordsHTML;
-      })
+      });
     };
 
-    $(document).ready(function ()
-    {
-      $("#search").keyup(function ()
-      {
+    function LoadCarsData(path) {
+      $.getJSON(path, function (data) {
+        var carsRecordsHTML = '';
+        for (var i = 0; i < data.length; i++) {
+          carsRecordsHTML += '<tr>';
+          carsRecordsHTML += '<td>' + '<img height="50" class="image" src="https://example.com/images/' + data[i].ID + '.png" oneerror=\'this.style.display = "none"\' alt=" "/>' + '</td>';
+          carsRecordsHTML += '<td>' + data[i].ID + '</td>';
+          carsRecordsHTML += '<td>' + data[i].Name + '</td>';
+          carsRecordsHTML += '<td>' + data[i].Description + '</td>';
+          carsRecordsHTML += '</tr>';
+        }
+        var carsTable = document.getElementById("carsDataTable");
+        carsTable.innerHTML = carsRecordsHTML;
+      });
+    }
+
+    $(document).ready(function () {
+      $("#search").keyup(function () {
         _this = this;
-        $.each($("#display_json_data tbody tr"), function ()
-        {
+        $.each($("#display_json_data tbody tr"), function () {
           if ($(this).text().toLowerCase().indexOf($(_this).val().toLowerCase()) === -1) {
             $(this).hide();
           }

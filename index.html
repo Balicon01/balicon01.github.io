@@ -68,7 +68,7 @@
     <div class="topnav text-white">
       <button type="button" class="btn btn-primary btn-lg" id="relsi" data-bs-toggle="button" autocomplete="off">Eternal</button>
       <button type="button" class="btn btn-secondary btn-lg" id="relorig" data-bs-toggle="button" autocomplete="off">Original</button>
-      <button type="button" class="btn btn-info btn-lg" id="toggleCars">Cars</button> <!-- Кнопка для открытия раздела -->
+      <button type="button" class="btn btn-info btn-lg" id="toggleCars">Cars</button> <!-- Кнопка для переключения на раздел Cars -->
       <div class="form-group">
         <input type="text" class="form-control" id="search" placeholder="Поиск по таблице">
       </div>
@@ -90,7 +90,6 @@
 
   <div class="cars-section" id="carsSection">
     <h2>Cars</h2>
-    <button type="button" class="btn btn-success" id="loadCars">Load Cars Data</button> <!-- Кнопка для подгрузки данных для Cars -->
     <div class="cars-data">
         <table id="cars_data_table" class="table table-bordered table-striped table-vcenter dataTable no-footer">
           <thead>
@@ -104,27 +103,30 @@
           <tbody id="carsDataTable"></tbody>
         </table>
     </div>
-    <p>Этот раздел может содержать информацию о различных автомобилях.</p>
+    <button type="button" class="btn btn-success" id="loadCars">Load Cars Data</button> <!-- Кнопка для подгрузки данных для Cars -->
   </div>
 
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
   <script>
     $(document).ready(function () {
       $('#relsi').click(function () {
-        Reload('https://balicon01.github.io/3266436726.json')
+        Reload('https://balicon01.github.io/3266436726.json');
+        $(".cars-section").hide(); // Скрыть раздел Cars
       });
+      
       $("#relorig").click(function () {
-        Reload('https://Balicon01.github.io/3412516593.json')
+        Reload('https://Balicon01.github.io/3412516593.json');
+        $(".cars-section").hide(); // Скрыть раздел Cars
       });
 
-      // Функция для переключения видимости раздела "Cars"
       $("#toggleCars").click(function () {
-        $("#carsSection").toggle(); // Показывает или скрывает раздел
+        $(".cars-section").show(); // Показывает раздел Cars
+        $("#dataTable").empty(); // Очищает таблицу данных для Eternal и Original
       });
 
       // Подгрузка данных для Cars
       $("#loadCars").click(function () {
-        LoadCarsData('https://balicon01.github.io/3266436726.json'); // Замените на фактический URL вашего JSON файла
+        LoadCarsData('https://example.com/cars_data.json'); // Замените на фактический URL вашего JSON файла
       });
     });
 

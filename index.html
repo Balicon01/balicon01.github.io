@@ -63,6 +63,7 @@
     <div class="topnav text-white">
       <button type="button" class="btn btn-primary btn-lg" id="relsi" data-bs-toggle="button" autocomplete="off">Eternal</button>
       <button type="button" class="btn btn-secondary btn-lg" id="relorig" data-bs-toggle="button" autocomplete="off">Original</button>
+      <button type="button" class="btn btn-secondary btn-lg" id="rrig" data-bs-toggle="button" autocomplete="off">Strice Armour</button>
       <button type="button" class="btn btn-info btn-lg" id="toggleCars">Cars</button>
       <div class="form-group">
         <input type="text" class="form-control" id="search" placeholder="Поиск по таблице">
@@ -103,6 +104,12 @@
 
       $("#relorig").click(function () {
         Reload('https://Balicon01.github.io/3412516593.json');
+        $(".cars-section").hide(); // Скрыть раздел Cars
+        $("#search").val(''); // Очищает поле поиска
+      });
+
+      $("#rrig").click(function () {
+        Reload('https://Balicon01.github.io/3354942927.json');
         $(".cars-section").hide(); // Скрыть раздел Cars
         $("#search").val(''); // Очищает поле поиска
       });

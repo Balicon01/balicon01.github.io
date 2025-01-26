@@ -57,6 +57,7 @@
 
     .cars-section {
       margin-top: 20px;
+      display: none; /* Скрыть раздел по умолчанию */
     }
   </style>
   <link rel="stylesheet" href="https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.css" />
@@ -70,6 +71,7 @@
       <div class="form-group">
         <input type="text" class="form-control" id="search" placeholder="Поиск по таблице">
       </div>
+      <button type="button" class="btn btn-info btn-lg" id="toggleCars">Cars</button> <!-- Кнопка для открытия раздела -->
     </div>
   </header>
   <div class="base_dataTable">
@@ -86,7 +88,7 @@
     </table>
   </div>
 
-  <div class="cars-section">
+  <div class="cars-section" id="carsSection"> <!-- Добавлен ID для секции -->
     <h2>Cars</h2>
     <p>Этот раздел может содержать информацию о различных автомобилях.</p>
     <!-- Добавьте дополнительный контент для раздела "Cars", если необходимо -->
@@ -106,8 +108,14 @@
         {
           Reload('https://Balicon01.github.io/3412516593.json')
         }
-      )
+      );
+
+      // Функция для переключения видимости раздела "Cars"
+      $("#toggleCars").click(function () {
+        $("#carsSection").toggle(); // Показывает или скрывает раздел
+      });
     });
+
     function Reload(path)
     {
       $.getJSON(path, function (data)
@@ -132,8 +140,7 @@
         table.innerHTML = allRecordsHTML;
       })
     };
-  </script>
-  <script>
+
     $(document).ready(function ()
     {
       $("#search").keyup(function ()

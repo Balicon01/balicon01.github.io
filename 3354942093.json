@@ -192,20 +192,14 @@
     "Rarity": null
   },
   {
-    "ID": 40050,
-    "Name": "Laat/i MK/2",
+    "ID": 50056,
+    "Name": "Laat/i",
     "Type": "Vehicle",
     "Rarity": "Legendary"
   },
   {
-    "ID": 40051,
-    "Name": "Laat/i MK/2 SpecOPS",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 40052,
-    "Name": "V-19",
+    "ID": 50057,
+    "Name": "HMP",
     "Type": "Vehicle",
     "Rarity": "Legendary"
   },

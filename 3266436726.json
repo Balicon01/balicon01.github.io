@@ -37,7 +37,25 @@
   },
   {
     "ID": 5020,
-    "Name": "Germo Door",
+    "Name": "Germo Door 1",
+    "Type": "Barricade",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 5021,
+    "Name": "Germo Door 2",
+    "Type": "Barricade",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 5022,
+    "Name": "Germo Door 3",
+    "Type": "Barricade",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 5023,
+    "Name": "Germo Door 4",
     "Type": "Barricade",
     "Rarity": "Epic"
   },
@@ -768,6 +786,84 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 17850,
+    "Name": "212 Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 17851,
+    "Name": "212 Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 17852,
+    "Name": "212 Hat ARF 1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 17853,
+    "Name": "212 Hat ARF 2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 17854,
+    "Name": "212 Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 17855,
+    "Name": "212 Hat AS CMD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 17856,
+    "Name": "212 Hat BARK",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 17857,
+    "Name": "212 Hat KD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 17858,
+    "Name": "212 Hat Pilot",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 17859,
+    "Name": "212 Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 17860,
+    "Name": "212 Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 17861,
+    "Name": "212 CMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 17862,
+    "Name": "212 Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 18732,
     "Name": "Огнемет",
     "Type": "Gun",
@@ -1116,6 +1212,12 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 21116,
+    "Name": "Поза 2",
+    "Type": "Cloud",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 21144,
     "Name": "Дробаш Шахрама",
     "Type": "Gun",
@@ -1426,6 +1528,18 @@
     "Name": "Gauss Scope",
     "Type": "Sight",
     "Rarity": "Rare"
+  },
+  {
+    "ID": 50056,
+    "Name": "LAAT",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 50057,
+    "Name": "HMP",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
   },
   {
     "ID": 51191,

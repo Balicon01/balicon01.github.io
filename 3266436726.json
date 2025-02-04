@@ -12,6 +12,12 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 11757,
+    "Name": "Набор новичка",
+    "Type": "Supply",
+    "Rarity": "Rare"
+  },
+  {
     "ID": 4401,
     "Name": "Higs Clothes",
     "Type": "Shirt",

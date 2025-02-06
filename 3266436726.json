@@ -11,6 +11,12 @@
     "Type": "Backpack",
     "Rarity": "Mythical"
   },
+    {
+    "ID": 4006,
+    "Name": "Хранилище",
+    "Type": "Storage",
+    "Rarity": "Epic"
+  },
   {
     "ID": 4007,
     "Name": "Набор новичка",

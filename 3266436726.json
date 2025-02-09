@@ -1,5 +1,35 @@
 [
   {
+    "ID": 3000,
+    "Name": "Шлем Администратора",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 3001,
+    "Name": "АдминГан",
+    "Type": "Gun",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 3002,
+    "Name": "АдминГан_Патроны",
+    "Type": "Magazine",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 4006,
+    "Name": "Locker",
+    "Type": "Storage",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 4007,
+    "Name": "Набор новичка",
+    "Type": "Supply",
+    "Rarity": "Rare"
+  },
+  {
     "ID": 4008,
     "Name": "Blowtorch",
     "Type": "Melee",
@@ -10,18 +40,6 @@
     "Name": "Higs BackPack",
     "Type": "Backpack",
     "Rarity": "Mythical"
-  },
-    {
-    "ID": 4006,
-    "Name": "Хранилище",
-    "Type": "Storage",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 4007,
-    "Name": "Набор новичка",
-    "Type": "Supply",
-    "Rarity": "Rare"
   },
   {
     "ID": 4401,
@@ -44,6 +62,42 @@
   {
     "ID": 4404,
     "Name": "Higs Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 4410,
+    "Name": "Tower BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 4411,
+    "Name": "Tower Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 4412,
+    "Name": "Tower Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 4413,
+    "Name": "Tower Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 4414,
+    "Name": "Tower Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 4415,
+    "Name": "Tower Vest",
     "Type": "Vest",
     "Rarity": "Mythical"
   },
@@ -1524,6 +1578,24 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 45020,
+    "Name": "RC Vest (Wnitenoize)",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 45021,
+    "Name": "RC Helmet (Wnitenoize)",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 45022,
+    "Name": "RC Backp (Wnitenoize)",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 46050,
     "Name": "Gauss",
     "Type": "Gun",
@@ -1552,6 +1624,12 @@
     "Name": "HMP",
     "Type": "Vehicle",
     "Rarity": "Legendary"
+  },
+  {
+    "ID": 50058,
+    "Name": "Z-95 Steals",
+    "Type": "Vehicle",
+    "Rarity": "Rare"
   },
   {
     "ID": 51191,

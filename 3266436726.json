@@ -684,6 +684,18 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 15500,
+    "Name": "INV VEST",
+    "Type": "Vest",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 15501,
+    "Name": "INV BACKPACK",
+    "Type": "Backpack",
+    "Rarity": "Rare"
+  },
+  {
     "ID": 15522,
     "Name": "Козырек офицера",
     "Type": "Mask",

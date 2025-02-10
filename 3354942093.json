@@ -280,5 +280,11 @@
     "Name": "WARTHOG_APC",
     "Type": "Vehicle",
     "Rarity": "Legendary"
+  },
+  {
+        "ID": 40100,
+    "Name": "AT-JT",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
   }
 ]

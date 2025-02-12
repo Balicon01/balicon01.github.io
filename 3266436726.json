@@ -18,6 +18,30 @@
     "Rarity": "Rare"
   },
   {
+    "ID": 3500,
+    "Name": "Chal Vest",
+    "Type": "Vest",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 3501,
+    "Name": "Chal Helmet",
+    "Type": "Hat",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 3502,
+    "Name": "Chal clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 3504,
+    "Name": "Chal Backpack",
+    "Type": "Backpack",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 4006,
     "Name": "Locker",
     "Type": "Storage",
@@ -687,13 +711,13 @@
     "ID": 15500,
     "Name": "INV VEST",
     "Type": "Vest",
-    "Rarity": "Rare"
+    "Rarity": "Mythical"
   },
   {
     "ID": 15501,
     "Name": "INV BACKPACK",
     "Type": "Backpack",
-    "Rarity": "Rare"
+    "Rarity": "Mythical"
   },
   {
     "ID": 15522,
@@ -1494,22 +1518,10 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 40050,
-    "Name": "Laat/i MK/2",
+    "ID": 40100,
+    "Name": "AT-JT",
     "Type": "Vehicle",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 40051,
-    "Name": "Laat/i MK/2 SpecOPS",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 40052,
-    "Name": "V-19",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
+    "Rarity": "Uncommon"
   },
   {
     "ID": 45000,
@@ -1636,12 +1648,6 @@
     "Name": "HMP",
     "Type": "Vehicle",
     "Rarity": "Legendary"
-  },
-  {
-    "ID": 50058,
-    "Name": "Z-95 Steals",
-    "Type": "Vehicle",
-    "Rarity": "Rare"
   },
   {
     "ID": 51191,
@@ -1891,7 +1897,7 @@
   },
   {
     "ID": 58359,
-    "Name": "Blaster Pistol Energy Cell",
+    "Name": "Westar35D_Mag",
     "Type": "Magazine",
     "Rarity": "Epic"
   },

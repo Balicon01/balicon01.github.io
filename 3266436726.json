@@ -1,5 +1,23 @@
 [
   {
+    "ID": 2000,
+    "Name": "DN-14",
+    "Type": "Gun",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 2001,
+    "Name": "DN-14 Ammo",
+    "Type": "Magazine",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 2500,
+    "Name": "Рюкзак KD и JP",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 3000,
     "Name": "Шлем Администратора",
     "Type": "Hat",
@@ -16,6 +34,30 @@
     "Name": "АдминГан_Патроны",
     "Type": "Magazine",
     "Rarity": "Rare"
+  },
+  {
+    "ID": 3100,
+    "Name": "Прайс BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 3101,
+    "Name": "Прайс Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 3102,
+    "Name": "Прайс Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 3103,
+    "Name": "Прайс Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
   },
   {
     "ID": 3500,
@@ -40,6 +82,48 @@
     "Name": "Chal Backpack",
     "Type": "Backpack",
     "Rarity": "Epic"
+  },
+  {
+    "ID": 3700,
+    "Name": "Валет BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 3701,
+    "Name": "Валет Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 3702,
+    "Name": "Валет Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 3703,
+    "Name": "Валет Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 3950,
+    "Name": "Янтарь Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 3951,
+    "Name": "Янтарь Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 3952,
+    "Name": "Янтарь Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
   },
   {
     "ID": 4006,
@@ -518,6 +602,12 @@
   {
     "ID": 10556,
     "Name": "Shield",
+    "Type": "Melee",
+    "Rarity": null
+  },
+  {
+    "ID": 10557,
+    "Name": "Shield Даргена",
     "Type": "Melee",
     "Rarity": null
   },
@@ -1327,13 +1417,13 @@
   },
   {
     "ID": 21145,
-    "Name": "Дробик Magazine",
+    "Name": "8 Shells",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
   {
     "ID": 21145,
-    "Name": "8 Shells",
+    "Name": "Дробик Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
   },

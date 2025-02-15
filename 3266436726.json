@@ -1872,6 +1872,78 @@
     "Rarity": "Uncommon"
   },
   {
+    "ID": 58323,
+    "Name": "RC \"Katarn\"",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 58324,
+    "Name": "RC Helmet \"Katarn\"",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 58325,
+    "Name": "RC Vest \"Katarn\"",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 58326,
+    "Name": "RC Backp V3 \"Katarn\"",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 58328,
+    "Name": "RC \"Katarn\"",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 58329,
+    "Name": "RC Vest \"Katarn\"",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 58330,
+    "Name": "RC Helmet \"Katarn\"",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 58331,
+    "Name": "RC Backp V3 \"Katarn\"",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 58332,
+    "Name": "RC \"Katarn\"",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 58333,
+    "Name": "RC Helmet \"Katarn\"",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 58334,
+    "Name": "RC Vest \"Katarn\"",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 58335,
+    "Name": "RC Backp V3 \"Katarn\"",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 58336,
     "Name": "Dual Westar-35s",
     "Type": "Gun",
@@ -1971,6 +2043,30 @@
     "ID": 58352,
     "Name": "RC Backp V3 \"Katarn\"",
     "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 58353,
+    "Name": "RC \"Katarn\"",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 58354,
+    "Name": "RC Vest \"Katarn\"",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 58355,
+    "Name": "RC Backp V3 \"Katarn\"",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 58356,
+    "Name": "RC Helmet \"Katarn\"",
+    "Type": "Hat",
     "Rarity": "Mythical"
   },
   {

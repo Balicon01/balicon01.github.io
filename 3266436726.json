@@ -150,6 +150,12 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 3953,
+    "Name": "Янтарь BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 4006,
     "Name": "Locker",
     "Type": "Storage",

@@ -60,6 +60,30 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 3300,
+    "Name": "Турель АТТЕ",
+    "Type": "Gun",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 3301,
+    "Name": "Магазин для турели АТТЕ",
+    "Type": "Magazine",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 3304,
+    "Name": "Турель АAТ",
+    "Type": "Gun",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 3305,
+    "Name": "Магазин для турели АAТ",
+    "Type": "Magazine",
+    "Rarity": "Legendary"
+  },
+  {
     "ID": 3500,
     "Name": "Chal Vest",
     "Type": "Vest",
@@ -256,6 +280,30 @@
     "Name": "Рюкзак радиста 41ЭРК (Баррикада)",
     "Type": "Barricade",
     "Rarity": "Uncommon"
+  },
+  {
+    "ID": 6010,
+    "Name": "Скунс BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 6011,
+    "Name": "Скунс Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 6012,
+    "Name": "Скунс Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 6013,
+    "Name": "Скунс Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
   },
   {
     "ID": 6371,
@@ -864,6 +912,36 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 16312,
+    "Name": "Hat ARC 41",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16313,
+    "Name": "Hat ARC 91",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16315,
+    "Name": "Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16316,
+    "Name": "Hat ARC FLEET",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16317,
+    "Name": "Hat ARC GUARD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 16511,
     "Name": "Hat ENG",
     "Type": "Hat",
@@ -985,7 +1063,7 @@
   },
   {
     "ID": 17851,
-    "Name": "212 Hat ARC",
+    "Name": "Hat ARC 212",
     "Type": "Hat",
     "Rarity": "Mythical"
   },
@@ -1417,13 +1495,13 @@
   },
   {
     "ID": 21145,
-    "Name": "8 Shells",
+    "Name": "Дробик Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
   {
     "ID": 21145,
-    "Name": "Дробик Magazine",
+    "Name": "8 Shells",
     "Type": "Magazine",
     "Rarity": "Rare"
   },

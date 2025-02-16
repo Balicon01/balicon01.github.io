@@ -264,6 +264,66 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 5450,
+    "Name": "RC Шакрам BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5451,
+    "Name": "RC Шакрам Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 5452,
+    "Name": "RC Шакрам Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5453,
+    "Name": "RC Шакрам Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5454,
+    "Name": "RC Шакрам Mask",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 5460,
+    "Name": "RC Шакрам BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5461,
+    "Name": "RC Шакрам Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 5462,
+    "Name": "RC Шакрам Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5463,
+    "Name": "RC Шакрам Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5464,
+    "Name": "RC Шакрам Mask",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
     "ID": 6001,
     "Name": "Рюкзак радиста",
     "Type": "Backpack",
@@ -1501,13 +1561,13 @@
   },
   {
     "ID": 21145,
-    "Name": "Дробик Magazine",
+    "Name": "8 Shells",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
   {
     "ID": 21145,
-    "Name": "8 Shells",
+    "Name": "Дробик Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
   },

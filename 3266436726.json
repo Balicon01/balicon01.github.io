@@ -12,6 +12,12 @@
     "Rarity": "Uncommon"
   },
   {
+    "ID": 2031,
+    "Name": "Термобелье клона",
+    "Type": "Pants",
+    "Rarity": "Uncommon"
+  },
+  {
     "ID": 2500,
     "Name": "Рюкзак KD и JP",
     "Type": "Backpack",
@@ -321,6 +327,24 @@
     "ID": 5464,
     "Name": "RC Шакрам Mask",
     "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 5506,
+    "Name": "Боевой бластер FL-13",
+    "Type": "Gun",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 5507,
+    "Name": "Картридж для FL-13",
+    "Type": "Magazine",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 5508,
+    "Name": "FL-13 SCOPE",
+    "Type": "Sight",
     "Rarity": "Rare"
   },
   {
@@ -1561,13 +1585,13 @@
   },
   {
     "ID": 21145,
-    "Name": "8 Shells",
+    "Name": "Дробик Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
   {
     "ID": 21145,
-    "Name": "Дробик Magazine",
+    "Name": "8 Shells",
     "Type": "Magazine",
     "Rarity": "Rare"
   },

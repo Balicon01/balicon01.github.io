@@ -750,6 +750,12 @@
     "Rarity": null
   },
   {
+    "ID": 10558,
+    "Name": "Shield Юдзиро",
+    "Type": "Melee",
+    "Rarity": null
+  },
+  {
     "ID": 11522,
     "Name": "Henti Clothes",
     "Type": "Shirt",
@@ -800,6 +806,18 @@
   {
     "ID": 12165,
     "Name": "Z6 Magazine",
+    "Type": "Magazine",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 12564,
+    "Name": "Z42",
+    "Type": "Gun",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 12565,
+    "Name": "Z42 Magazine",
     "Type": "Magazine",
     "Rarity": "Uncommon"
   },
@@ -1585,13 +1603,13 @@
   },
   {
     "ID": 21145,
-    "Name": "Дробик Magazine",
+    "Name": "8 Shells",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
   {
     "ID": 21145,
-    "Name": "8 Shells",
+    "Name": "Дробик Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
   },

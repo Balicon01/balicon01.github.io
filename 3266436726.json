@@ -18,6 +18,24 @@
     "Rarity": "Uncommon"
   },
   {
+    "ID": 2270,
+    "Name": "Gasmask",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 2271,
+    "Name": "Pants Кута",
+    "Type": "Pants",
+    "Rarity": "Common"
+  },
+  {
+    "ID": 2272,
+    "Name": "Shirt Кута",
+    "Type": "Shirt",
+    "Rarity": "Common"
+  },
+  {
     "ID": 2500,
     "Name": "Рюкзак KD и JP",
     "Type": "Backpack",
@@ -110,6 +128,30 @@
   {
     "ID": 3504,
     "Name": "Chal Backpack",
+    "Type": "Backpack",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 3510,
+    "Name": "Шакрам Vest",
+    "Type": "Vest",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 3511,
+    "Name": "Шакрам Helmet",
+    "Type": "Hat",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 3512,
+    "Name": "Шакрам clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 3514,
+    "Name": "Шакрам Backpack",
     "Type": "Backpack",
     "Rarity": "Epic"
   },
@@ -268,6 +310,12 @@
     "Name": "Germo Door 4",
     "Type": "Barricade",
     "Rarity": "Epic"
+  },
+  {
+    "ID": 5115,
+    "Name": "Hat Кута",
+    "Type": "Hat",
+    "Rarity": "Common"
   },
   {
     "ID": 5450,
@@ -1603,13 +1651,13 @@
   },
   {
     "ID": 21145,
-    "Name": "8 Shells",
+    "Name": "Дробик Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
   {
     "ID": 21145,
-    "Name": "Дробик Magazine",
+    "Name": "8 Shells",
     "Type": "Magazine",
     "Rarity": "Rare"
   },

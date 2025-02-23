@@ -966,6 +966,24 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 14560,
+    "Name": "Медведь Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 14561,
+    "Name": "Медведь Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14562,
+    "Name": "Медведь Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 15164,
     "Name": "Mandalorian Fury",
     "Type": "Gun",
@@ -1651,13 +1669,13 @@
   },
   {
     "ID": 21145,
-    "Name": "Дробик Magazine",
+    "Name": "8 Shells",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
   {
     "ID": 21145,
-    "Name": "8 Shells",
+    "Name": "Дробик Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
   },

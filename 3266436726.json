@@ -156,6 +156,54 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 3520,
+    "Name": "Шакрам Vest",
+    "Type": "Vest",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 3521,
+    "Name": "Шакрам Helmet",
+    "Type": "Hat",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 3522,
+    "Name": "Шакрам clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 3524,
+    "Name": "Шакрам Backpack",
+    "Type": "Backpack",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 3550,
+    "Name": "Весельчак Backpack",
+    "Type": "Backpack",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 3551,
+    "Name": "Весельчак clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 3552,
+    "Name": "Весельчак Helmet",
+    "Type": "Hat",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 3553,
+    "Name": "Весельчак Vest",
+    "Type": "Vest",
+    "Rarity": "Rare"
+  },
+  {
     "ID": 3700,
     "Name": "Валет BackPack",
     "Type": "Backpack",
@@ -642,6 +690,24 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 9310,
+    "Name": "K9 Clothes v1",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 9311,
+    "Name": "K9 Clothes v2",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 9312,
+    "Name": "K9 Clothes v3",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 9320,
     "Name": "Flame 1УПК",
     "Type": "Shirt",
@@ -868,6 +934,30 @@
     "Name": "Z42 Magazine",
     "Type": "Magazine",
     "Rarity": "Uncommon"
+  },
+  {
+    "ID": 14390,
+    "Name": "Юдзиро BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14391,
+    "Name": "Юдзиро Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 14392,
+    "Name": "Юдзиро Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14393,
+    "Name": "Юдзиро Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
   },
   {
     "ID": 14400,
@@ -1506,6 +1596,18 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 19050,
+    "Name": "Тренеровочный дроид",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 19051,
+    "Name": "Тренеровочный дроид helmet",
+    "Type": "Hat",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 19319,
     "Name": "Мед Vest",
     "Type": "Vest",
@@ -1826,6 +1928,18 @@
   {
     "ID": 31266,
     "Name": "Штабная.",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 31268,
+    "Name": "Стенд \"ВАР\"",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 31269,
+    "Name": "Стенд \"КНС\"",
     "Type": "Barricade",
     "Rarity": "Uncommon"
   },

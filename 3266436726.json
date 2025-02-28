@@ -642,6 +642,90 @@
     "Rarity": null
   },
   {
+    "ID": 8000,
+    "Name": "41BOCO Нагрудник",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8001,
+    "Name": "41BOCO Нагрудник Медика",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8002,
+    "Name": "41BOCO Нагрудник Огнемётчика",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8003,
+    "Name": "41BOCO Одежда Медика",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 8004,
+    "Name": "41BOCO Одежда Обычная",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 8005,
+    "Name": "41BOCO Одежда Огнемётчика",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 8006,
+    "Name": "41BOCO Рюкзак ARC",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8007,
+    "Name": "41BOCO Рюкзак Медика",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8008,
+    "Name": "41BOCO Рюкзак Обычный",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8009,
+    "Name": "41BOCO Рюкзак Огнемётчика",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8010,
+    "Name": "41BOCO Шлем АРК",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8011,
+    "Name": "41BOCO Шлем АРФ",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8012,
+    "Name": "41BOCO Шлем АС",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8013,
+    "Name": "41BOCO Шлем Огнемётчика",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 8720,
     "Name": "Карнат BackPack",
     "Type": "Backpack",
@@ -1771,13 +1855,13 @@
   },
   {
     "ID": 21145,
-    "Name": "8 Shells",
+    "Name": "Дробик Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
   {
     "ID": 21145,
-    "Name": "Дробик Magazine",
+    "Name": "8 Shells",
     "Type": "Magazine",
     "Rarity": "Rare"
   },

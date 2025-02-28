@@ -726,6 +726,36 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 8100,
+    "Name": "Меткий Маска",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 8101,
+    "Name": "Меткий Нагрудник",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8102,
+    "Name": "Меткий Одежда",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 8103,
+    "Name": "Меткий Рюкзак",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8104,
+    "Name": "Меткий Шлем",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 8720,
     "Name": "Карнат BackPack",
     "Type": "Backpack",

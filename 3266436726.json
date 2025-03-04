@@ -780,6 +780,54 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 8850,
+    "Name": "Gaussrifle Pine",
+    "Type": "Gun",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 8851,
+    "Name": "Gaussrifle Pine Magazine",
+    "Type": "Magazine",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 8852,
+    "Name": "Gaussrifle Pine Scope",
+    "Type": "Sight",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 8860,
+    "Name": "Боевой бластер ST-W48",
+    "Type": "Gun",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 8861,
+    "Name": "Картридж для боевой ST-W48",
+    "Type": "Magazine",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 9027,
+    "Name": "BXSE",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 9028,
+    "Name": "BXSE backpack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 9029,
+    "Name": "BXSE helmet",
+    "Type": "Hat",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 9300,
     "Name": "GUARD Clothes v1",
     "Type": "Shirt",
@@ -1885,13 +1933,13 @@
   },
   {
     "ID": 21145,
-    "Name": "Дробик Magazine",
+    "Name": "8 Shells",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
   {
     "ID": 21145,
-    "Name": "8 Shells",
+    "Name": "Дробик Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
   },

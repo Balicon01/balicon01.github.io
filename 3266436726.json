@@ -366,6 +366,30 @@
     "Rarity": "Common"
   },
   {
+    "ID": 5390,
+    "Name": "RC Хитрец BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5391,
+    "Name": "RC Хитрец Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 5392,
+    "Name": "RC Хитрец Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5393,
+    "Name": "RC Хитрец Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 5450,
     "Name": "RC Шакрам BackPack",
     "Type": "Backpack",
@@ -424,6 +448,36 @@
     "Name": "RC Шакрам Mask",
     "Type": "Mask",
     "Rarity": "Rare"
+  },
+  {
+    "ID": 5490,
+    "Name": "RC Chal BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5491,
+    "Name": "RC Chal Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 5492,
+    "Name": "RC Chal Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5493,
+    "Name": "RC Chal Mask",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 5494,
+    "Name": "RC Chal Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
   },
   {
     "ID": 5506,
@@ -996,6 +1050,18 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 9990,
+    "Name": "B2 Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 9991,
+    "Name": "B2 Helmet",
+    "Type": "Hat",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 10522,
     "Name": "SpecOPS Clothes",
     "Type": "Shirt",
@@ -1030,6 +1096,96 @@
     "Name": "Shield Юдзиро",
     "Type": "Melee",
     "Rarity": null
+  },
+  {
+    "ID": 11000,
+    "Name": "104 BackPack КМД",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11001,
+    "Name": "104 Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 11002,
+    "Name": "104 Clothes Мед",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 11003,
+    "Name": "104 Clothes КМД",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 11004,
+    "Name": "104 Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11005,
+    "Name": "104 Hat ARF 1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11006,
+    "Name": "104 Hat ARF 2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11007,
+    "Name": "104 Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11008,
+    "Name": "104 Hat AS КМД",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11009,
+    "Name": "104 Hat BARK",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11010,
+    "Name": "104 Hat KD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11011,
+    "Name": "104 Hat Pilot",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11012,
+    "Name": "104 Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11013,
+    "Name": "104 Vest MED",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11014,
+    "Name": "104 Vest КМД",
+    "Type": "Vest",
+    "Rarity": "Mythical"
   },
   {
     "ID": 11522,

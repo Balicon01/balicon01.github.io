@@ -366,6 +366,12 @@
     "Rarity": "Common"
   },
   {
+    "ID": 5144,
+    "Name": "DP-23",
+    "Type": "Gun",
+    "Rarity": "Rare"
+  },
+  {
     "ID": 5390,
     "Name": "RC Хитрец BackPack",
     "Type": "Backpack",
@@ -549,6 +555,30 @@
     "ID": 6371,
     "Name": "Hat 1Phase",
     "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 6560,
+    "Name": "Кега Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 6561,
+    "Name": "Кега Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 6562,
+    "Name": "Кега Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 6563,
+    "Name": "Рюкзак Кеги",
+    "Type": "Backpack",
     "Rarity": "Mythical"
   },
   {
@@ -1555,9 +1585,9 @@
   },
   {
     "ID": 17344,
-    "Name": "Visor",
-    "Type": "Glasses",
-    "Rarity": "Epic"
+    "Name": "Козырек Даргена",
+    "Type": "Mask",
+    "Rarity": "Rare"
   },
   {
     "ID": 17361,
@@ -2089,13 +2119,13 @@
   },
   {
     "ID": 21145,
-    "Name": "8 Shells",
+    "Name": "Дробик Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
   {
     "ID": 21145,
-    "Name": "Дробик Magazine",
+    "Name": "8 Shells",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
@@ -2258,6 +2288,12 @@
   {
     "ID": 31269,
     "Name": "Стенд \"КНС\"",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 31270,
+    "Name": "Стенд \"LAAT\"",
     "Type": "Barricade",
     "Rarity": "Uncommon"
   },
@@ -2444,12 +2480,6 @@
   {
     "ID": 55038,
     "Name": "DLT-20X",
-    "Type": "Gun",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 55039,
-    "Name": "DLT-20X-M",
     "Type": "Gun",
     "Rarity": "Epic"
   },

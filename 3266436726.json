@@ -1272,6 +1272,30 @@
     "Rarity": "Uncommon"
   },
   {
+    "ID": 12300,
+    "Name": "Хиллер BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 12301,
+    "Name": "Хиллер Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 12302,
+    "Name": "Хиллер Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 12303,
+    "Name": "Хиллер Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 12564,
     "Name": "Z42",
     "Type": "Gun",
@@ -1418,6 +1442,54 @@
   {
     "ID": 14562,
     "Name": "Медведь Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14570,
+    "Name": "Алтиз Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 14571,
+    "Name": "Алтиз Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14572,
+    "Name": "Алтиз Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14573,
+    "Name": "Алтиз BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14580,
+    "Name": "Корд BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14581,
+    "Name": "Корд Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 14582,
+    "Name": "Корд Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14583,
+    "Name": "Корд Vest",
     "Type": "Vest",
     "Rarity": "Mythical"
   },

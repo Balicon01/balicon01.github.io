@@ -270,6 +270,30 @@
     "Rarity": "Uncommon"
   },
   {
+    "ID": 4180,
+    "Name": "[MS] Кристалл (Желтый)",
+    "Type": "Large",
+    "Rarity": null
+  },
+  {
+    "ID": 4182,
+    "Name": "[MS] Кристалл (Зеленый)",
+    "Type": "Large",
+    "Rarity": null
+  },
+  {
+    "ID": 4183,
+    "Name": "[MS] Кристалл (Синий)",
+    "Type": "Large",
+    "Rarity": null
+  },
+  {
+    "ID": 4184,
+    "Name": "[MS] Кристалл (Фиолетовый)",
+    "Type": "Large",
+    "Rarity": null
+  },
+  {
     "ID": 4400,
     "Name": "Higs BackPack",
     "Type": "Backpack",
@@ -504,6 +528,192 @@
     "Rarity": "Rare"
   },
   {
+    "ID": 5620,
+    "Name": "Lightsaber 0 B",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5621,
+    "Name": "Lightsaber 1 B",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5622,
+    "Name": "Lightsaber 2 B",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5623,
+    "Name": "Lightsaber 3 B",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5624,
+    "Name": "Lightsaber 4 B",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5625,
+    "Name": "Lightsaber 0 G",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5626,
+    "Name": "Lightsaber 1 G",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5627,
+    "Name": "Lightsaber 2 G",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5628,
+    "Name": "Lightsaber 3 G",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5629,
+    "Name": "Lightsaber 4 G",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5630,
+    "Name": "Lightsaber 0 P",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5631,
+    "Name": "Lightsaber 1 P",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5632,
+    "Name": "Lightsaber 2 P",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5633,
+    "Name": "Lightsaber 3 P",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5634,
+    "Name": "Lightsaber 4 P",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5635,
+    "Name": "Lightsaber 0 R",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5636,
+    "Name": "Lightsaber 1 R",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5637,
+    "Name": "Lightsaber 2 R",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5638,
+    "Name": "Lightsaber 3 R",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5639,
+    "Name": "Lightsaber 4 R",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5640,
+    "Name": "Lightsaber 0 W",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5641,
+    "Name": "Lightsaber 1 W",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5642,
+    "Name": "Lightsaber 2 W",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5643,
+    "Name": "Lightsaber 3 W",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5644,
+    "Name": "Lightsaber 4 W",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5645,
+    "Name": "Lightsaber 0 Y",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5646,
+    "Name": "Lightsaber 1 Y",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5647,
+    "Name": "Lightsaber 2 Y",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5648,
+    "Name": "Lightsaber 3 Y",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5649,
+    "Name": "Lightsaber 4 Y",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5919,
+    "Name": "Навык силы: Лечение",
+    "Type": "Medical",
+    "Rarity": "Legendary"
+  },
+  {
     "ID": 6001,
     "Name": "Рюкзак радиста",
     "Type": "Backpack",
@@ -556,6 +766,12 @@
     "Name": "Hat 1Phase",
     "Type": "Hat",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 6422,
+    "Name": "Навык силы: Щит",
+    "Type": "Melee",
+    "Rarity": null
   },
   {
     "ID": 6560,
@@ -1294,6 +1510,30 @@
     "Name": "Хиллер Vest",
     "Type": "Vest",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 12345,
+    "Name": "Кристалл желтый",
+    "Type": "Map",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 12346,
+    "Name": "Кристалл зеленый",
+    "Type": "Map",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 12347,
+    "Name": "Кристалл синий",
+    "Type": "Map",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 12348,
+    "Name": "Кристалл фиолетовый",
+    "Type": "Map",
+    "Rarity": "Epic"
   },
   {
     "ID": 12564,
@@ -2274,6 +2514,12 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 22844,
+    "Name": "Dual DC-17",
+    "Type": "Gun",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 22845,
     "Name": "Боевые картриджы для DC17",
     "Type": "Magazine",
@@ -2340,6 +2586,66 @@
     "Rarity": "Rare"
   },
   {
+    "ID": 30000,
+    "Name": "Ящик с патронами E-5.",
+    "Type": "Barricade",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 30001,
+    "Name": "10 магазинов E-5.",
+    "Type": "Supply",
+    "Rarity": null
+  },
+  {
+    "ID": 30002,
+    "Name": "Ящик с патронами DC-15a.",
+    "Type": "Barricade",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 30003,
+    "Name": "10 магазинов DC-15a.",
+    "Type": "Supply",
+    "Rarity": null
+  },
+  {
+    "ID": 30004,
+    "Name": "Ящик с патронами DLT-20a.",
+    "Type": "Barricade",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 30005,
+    "Name": "10 магазинов DLT-20a.",
+    "Type": "Supply",
+    "Rarity": null
+  },
+  {
+    "ID": 30006,
+    "Name": "Ящик с патронами DLT-20x.",
+    "Type": "Barricade",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 30007,
+    "Name": "10 магазинов DLT-20x.",
+    "Type": "Supply",
+    "Rarity": null
+  },
+  {
+    "ID": 30008,
+    "Name": "Ящик с патронами E-5s.",
+    "Type": "Barricade",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 30009,
+    "Name": "10 магазинов E-5s.",
+    "Type": "Supply",
+    "Rarity": null
+  },
+  {
     "ID": 31265,
     "Name": "Полевой госпиталь.",
     "Type": "Barricade",
@@ -2402,6 +2708,12 @@
   {
     "ID": 40100,
     "Name": "AT-JT",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 40101,
+    "Name": "ATTE",
     "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
@@ -2638,6 +2950,18 @@
     "Name": "Картридж для Westar-M5",
     "Type": "Magazine",
     "Rarity": "Epic"
+  },
+  {
+    "ID": 58312,
+    "Name": "Прицел DC 17m",
+    "Type": "Sight",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 58313,
+    "Name": "Прицел DC 17m",
+    "Type": "Sight",
+    "Rarity": "Legendary"
   },
   {
     "ID": 58314,

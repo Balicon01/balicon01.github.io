@@ -708,6 +708,18 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 5700,
+    "Name": "Lightsaber 1 Marsian",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5701,
+    "Name": "Lightsaber 2 Marsian",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 5919,
     "Name": "Навык силы: Лечение",
     "Type": "Medical",
@@ -1124,6 +1136,18 @@
   {
     "ID": 9029,
     "Name": "BXSE helmet",
+    "Type": "Hat",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 9037,
+    "Name": "IG-11",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 9038,
+    "Name": "IG-11 helmet",
     "Type": "Hat",
     "Rarity": "Epic"
   },
@@ -2431,13 +2455,13 @@
   },
   {
     "ID": 21145,
-    "Name": "Дробик Magazine",
+    "Name": "8 Shells",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
   {
     "ID": 21145,
-    "Name": "8 Shells",
+    "Name": "Дробик Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
   },

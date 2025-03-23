@@ -286,5 +286,11 @@
     "Name": "AT-JT",
     "Type": "Vehicle",
     "Rarity": "Uncommon"
+  },
+  {
+        "ID": 40101,
+    "Name": "AT-TE",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
   }
 ]

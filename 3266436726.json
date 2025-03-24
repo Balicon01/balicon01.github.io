@@ -420,6 +420,18 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 5394,
+    "Name": "RC Хитрец Vest v2",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5395,
+    "Name": "RC Хитрец Hat v2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 5450,
     "Name": "RC Шакрам BackPack",
     "Type": "Backpack",
@@ -1572,6 +1584,36 @@
     "Rarity": "Uncommon"
   },
   {
+    "ID": 14200,
+    "Name": "Чики BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14201,
+    "Name": "Чики BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14202,
+    "Name": "Чики Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 14203,
+    "Name": "Чики Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14204,
+    "Name": "Чики Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 14390,
     "Name": "Юдзиро BackPack",
     "Type": "Backpack",
@@ -2455,13 +2497,13 @@
   },
   {
     "ID": 21145,
-    "Name": "8 Shells",
+    "Name": "Дробик Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
   {
     "ID": 21145,
-    "Name": "Дробик Magazine",
+    "Name": "8 Shells",
     "Type": "Magazine",
     "Rarity": "Rare"
   },

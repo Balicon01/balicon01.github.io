@@ -2497,13 +2497,13 @@
   },
   {
     "ID": 21145,
-    "Name": "Дробик Magazine",
+    "Name": "8 Shells",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
   {
     "ID": 21145,
-    "Name": "8 Shells",
+    "Name": "Дробик Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
@@ -2742,6 +2742,102 @@
     "Rarity": "Uncommon"
   },
   {
+    "ID": 35402,
+    "Name": "SW.Shells1",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 35403,
+    "Name": "SW.Shells2",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 35404,
+    "Name": "SW.Shells3",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 35405,
+    "Name": "SW.Shells4",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 35406,
+    "Name": "SW.Shells5",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 35423,
+    "Name": "SW.Effect",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 35602,
+    "Name": "SW.Shells1_R",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 35603,
+    "Name": "SW.Shells2_R",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 35604,
+    "Name": "SW.Shells3_R",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 35605,
+    "Name": "SW.Shells4_R",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 35606,
+    "Name": "SW.Shells5_R",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 35702,
+    "Name": "SW.Binoshells",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 35703,
+    "Name": "SW.Binoshells1",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 35704,
+    "Name": "SW.Binoshells2",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 35705,
+    "Name": "SW.Binoshells3",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 35706,
+    "Name": "SW.Binoshells4",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
     "ID": 38700,
     "Name": "NT-773",
     "Type": "Gun",
@@ -2778,10 +2874,40 @@
     "Rarity": "Uncommon"
   },
   {
+    "ID": 40100,
+    "Name": "Airstrike Grenade",
+    "Type": "Throwable",
+    "Rarity": "Uncommon"
+  },
+  {
     "ID": 40101,
     "Name": "ATTE",
     "Type": "Vehicle",
     "Rarity": "Uncommon"
+  },
+  {
+    "ID": 40300,
+    "Name": "Airstrike Grenade",
+    "Type": "Throwable",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 40400,
+    "Name": "Airstrike binoculars",
+    "Type": "Gun",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 40401,
+    "Name": "Airstrike binoculars magazine",
+    "Type": "Magazine",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 40402,
+    "Name": "Airstrike binoculars",
+    "Type": "Sight",
+    "Rarity": "Epic"
   },
   {
     "ID": 45000,

@@ -1104,6 +1104,30 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 8810,
+    "Name": "Кваргон Нагрудник",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8811,
+    "Name": "Кваргон Одежда",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 8812,
+    "Name": "Кваргон Рюкзак",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8813,
+    "Name": "Кваргон Шлем",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 8850,
     "Name": "Gaussrifle Pine",
     "Type": "Gun",
@@ -1162,6 +1186,96 @@
     "Name": "IG-11 helmet",
     "Type": "Hat",
     "Rarity": "Epic"
+  },
+  {
+    "ID": 9050,
+    "Name": "327 Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 9051,
+    "Name": "327 Clothes Med",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 9052,
+    "Name": "327 Clothes КМД",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 9053,
+    "Name": "327 Hat ARF 1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 9054,
+    "Name": "327 Hat ARF 2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 9055,
+    "Name": "327 Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 9056,
+    "Name": "327 Hat AS CMD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 9057,
+    "Name": "327 Hat BARK",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 9058,
+    "Name": "327 Hat KD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 9059,
+    "Name": "327 Hat Pilot",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 9060,
+    "Name": "327 Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 9061,
+    "Name": "327 Vest CMD",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 9062,
+    "Name": "212 Vest Med",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 9063,
+    "Name": "327 CMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 9064,
+    "Name": "327 Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
   },
   {
     "ID": 9300,
@@ -2497,13 +2611,13 @@
   },
   {
     "ID": 21145,
-    "Name": "8 Shells",
+    "Name": "Дробик Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
   {
     "ID": 21145,
-    "Name": "Дробик Magazine",
+    "Name": "8 Shells",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
@@ -2869,14 +2983,14 @@
   },
   {
     "ID": 40100,
-    "Name": "AT-JT",
-    "Type": "Vehicle",
+    "Name": "Airstrike Grenade",
+    "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "Airstrike Grenade",
-    "Type": "Throwable",
+    "Name": "AT-JT",
+    "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {

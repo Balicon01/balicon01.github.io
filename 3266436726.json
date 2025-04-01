@@ -258,28 +258,28 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4009,
-    "Name": "Хранилище(Ящик Закрытый)",
-    "Type": "Storage",
-    "Rarity": "Epic"
-  },
-  {
     "ID": 4007,
     "Name": "Набор новичка",
     "Type": "Supply",
     "Rarity": "Rare"
   },
   {
-    "ID": 4010,
-    "Name": "Хранилище(Ящик Открытый)",
-    "Type": "Storage",
-    "Rarity": "Epic"
-  },
-  {
     "ID": 4008,
     "Name": "Blowtorch",
     "Type": "Melee",
     "Rarity": "Uncommon"
+  },
+  {
+    "ID": 4009,
+    "Name": "Хранилище(Ящик Закрытый)",
+    "Type": "Storage",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 4010,
+    "Name": "Хранилище(Ящик Открытый)",
+    "Type": "Storage",
+    "Rarity": "Epic"
   },
   {
     "ID": 4180,
@@ -304,6 +304,18 @@
     "Name": "[MS] Кристалл (Фиолетовый)",
     "Type": "Large",
     "Rarity": null
+  },
+  {
+    "ID": 4261,
+    "Name": "Ящик(Одежда)",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 4262,
+    "Name": "Голокрон(Одежда)",
+    "Type": "Shirt",
+    "Rarity": "Epic"
   },
   {
     "ID": 4400,
@@ -1116,6 +1128,42 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 8800,
+    "Name": "Наплечник АРК v1",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8801,
+    "Name": "Наплечник АРК v2",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8802,
+    "Name": "Наплечник АРК v3",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8803,
+    "Name": "Наплечник лейтенанта",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8804,
+    "Name": "Наплечник сержанта",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8805,
+    "Name": "Наплечник АРК v4",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 8810,
     "Name": "Кваргон Нагрудник",
     "Type": "Vest",
@@ -1288,6 +1336,18 @@
     "Name": "327 Hat ARC",
     "Type": "Hat",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 9120,
+    "Name": "Фонарь",
+    "Type": "Gun",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 9121,
+    "Name": "Tactical Light",
+    "Type": "Tactical",
+    "Rarity": "Rare"
   },
   {
     "ID": 9300,
@@ -1594,6 +1654,36 @@
     "Name": "104 Vest КМД",
     "Type": "Vest",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 11450,
+    "Name": "Hallas BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11451,
+    "Name": "Hallas Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 11452,
+    "Name": "Hallas Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11453,
+    "Name": "Hallas Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11454,
+    "Name": "Hallas Mask",
+    "Type": "Mask",
+    "Rarity": "Rare"
   },
   {
     "ID": 11460,
@@ -2162,6 +2252,12 @@
   {
     "ID": 16511,
     "Name": "Hat ENG",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16512,
+    "Name": "Hat ENG FLEET",
     "Type": "Hat",
     "Rarity": "Mythical"
   },
@@ -3103,14 +3199,14 @@
   },
   {
     "ID": 40100,
-    "Name": "Арт обстрел (ВАР)",
-    "Type": "Throwable",
+    "Name": "AT-JT",
+    "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "AT-JT",
-    "Type": "Vehicle",
+    "Name": "Арт обстрел (ВАР)",
+    "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {
@@ -3141,6 +3237,36 @@
     "ID": 40402,
     "Name": "Airstrike binoculars",
     "Type": "Sight",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 41000,
+    "Name": "LAAT/C",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 41001,
+    "Name": "LAAT/I",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 41002,
+    "Name": "LAAT/I",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 41003,
+    "Name": "LAAT/I",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 41004,
+    "Name": "Прожектор",
+    "Type": "Gun",
     "Rarity": "Epic"
   },
   {

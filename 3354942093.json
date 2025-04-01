@@ -198,6 +198,30 @@
     "Rarity": "Legendary"
   },
   {
+    "ID": 41000,
+    "Name": "Laat/c",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 41001,
+    "Name": "Laat/i gunner",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+    {
+    "ID": 41002,
+    "Name": "Laat/i projector",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 41003,
+    "Name": "Laat/i",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
     "ID": 50057,
     "Name": "HMP",
     "Type": "Vehicle",

@@ -253,7 +253,13 @@
   },
   {
     "ID": 4006,
-    "Name": "Locker",
+    "Name": "Хранилище",
+    "Type": "Storage",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 4007,
+    "Name": "Хранилище(Ящик Закрытый)",
     "Type": "Storage",
     "Rarity": "Epic"
   },
@@ -262,6 +268,12 @@
     "Name": "Набор новичка",
     "Type": "Supply",
     "Rarity": "Rare"
+  },
+  {
+    "ID": 4008,
+    "Name": "Хранилище(Ящик Открытый)",
+    "Type": "Storage",
+    "Rarity": "Epic"
   },
   {
     "ID": 4008,
@@ -1584,6 +1596,102 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 11460,
+    "Name": "Хавок BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11461,
+    "Name": "Хавок Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 11462,
+    "Name": "Хавок Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11463,
+    "Name": "Хавок Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11470,
+    "Name": "Хаммер BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11471,
+    "Name": "Хаммер Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 11472,
+    "Name": "Хаммер Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11473,
+    "Name": "Хаммер Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11480,
+    "Name": "Кольт BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11481,
+    "Name": "Кольт Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 11482,
+    "Name": "Кольт Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11483,
+    "Name": "Кольт Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11490,
+    "Name": "Блиц BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11491,
+    "Name": "Блиц Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 11492,
+    "Name": "Блиц Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11493,
+    "Name": "Блиц Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 11522,
     "Name": "Henti Clothes",
     "Type": "Shirt",
@@ -2008,6 +2116,12 @@
     "Name": "Neam Clothes v3",
     "Type": "Shirt",
     "Rarity": "Epic"
+  },
+  {
+    "ID": 15777,
+    "Name": "Asaf JetPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
   },
   {
     "ID": 16311,
@@ -2611,13 +2725,13 @@
   },
   {
     "ID": 21145,
-    "Name": "Дробик Magazine",
+    "Name": "8 Shells",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
   {
     "ID": 21145,
-    "Name": "8 Shells",
+    "Name": "Дробик Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
@@ -2750,6 +2864,12 @@
   {
     "ID": 24001,
     "Name": "Katana",
+    "Type": "Melee",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 24002,
+    "Name": "Режик Андрюхи",
     "Type": "Melee",
     "Rarity": "Epic"
   },
@@ -2983,7 +3103,7 @@
   },
   {
     "ID": 40100,
-    "Name": "Airstrike Grenade",
+    "Name": "Арт обстрел (ВАР)",
     "Type": "Throwable",
     "Rarity": "Uncommon"
   },
@@ -3001,7 +3121,7 @@
   },
   {
     "ID": 40300,
-    "Name": "Airstrike Grenade",
+    "Name": "Арт обстрел (КНС)",
     "Type": "Throwable",
     "Rarity": "Uncommon"
   },

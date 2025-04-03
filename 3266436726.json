@@ -1164,6 +1164,24 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 8806,
+    "Name": "Наплечник лейтенанта + JP",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8807,
+    "Name": "Наплечник сержанта + JP",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8808,
+    "Name": "Реактивный ранец",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 8810,
     "Name": "Кваргон Нагрудник",
     "Type": "Vest",
@@ -1656,34 +1674,70 @@
     "Rarity": "Mythical"
   },
   {
-    "ID": 11450,
+    "ID": 11420,
     "Name": "Hallas BackPack",
     "Type": "Backpack",
     "Rarity": "Mythical"
   },
   {
-    "ID": 11451,
+    "ID": 11421,
+    "Name": "Hallas BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11422,
+    "Name": "Hallas BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11423,
     "Name": "Hallas Clothes",
     "Type": "Shirt",
     "Rarity": "Epic"
   },
   {
-    "ID": 11452,
+    "ID": 11424,
     "Name": "Hallas Hat",
     "Type": "Hat",
     "Rarity": "Mythical"
   },
   {
-    "ID": 11453,
+    "ID": 11425,
+    "Name": "Hallas Mask",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 11426,
     "Name": "Hallas Vest",
     "Type": "Vest",
     "Rarity": "Mythical"
   },
   {
-    "ID": 11454,
-    "Name": "Hallas Mask",
-    "Type": "Mask",
-    "Rarity": "Rare"
+    "ID": 11430,
+    "Name": "87 BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11431,
+    "Name": "87 Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 11432,
+    "Name": "87 Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 11433,
+    "Name": "87 Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
   },
   {
     "ID": 11460,
@@ -1834,6 +1888,30 @@
     "Name": "Z6 Magazine",
     "Type": "Magazine",
     "Rarity": "Uncommon"
+  },
+  {
+    "ID": 12200,
+    "Name": "Тинокль BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 12201,
+    "Name": "Тинокль Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 12202,
+    "Name": "Тинокль Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 12203,
+    "Name": "Тинокль Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
   },
   {
     "ID": 12300,
@@ -3199,14 +3277,14 @@
   },
   {
     "ID": 40100,
-    "Name": "AT-JT",
-    "Type": "Vehicle",
+    "Name": "Арт обстрел (ВАР)",
+    "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "Арт обстрел (ВАР)",
-    "Type": "Throwable",
+    "Name": "AT-JT",
+    "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
@@ -3267,6 +3345,12 @@
     "ID": 41004,
     "Name": "Прожектор",
     "Type": "Gun",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 41007,
+    "Name": "LAAT/I",
+    "Type": "Vehicle",
     "Rarity": "Epic"
   },
   {

@@ -420,6 +420,12 @@
     "Rarity": "Rare"
   },
   {
+    "ID": 5152,
+    "Name": "Електродубинка",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 5390,
     "Name": "RC Хитрец BackPack",
     "Type": "Backpack",
@@ -744,6 +750,24 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 5655,
+    "Name": "МГЛ Шакрама",
+    "Type": "Gun",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 5656,
+    "Name": "Гранаты к МГЛ Шакрама",
+    "Type": "Magazine",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 5657,
+    "Name": "Bipod Шакрама",
+    "Type": "Grip",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 5700,
     "Name": "Lightsaber 1 Marsian",
     "Type": "Melee",
@@ -754,6 +778,18 @@
     "Name": "Lightsaber 2 Marsian",
     "Type": "Melee",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 5915,
+    "Name": "Навык силы: Помутнение разума",
+    "Type": "Medical",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 5917,
+    "Name": "Навык силы: Восстановление выносливости",
+    "Type": "Medical",
+    "Rarity": "Legendary"
   },
   {
     "ID": 5919,
@@ -1368,6 +1404,30 @@
     "Rarity": "Rare"
   },
   {
+    "ID": 9290,
+    "Name": "KYTA Сlothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 9291,
+    "Name": "KYTA Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 9292,
+    "Name": "KYTA Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 9293,
+    "Name": "KYTA Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 9300,
     "Name": "GUARD Clothes v1",
     "Type": "Shirt",
@@ -1702,12 +1762,6 @@
     "Name": "Hallas Hat",
     "Type": "Hat",
     "Rarity": "Mythical"
-  },
-  {
-    "ID": 11425,
-    "Name": "Hallas Mask",
-    "Type": "Mask",
-    "Rarity": "Rare"
   },
   {
     "ID": 11426,
@@ -2288,6 +2342,12 @@
   {
     "ID": 15777,
     "Name": "Asaf JetPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15778,
+    "Name": "Adiz JetPack",
     "Type": "Backpack",
     "Rarity": "Mythical"
   },

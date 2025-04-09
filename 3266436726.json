@@ -1242,6 +1242,48 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 8815,
+    "Name": "Реактивный ранец",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8816,
+    "Name": "Наплечник АРК v1",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8817,
+    "Name": "Наплечник лейтенанта + JP",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8818,
+    "Name": "Наплечник сержанта + JP",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8819,
+    "Name": "Наплечник командера",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8820,
+    "Name": "Наплечник командера + JP",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8821,
+    "Name": "Наплечник командера + JP",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 8850,
     "Name": "Gaussrifle Pine",
     "Type": "Gun",
@@ -1375,7 +1417,7 @@
   },
   {
     "ID": 9062,
-    "Name": "212 Vest Med",
+    "Name": "327 Vest Med",
     "Type": "Vest",
     "Rarity": "Mythical"
   },
@@ -2472,6 +2514,18 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 17368,
+    "Name": "41 Hat Scout",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 17369,
+    "Name": "1 Hat Scout",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 17371,
     "Name": "501 Clothes",
     "Type": "Shirt",
@@ -2940,6 +2994,84 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 21010,
+    "Name": "SBR Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 21011,
+    "Name": "SBR Clothes Med",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 21012,
+    "Name": "SBR Clothes КМД",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 21013,
+    "Name": "SBR Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 21014,
+    "Name": "SBR Hat ARF 1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 21015,
+    "Name": "SBR Hat ARF 2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 21016,
+    "Name": "SBR Hat AS 0",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 21017,
+    "Name": "SBR Hat AS 1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 21018,
+    "Name": "SBR Hat AS CMD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 21019,
+    "Name": "SBR Hat Pilot",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 21020,
+    "Name": "SBR Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 21021,
+    "Name": "SBR Vest CMD",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 21022,
+    "Name": "SBR Vest Med",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 21115,
     "Name": "Поза 1",
     "Type": "Cloud",
@@ -2959,13 +3091,13 @@
   },
   {
     "ID": 21145,
-    "Name": "8 Shells",
+    "Name": "Дробик Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
   {
     "ID": 21145,
-    "Name": "Дробик Magazine",
+    "Name": "8 Shells",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
@@ -3337,14 +3469,14 @@
   },
   {
     "ID": 40100,
-    "Name": "Арт обстрел (ВАР)",
-    "Type": "Throwable",
+    "Name": "AT-JT",
+    "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "AT-JT",
-    "Type": "Vehicle",
+    "Name": "Арт обстрел (ВАР)",
+    "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {

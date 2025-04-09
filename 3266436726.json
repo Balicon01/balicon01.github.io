@@ -858,6 +858,12 @@
     "Rarity": null
   },
   {
+    "ID": 6511,
+    "Name": "Штрафбат",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 6560,
     "Name": "Кега Clothes",
     "Type": "Shirt",
@@ -1137,6 +1143,42 @@
     "ID": 8104,
     "Name": "Меткий Шлем",
     "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8430,
+    "Name": "Shadow Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 8431,
+    "Name": "Shadow Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8432,
+    "Name": "Shadow Hat ARF 1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8433,
+    "Name": "Shadow Hat AS 0",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8434,
+    "Name": "Shadow Hat Pilot",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8435,
+    "Name": "Shadow Vest",
+    "Type": "Vest",
     "Rarity": "Mythical"
   },
   {
@@ -2982,8 +3024,32 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 20558,
+    "Name": "Visor Rancor Блиц",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 20559,
+    "Name": "Visor Rancor Кольт",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 20559,
     "Name": "Visor",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 20560,
+    "Name": "Visor Rancor Хаммер",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 20561,
+    "Name": "Visor Rancor Хавок",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
@@ -3342,6 +3408,12 @@
     "Rarity": "Uncommon"
   },
   {
+    "ID": 31290,
+    "Name": "Стенд \"Донатеры\"",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
     "ID": 35402,
     "Name": "SW.Shells1",
     "Type": "Effect",
@@ -3469,14 +3541,14 @@
   },
   {
     "ID": 40100,
-    "Name": "AT-JT",
-    "Type": "Vehicle",
+    "Name": "Арт обстрел (ВАР)",
+    "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "Арт обстрел (ВАР)",
-    "Type": "Throwable",
+    "Name": "AT-JT",
+    "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {

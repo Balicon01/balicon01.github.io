@@ -384,6 +384,18 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 4880,
+    "Name": "ТаверСитх Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 4881,
+    "Name": "ТаверСитх Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 5020,
     "Name": "Germo Door 1",
     "Type": "Barricade",
@@ -768,6 +780,12 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 5690,
+    "Name": "Lightsaber 0 R",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 5700,
     "Name": "Lightsaber 1 Marsian",
     "Type": "Melee",
@@ -1143,6 +1161,36 @@
     "ID": 8104,
     "Name": "Меткий Шлем",
     "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8300,
+    "Name": "White Wookie Glasses",
+    "Type": "Glasses",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8301,
+    "Name": "White Wookie Head",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8302,
+    "Name": "White Wookie Pants",
+    "Type": "Pants",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8303,
+    "Name": "White Wookie Top",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8304,
+    "Name": "White Wookie Vest",
+    "Type": "Vest",
     "Rarity": "Mythical"
   },
   {
@@ -1678,6 +1726,24 @@
     "Name": "FLEET Hat PLT Guardia",
     "Type": "Hat",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 9700,
+    "Name": "PTRD \"Валентина\"",
+    "Type": "Gun",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 9701,
+    "Name": "Снаряд PTRD \"Валентины\"",
+    "Type": "Magazine",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 9702,
+    "Name": "Прицел PTRD",
+    "Type": "Sight",
+    "Rarity": "Legendary"
   },
   {
     "ID": 9990,
@@ -2484,6 +2550,36 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 17020,
+    "Name": "Fox BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 17021,
+    "Name": "Fox Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 17022,
+    "Name": "Fox Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 17023,
+    "Name": "Fox Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 17024,
+    "Name": "Козырек Fox",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
     "ID": 17340,
     "Name": "Dargen BackPack",
     "Type": "Backpack",
@@ -3031,13 +3127,13 @@
   },
   {
     "ID": 20559,
-    "Name": "Visor Rancor Кольт",
+    "Name": "Visor",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
   {
     "ID": 20559,
-    "Name": "Visor",
+    "Name": "Visor Rancor Кольт",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
@@ -3157,13 +3253,13 @@
   },
   {
     "ID": 21145,
-    "Name": "Дробик Magazine",
+    "Name": "8 Shells",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
   {
     "ID": 21145,
-    "Name": "8 Shells",
+    "Name": "Дробик Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
@@ -3541,14 +3637,14 @@
   },
   {
     "ID": 40100,
-    "Name": "Арт обстрел (ВАР)",
-    "Type": "Throwable",
+    "Name": "AT-JT",
+    "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "AT-JT",
-    "Type": "Vehicle",
+    "Name": "Арт обстрел (ВАР)",
+    "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {

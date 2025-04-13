@@ -3127,13 +3127,13 @@
   },
   {
     "ID": 20559,
-    "Name": "Visor",
+    "Name": "Visor Rancor Кольт",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
   {
     "ID": 20559,
-    "Name": "Visor Rancor Кольт",
+    "Name": "Visor",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
@@ -3253,13 +3253,13 @@
   },
   {
     "ID": 21145,
-    "Name": "8 Shells",
+    "Name": "Дробик Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
   {
     "ID": 21145,
-    "Name": "Дробик Magazine",
+    "Name": "8 Shells",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
@@ -3826,6 +3826,18 @@
     "Name": "Gauss Scope",
     "Type": "Sight",
     "Rarity": "Rare"
+  },
+  {
+    "ID": 49104,
+    "Name": "R4",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 49105,
+    "Name": "R4",
+    "Type": "Shirt",
+    "Rarity": "Epic"
   },
   {
     "ID": 50056,

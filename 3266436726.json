@@ -384,6 +384,24 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 4500,
+    "Name": "Боевой бластер MA40",
+    "Type": "Gun",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 4501,
+    "Name": "Картридж для MA40",
+    "Type": "Magazine",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 4502,
+    "Name": "Прицел для MA40",
+    "Type": "Sight",
+    "Rarity": "Rare"
+  },
+  {
     "ID": 4880,
     "Name": "ТаверСитх Clothes",
     "Type": "Shirt",
@@ -782,6 +800,12 @@
   {
     "ID": 5690,
     "Name": "Lightsaber 0 R",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5691,
+    "Name": "Lightsaber Forzi",
     "Type": "Melee",
     "Rarity": "Mythical"
   },
@@ -3253,13 +3277,13 @@
   },
   {
     "ID": 21145,
-    "Name": "8 Shells",
+    "Name": "Дробик Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
   {
     "ID": 21145,
-    "Name": "Дробик Magazine",
+    "Name": "8 Shells",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
@@ -3847,13 +3871,13 @@
   },
   {
     "ID": 49104,
-    "Name": "Броня Джедаев",
+    "Name": "Броня Дарт Молл",
     "Type": "Shirt",
     "Rarity": "Epic"
   },
   {
     "ID": 49105,
-    "Name": "Броня Дарт Молл",
+    "Name": "Броня Джедаев",
     "Type": "Shirt",
     "Rarity": "Epic"
   },

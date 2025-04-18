@@ -888,6 +888,30 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 6240,
+    "Name": "Касс Нагрудник",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 6241,
+    "Name": "Касс Одежда",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 6242,
+    "Name": "Касс Рюкзак",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 6243,
+    "Name": "Касс Шлем",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 6371,
     "Name": "Hat 1Phase",
     "Type": "Hat",
@@ -3151,13 +3175,13 @@
   },
   {
     "ID": 20559,
-    "Name": "Visor",
+    "Name": "Visor Rancor Кольт",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
   {
     "ID": 20559,
-    "Name": "Visor Rancor Кольт",
+    "Name": "Visor",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
@@ -3277,13 +3301,13 @@
   },
   {
     "ID": 21145,
-    "Name": "Дробик Magazine",
+    "Name": "8 Shells",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
   {
     "ID": 21145,
-    "Name": "8 Shells",
+    "Name": "Дробик Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
@@ -3630,6 +3654,60 @@
     "Rarity": null
   },
   {
+    "ID": 38305,
+    "Name": "Gungan Head",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 38306,
+    "Name": "Gungan Pants",
+    "Type": "Pants",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 38307,
+    "Name": "Gungan Top",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 38308,
+    "Name": "Gungan Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 38309,
+    "Name": "Rakghoul Top",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 38310,
+    "Name": "Rakghoul Top",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 38311,
+    "Name": "Rakghoul Head",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 38312,
+    "Name": "Rakghoul Pants",
+    "Type": "Pants",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 38313,
+    "Name": "Rakghoul Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 38700,
     "Name": "NT-773",
     "Type": "Gun",
@@ -3661,14 +3739,14 @@
   },
   {
     "ID": 40100,
-    "Name": "AT-JT",
-    "Type": "Vehicle",
+    "Name": "Арт обстрел (ВАР)",
+    "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "Арт обстрел (ВАР)",
-    "Type": "Throwable",
+    "Name": "AT-JT",
+    "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
@@ -3878,6 +3956,18 @@
   {
     "ID": 49105,
     "Name": "Броня Джедаев",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 49110,
+    "Name": "R2D2(Шакрам)",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 49111,
+    "Name": "C1B2(Зрячий)",
     "Type": "Shirt",
     "Rarity": "Epic"
   },
@@ -4258,5 +4348,11 @@
     "Name": "Ноутбук с данными ВАР",
     "Type": "Barricade",
     "Rarity": "Epic"
+  },
+  {
+    "ID": 60003,
+    "Name": "Vertical Grip",
+    "Type": "Grip",
+    "Rarity": "Rare"
   }
 ]

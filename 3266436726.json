@@ -60,6 +60,12 @@
     "Rarity": "Rare"
   },
   {
+    "ID": 3020,
+    "Name": "Vertical Grip",
+    "Type": "Grip",
+    "Rarity": "Rare"
+  },
+  {
     "ID": 3100,
     "Name": "Прайс BackPack",
     "Type": "Backpack",
@@ -3301,13 +3307,13 @@
   },
   {
     "ID": 21145,
-    "Name": "8 Shells",
+    "Name": "Дробик Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
   {
     "ID": 21145,
-    "Name": "Дробик Magazine",
+    "Name": "8 Shells",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
@@ -3739,14 +3745,14 @@
   },
   {
     "ID": 40100,
-    "Name": "Арт обстрел (ВАР)",
-    "Type": "Throwable",
+    "Name": "AT-JT",
+    "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "AT-JT",
-    "Type": "Vehicle",
+    "Name": "Арт обстрел (ВАР)",
+    "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {
@@ -3930,20 +3936,26 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 49100,
-    "Name": "R4D6",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
     "ID": 49101,
-    "Name": "R2D2",
+    "Name": "R2(Blue)",
     "Type": "Shirt",
     "Rarity": "Epic"
   },
   {
     "ID": 49102,
-    "Name": "C1B2",
+    "Name": "R2(Green)",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 49103,
+    "Name": "R2(Orange)",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 49104,
+    "Name": "R4(Blue)",
     "Type": "Shirt",
     "Rarity": "Epic"
   },
@@ -3960,6 +3972,36 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 49105,
+    "Name": "R4(Green)",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 49106,
+    "Name": "R4(Orange)",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 49107,
+    "Name": "R5(m1)",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 49108,
+    "Name": "R5(m2)",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 49109,
+    "Name": "R5(m3)",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 49110,
     "Name": "R2D2(Шакрам)",
     "Type": "Shirt",
@@ -3970,6 +4012,12 @@
     "Name": "C1B2(Зрячий)",
     "Type": "Shirt",
     "Rarity": "Epic"
+  },
+  {
+    "ID": 49199,
+    "Name": "Интегрированный наушник",
+    "Type": "Mask",
+    "Rarity": "Rare"
   },
   {
     "ID": 50056,
@@ -4348,11 +4396,5 @@
     "Name": "Ноутбук с данными ВАР",
     "Type": "Barricade",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 60003,
-    "Name": "Vertical Grip",
-    "Type": "Grip",
-    "Rarity": "Rare"
   }
 ]

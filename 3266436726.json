@@ -3163,13 +3163,13 @@
   },
   {
     "ID": 20552,
-    "Name": "Visor_Dargen",
+    "Name": "Visor_3_Anim",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
   {
     "ID": 20552,
-    "Name": "Visor_3_Anim",
+    "Name": "Visor_Dargen",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
@@ -3181,13 +3181,13 @@
   },
   {
     "ID": 20559,
-    "Name": "Visor_Rancor_2",
+    "Name": "Visor_5_1phase",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
   {
     "ID": 20559,
-    "Name": "Visor_5_1phase",
+    "Name": "Visor_Rancor_2",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
@@ -3307,13 +3307,13 @@
   },
   {
     "ID": 21145,
-    "Name": "Дробик Magazine",
+    "Name": "Дробаш Шахрама Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
   {
     "ID": 21145,
-    "Name": "Дробаш Шахрама Magazine",
+    "Name": "Дробик Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
@@ -4010,6 +4010,12 @@
   {
     "ID": 49115,
     "Name": "Probe Droid",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 49116,
+    "Name": "r2(Тоха)",
     "Type": "Shirt",
     "Rarity": "Epic"
   },

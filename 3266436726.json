@@ -3163,13 +3163,13 @@
   },
   {
     "ID": 20552,
-    "Name": "Visor_3_Anim",
+    "Name": "Visor_Dargen",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
   {
     "ID": 20552,
-    "Name": "Visor_Dargen",
+    "Name": "Visor_3_Anim",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
@@ -3181,13 +3181,13 @@
   },
   {
     "ID": 20559,
-    "Name": "Visor_5_1phase",
+    "Name": "Visor_Rancor_2",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
   {
     "ID": 20559,
-    "Name": "Visor_Rancor_2",
+    "Name": "Visor_5_1phase",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
@@ -3712,6 +3712,18 @@
     "Name": "Rakghoul_Vest",
     "Type": "Vest",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 38320,
+    "Name": "Gungan_0_Glasses",
+    "Type": "Glasses",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 38321,
+    "Name": "Gungan_0_Tank",
+    "Type": "Backpack",
+    "Rarity": "Rare"
   },
   {
     "ID": 38700,

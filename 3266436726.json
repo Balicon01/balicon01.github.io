@@ -816,6 +816,12 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 5693,
+    "Name": "МечАсока",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 5700,
     "Name": "Lightsaber_1",
     "Type": "Melee",
@@ -2448,6 +2454,24 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 15020,
+    "Name": "Asoka_Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 15021,
+    "Name": "Asoka_Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15022,
+    "Name": "Asoka_Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 15164,
     "Name": "MandalorGun",
     "Type": "Gun",
@@ -2752,6 +2776,24 @@
     "Name": "501_Hat_CMD",
     "Type": "Hat",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 17390,
+    "Name": "332_Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 17391,
+    "Name": "332_Hat_ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 17392,
+    "Name": "332_Козырек",
+    "Type": "Mask",
+    "Rarity": "Rare"
   },
   {
     "ID": 17850,
@@ -3163,13 +3205,13 @@
   },
   {
     "ID": 20552,
-    "Name": "Visor_Dargen",
+    "Name": "Visor_3_Anim",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
   {
     "ID": 20552,
-    "Name": "Visor_3_Anim",
+    "Name": "Visor_Dargen",
     "Type": "Glasses",
     "Rarity": "Epic"
   },

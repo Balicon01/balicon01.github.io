@@ -606,6 +606,30 @@
     "Rarity": "Rare"
   },
   {
+    "ID": 5520,
+    "Name": "Мага_Броня",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5521,
+    "Name": "Мага_Голова",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5522,
+    "Name": "Мага_Одежда",
+    "Type": "Shirt",
+    "Rarity": "Common"
+  },
+  {
+    "ID": 5523,
+    "Name": "Мага_Штаны",
+    "Type": "Pants",
+    "Rarity": "Common"
+  },
+  {
     "ID": 5620,
     "Name": "Lightsaber_0",
     "Type": "Melee",
@@ -2292,6 +2316,18 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 14394,
+    "Name": "Юдзиро_Hat_v2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14395,
+    "Name": "Юдзиро_Козырек",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
     "ID": 14400,
     "Name": "Marsian_BackPack",
     "Type": "Backpack",
@@ -3223,13 +3259,13 @@
   },
   {
     "ID": 20559,
-    "Name": "Visor_Rancor_2",
+    "Name": "Visor_5_1phase",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
   {
     "ID": 20559,
-    "Name": "Visor_5_1phase",
+    "Name": "Visor_Rancor_2",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
@@ -3427,13 +3463,13 @@
   },
   {
     "ID": 22844,
-    "Name": "Rex_Pistols — копия",
+    "Name": "Rex_Pistols",
     "Type": "Gun",
     "Rarity": "Epic"
   },
   {
     "ID": 22844,
-    "Name": "Rex_Pistols",
+    "Name": "Rex_Pistols — копия",
     "Type": "Gun",
     "Rarity": "Epic"
   },
@@ -3799,14 +3835,14 @@
   },
   {
     "ID": 40100,
-    "Name": "AT-JT",
-    "Type": "Vehicle",
+    "Name": "SW.Grenade",
+    "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "SW.Grenade",
-    "Type": "Throwable",
+    "Name": "AT-JT",
+    "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
@@ -4070,6 +4106,12 @@
   {
     "ID": 49116,
     "Name": "r2(Тоха)",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 49118,
+    "Name": "R5(Юдзиро)",
     "Type": "Shirt",
     "Rarity": "Epic"
   },

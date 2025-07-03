@@ -2923,31 +2923,31 @@
   },
   {
     "ID": 16420,
-    "Name": "BackPack",
+    "Name": "Tahir_BackPack",
     "Type": "Backpack",
     "Rarity": "Mythical"
   },
   {
     "ID": 16421,
-    "Name": "Clothes",
+    "Name": "Tahir_Clothes",
     "Type": "Shirt",
     "Rarity": "Epic"
   },
   {
     "ID": 16422,
-    "Name": "Hat",
+    "Name": "Tahir_Hat",
     "Type": "Hat",
     "Rarity": "Mythical"
   },
   {
     "ID": 16423,
-    "Name": "Vest",
+    "Name": "Tahir_Vest",
     "Type": "Vest",
     "Rarity": "Mythical"
   },
   {
     "ID": 16424,
-    "Name": "Козырек",
+    "Name": "Tahir_Козырек",
     "Type": "Mask",
     "Rarity": "Rare"
   },

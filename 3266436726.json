@@ -1039,19 +1039,19 @@
   },
   {
     "ID": 6620,
-    "Name": "Flame_clothes",
+    "Name": "Пират_clothes",
     "Type": "Shirt",
     "Rarity": "Epic"
   },
   {
     "ID": 6621,
-    "Name": "Flame_Hat",
+    "Name": "Пират_Hat",
     "Type": "Hat",
     "Rarity": "Mythical"
   },
   {
     "ID": 6622,
-    "Name": "Flame_Vest",
+    "Name": "Пират_Vest",
     "Type": "Vest",
     "Rarity": "Mythical"
   },
@@ -1081,7 +1081,7 @@
   },
   {
     "ID": 6666,
-    "Name": "Mars_Caps",
+    "Name": "Mars_Cap",
     "Type": "Hat",
     "Rarity": "Uncommon"
   },
@@ -3145,19 +3145,19 @@
   },
   {
     "ID": 17430,
-    "Name": "Clothes",
+    "Name": "SPC_Clothes",
     "Type": "Shirt",
     "Rarity": "Epic"
   },
   {
     "ID": 17431,
-    "Name": "Hat",
+    "Name": "SPC_Hat",
     "Type": "Hat",
     "Rarity": "Mythical"
   },
   {
     "ID": 17432,
-    "Name": "Vest",
+    "Name": "SPC_Vest",
     "Type": "Vest",
     "Rarity": "Mythical"
   },

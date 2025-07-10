@@ -487,13 +487,13 @@
   },
   {
     "ID": 5230,
-    "Name": "Generator_Large",
+    "Name": "Энергощит",
     "Type": "Barricade",
     "Rarity": "Legendary"
   },
   {
     "ID": 5230,
-    "Name": "Энергощит",
+    "Name": "Generator_Large",
     "Type": "Barricade",
     "Rarity": "Legendary"
   },
@@ -674,12 +674,6 @@
   {
     "ID": 5620,
     "Name": "Lightsaber_0",
-    "Type": "Melee",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 5620,
-    "Name": "ds",
     "Type": "Melee",
     "Rarity": "Mythical"
   },
@@ -907,14 +901,14 @@
   },
   {
     "ID": 5915,
-    "Name": "Jedi_Syringe",
-    "Type": "Medical",
+    "Name": "LAAT_le",
+    "Type": "Vehicle",
     "Rarity": "Legendary"
   },
   {
     "ID": 5915,
-    "Name": "LAAT_le",
-    "Type": "Vehicle",
+    "Name": "Jedi_Syringe",
+    "Type": "Medical",
     "Rarity": "Legendary"
   },
   {
@@ -1245,6 +1239,36 @@
     "ID": 7364,
     "Name": "41_Vest_Scout",
     "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7620,
+    "Name": "Lightsaber_0",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7621,
+    "Name": "Lightsaber_4",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7622,
+    "Name": "Lightsaber_1",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7623,
+    "Name": "Lightsaber_2",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7629,
+    "Name": "Lightsaber_5DUAL",
+    "Type": "Melee",
     "Rarity": "Mythical"
   },
   {
@@ -1663,15 +1687,15 @@
   },
   {
     "ID": 9006,
-    "Name": "BOCO_ШлемАРК",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9006,
     "Name": "Баррикада_1",
     "Type": "Storage",
     "Rarity": "Epic"
+  },
+  {
+    "ID": 9006,
+    "Name": "BOCO_ШлемАРК",
+    "Type": "Hat",
+    "Rarity": "Mythical"
   },
   {
     "ID": 9007,
@@ -3649,13 +3673,13 @@
   },
   {
     "ID": 20552,
-    "Name": "Visor_3_Anim",
+    "Name": "Visor_Dargen",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
   {
     "ID": 20552,
-    "Name": "Visor_Dargen",
+    "Name": "Visor_3_Anim",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
@@ -3667,13 +3691,13 @@
   },
   {
     "ID": 20559,
-    "Name": "Visor_5_1phase",
+    "Name": "Visor_Rancor_2",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
   {
     "ID": 20559,
-    "Name": "Visor_Rancor_2",
+    "Name": "Visor_5_1phase",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
@@ -4080,6 +4104,24 @@
     "Rarity": "Uncommon"
   },
   {
+    "ID": 33205,
+    "Name": "FLEET_Cap",
+    "Type": "Hat",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 33502,
+    "Name": "FLEET_bottom",
+    "Type": "Pants",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 33602,
+    "Name": "FLEET_top",
+    "Type": "Shirt",
+    "Rarity": "Rare"
+  },
+  {
     "ID": 35402,
     "Name": "SW.Shells1",
     "Type": "Effect",
@@ -4279,14 +4321,14 @@
   },
   {
     "ID": 40100,
-    "Name": "SW.Grenade",
-    "Type": "Throwable",
+    "Name": "AT-JT",
+    "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "AT-JT",
-    "Type": "Vehicle",
+    "Name": "SW.Grenade",
+    "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {
@@ -4480,6 +4522,102 @@
     "Name": "Gauss_Scope",
     "Type": "Sight",
     "Rarity": "Rare"
+  },
+  {
+    "ID": 48323,
+    "Name": "RCNeyronShirt",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 48324,
+    "Name": "RCNeyronHelm",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 48325,
+    "Name": "RCNeyronVest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 48326,
+    "Name": "RCNeyronBackV3",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 48328,
+    "Name": "RCFluriShirt",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 48329,
+    "Name": "RCFluriVest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 48330,
+    "Name": "RCFluriHelm",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 48331,
+    "Name": "RCFluriBackV2",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 48332,
+    "Name": "RCMorgShirt",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 48333,
+    "Name": "RCMorgHelm",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 48334,
+    "Name": "RCMorgVest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 48335,
+    "Name": "RCMorgBackV2",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 48353,
+    "Name": "RCGoofyShirt",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 48354,
+    "Name": "RCGoofyVest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 48355,
+    "Name": "RCGoofyBack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 48356,
+    "Name": "RCGoofyHelm",
+    "Type": "Hat",
+    "Rarity": "Mythical"
   },
   {
     "ID": 49101,
@@ -4705,13 +4843,13 @@
   },
   {
     "ID": 58306,
-    "Name": "westar_m5 — копия",
+    "Name": "westar_m5",
     "Type": "Gun",
     "Rarity": "Epic"
   },
   {
     "ID": 58306,
-    "Name": "westar_m5",
+    "Name": "westar_m5 — копия",
     "Type": "Gun",
     "Rarity": "Epic"
   },
@@ -4752,48 +4890,6 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 58323,
-    "Name": "RCNeyronShirt",
-    "Type": "Shirt",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58324,
-    "Name": "RCNeyronHelm",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58325,
-    "Name": "RCNeyronVest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58326,
-    "Name": "RCNeyronBackV3",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58328,
-    "Name": "RCFluriShirt",
-    "Type": "Shirt",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58329,
-    "Name": "RCFluriVest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58330,
-    "Name": "RCFluriHelm",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
     "ID": 58330,
     "Name": "dc_17m_antiarmor",
     "Type": "Gun",
@@ -4806,30 +4902,6 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 58331,
-    "Name": "RCFluriBackV2",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58332,
-    "Name": "RCMorgShirt",
-    "Type": "Shirt",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58333,
-    "Name": "RCMorgHelm",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58334,
-    "Name": "RCMorgVest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
     "ID": 58334,
     "Name": "dc_17m_Scope_1x",
     "Type": "Sight",
@@ -4840,18 +4912,6 @@
     "Name": "Blaster_Pistol_RC",
     "Type": "Gun",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 58335,
-    "Name": "RCMorgBackV2",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58336,
-    "Name": "Westar35D",
-    "Type": "Gun",
-    "Rarity": "Epic"
   },
   {
     "ID": 58337,
@@ -4950,30 +5010,6 @@
     "Rarity": "Mythical"
   },
   {
-    "ID": 58353,
-    "Name": "RCGoofyShirt",
-    "Type": "Shirt",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58354,
-    "Name": "RCGoofyVest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58355,
-    "Name": "RCGoofyBack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58356,
-    "Name": "RCGoofyHelm",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
     "ID": 58357,
     "Name": "Jetpack_Durge_UP",
     "Type": "Cloud",
@@ -4986,28 +5022,22 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 58359,
-    "Name": "Westar35D_Mag",
-    "Type": "Magazine",
-    "Rarity": "Epic"
-  },
-  {
     "ID": 58360,
     "Name": "EnemyLaptop",
     "Type": "Barricade",
     "Rarity": "Epic"
   },
   {
-    "ID": 58360,
-    "Name": "Blaster_Pistol_RC_Mag",
-    "Type": "Magazine",
-    "Rarity": "Rare"
-  },
-  {
     "ID": 58361,
     "Name": "Laptop",
     "Type": "Barricade",
     "Rarity": "Epic"
+  },
+  {
+    "ID": 58365,
+    "Name": "Blaster_Pistol_RC_Mag",
+    "Type": "Magazine",
+    "Rarity": "Rare"
   },
   {
     "ID": 58980,

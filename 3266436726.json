@@ -415,15 +415,15 @@
   },
   {
     "ID": 4502,
-    "Name": "Туррель_1(Vehicle)",
-    "Type": "Vehicle",
-    "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4502,
     "Name": "MA40_Scope",
     "Type": "Sight",
     "Rarity": "Rare"
+  },
+  {
+    "ID": 4502,
+    "Name": "Туррель_1(Vehicle)",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
   },
   {
     "ID": 4550,
@@ -487,13 +487,13 @@
   },
   {
     "ID": 5230,
-    "Name": "Энергощит",
+    "Name": "Generator_Large",
     "Type": "Barricade",
     "Rarity": "Legendary"
   },
   {
     "ID": 5230,
-    "Name": "Generator_Large",
+    "Name": "Энергощит",
     "Type": "Barricade",
     "Rarity": "Legendary"
   },
@@ -673,13 +673,13 @@
   },
   {
     "ID": 5620,
-    "Name": "ds",
+    "Name": "Lightsaber_0",
     "Type": "Melee",
     "Rarity": "Mythical"
   },
   {
     "ID": 5620,
-    "Name": "Lightsaber_0",
+    "Name": "ds",
     "Type": "Melee",
     "Rarity": "Mythical"
   },
@@ -909,6 +909,12 @@
     "ID": 5915,
     "Name": "Jedi_Syringe",
     "Type": "Medical",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 5915,
+    "Name": "LAAT_le",
+    "Type": "Vehicle",
     "Rarity": "Legendary"
   },
   {
@@ -1657,15 +1663,15 @@
   },
   {
     "ID": 9006,
-    "Name": "Баррикада_1",
-    "Type": "Storage",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9006,
     "Name": "BOCO_ШлемАРК",
     "Type": "Hat",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 9006,
+    "Name": "Баррикада_1",
+    "Type": "Storage",
+    "Rarity": "Epic"
   },
   {
     "ID": 9007,
@@ -2773,7 +2779,7 @@
   },
   {
     "ID": 15038,
-    "Name": "S_Blaster",
+    "Name": "DLT-20a",
     "Type": "Gun",
     "Rarity": "Epic"
   },
@@ -3643,13 +3649,13 @@
   },
   {
     "ID": 20552,
-    "Name": "Visor_Dargen",
+    "Name": "Visor_3_Anim",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
   {
     "ID": 20552,
-    "Name": "Visor_3_Anim",
+    "Name": "Visor_Dargen",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
@@ -3895,13 +3901,13 @@
   },
   {
     "ID": 22844,
-    "Name": "Rex_Pistols",
+    "Name": "Rex_Pistols — копия",
     "Type": "Gun",
     "Rarity": "Epic"
   },
   {
     "ID": 22844,
-    "Name": "Rex_Pistols — копия",
+    "Name": "Rex_Pistols",
     "Type": "Gun",
     "Rarity": "Epic"
   },
@@ -4273,14 +4279,14 @@
   },
   {
     "ID": 40100,
-    "Name": "AT-JT",
-    "Type": "Vehicle",
+    "Name": "SW.Grenade",
+    "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "SW.Grenade",
-    "Type": "Throwable",
+    "Name": "AT-JT",
+    "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
@@ -4346,6 +4352,18 @@
   {
     "ID": 41007,
     "Name": "LAAT_I_Тест",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 44229,
+    "Name": "NuClass_1",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 44230,
+    "Name": "NuClass_0",
     "Type": "Vehicle",
     "Rarity": "Epic"
   },
@@ -4687,6 +4705,12 @@
   },
   {
     "ID": 58306,
+    "Name": "westar_m5 — копия",
+    "Type": "Gun",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 58306,
     "Name": "westar_m5",
     "Type": "Gun",
     "Rarity": "Epic"
@@ -4777,15 +4801,15 @@
   },
   {
     "ID": 58331,
-    "Name": "RCFluriBackV2",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58331,
     "Name": "dc_17m_antiarmor_mag",
     "Type": "Magazine",
     "Rarity": "Epic"
+  },
+  {
+    "ID": 58331,
+    "Name": "RCFluriBackV2",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
   },
   {
     "ID": 58332,
@@ -4801,15 +4825,15 @@
   },
   {
     "ID": 58334,
-    "Name": "dc_17m_Scope_1x",
-    "Type": "Sight",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 58334,
     "Name": "RCMorgVest",
     "Type": "Vest",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 58334,
+    "Name": "dc_17m_Scope_1x",
+    "Type": "Sight",
+    "Rarity": "Legendary"
   },
   {
     "ID": 58335,

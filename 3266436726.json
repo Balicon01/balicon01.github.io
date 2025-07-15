@@ -396,28 +396,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4500,
-    "Name": "Боевой бластер MA40",
-    "Type": "Gun",
-    "Rarity": "Epic"
-  },
-  {
     "ID": 4501,
     "Name": "Туррель 1",
     "Type": "Barricade",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4501,
-    "Name": "Картридж для MA40",
-    "Type": "Magazine",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 4502,
-    "Name": "Прицел для MA40",
-    "Type": "Sight",
-    "Rarity": "Rare"
   },
   {
     "ID": 4502,
@@ -1000,6 +982,24 @@
     "Name": "Навык силы: Щит",
     "Type": "Melee",
     "Rarity": null
+  },
+  {
+    "ID": 6500,
+    "Name": "Боевой бластер MA40",
+    "Type": "Gun",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 6501,
+    "Name": "Картридж для MA40",
+    "Type": "Magazine",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 6502,
+    "Name": "Прицел для MA40",
+    "Type": "Sight",
+    "Rarity": "Rare"
   },
   {
     "ID": 6511,

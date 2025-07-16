@@ -1092,6 +1092,12 @@
     "Rarity": null
   },
   {
+    "ID": 6990,
+    "Name": "B2 Clothes m1",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 7000,
     "Name": "Clothes CPT",
     "Type": "Shirt",
@@ -1717,15 +1723,15 @@
   },
   {
     "ID": 9009,
-    "Name": "Баррикада_4",
-    "Type": "Storage",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9009,
     "Name": "BOCO Шлем Огнемётчика",
     "Type": "Hat",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 9009,
+    "Name": "Баррикада_4",
+    "Type": "Storage",
+    "Rarity": "Epic"
   },
   {
     "ID": 9010,
@@ -1743,24 +1749,6 @@
     "ID": 9020,
     "Name": "Sentry",
     "Type": "Sentry",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9020,
-    "Name": "Система 1",
-    "Type": "Storage",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9021,
-    "Name": "Система 2",
-    "Type": "Storage",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9022,
-    "Name": "Система 2",
-    "Type": "Storage",
     "Rarity": "Epic"
   },
   {
@@ -1882,6 +1870,24 @@
     "Name": "327 Hat ARC",
     "Type": "Hat",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 9090,
+    "Name": "Система 1",
+    "Type": "Storage",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 9091,
+    "Name": "Система 2",
+    "Type": "Storage",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 9092,
+    "Name": "Система 2",
+    "Type": "Storage",
+    "Rarity": "Epic"
   },
   {
     "ID": 9120,
@@ -2545,6 +2551,12 @@
   },
   {
     "ID": 12564,
+    "Name": "B2 GUN",
+    "Type": "Gun",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 12564,
     "Name": "Z42",
     "Type": "Gun",
     "Rarity": "Legendary"
@@ -2552,6 +2564,12 @@
   {
     "ID": 12565,
     "Name": "Z42 Magazine",
+    "Type": "Magazine",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 12565,
+    "Name": "B2 Magazine",
     "Type": "Magazine",
     "Rarity": "Uncommon"
   },
@@ -4960,6 +4978,18 @@
     "Name": "10 магазинов DLT-20X",
     "Type": "Supply",
     "Rarity": null
+  },
+  {
+    "ID": 55991,
+    "Name": "B2 Launcher",
+    "Type": "Gun",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 55992,
+    "Name": "B2 Rocket",
+    "Type": "Magazine",
+    "Rarity": "Legendary"
   },
   {
     "ID": 55998,

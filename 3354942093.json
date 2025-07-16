@@ -316,5 +316,52 @@
     "Name": "AT-TE",
     "Type": "Vehicle",
     "Rarity": "Uncommon"
+  },
+  {
+        "ID": 44236,
+    "Name": "ARC-170",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 5915,
+    "Name": "Laat/LE",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 44234,
+    "Name": "Стервятник",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 44231,
+    "Name": "MTT",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 44232,
+    "Name": "RTT",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 44233,
+    "Name": "RTT с турелью",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon",
+  {
+        "ID": 44230,
+    "Name": "Nu classs",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 44229,
+    "Name": "Nu classs - Mars",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
   }
 ]

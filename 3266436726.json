@@ -36,6 +36,30 @@
     "Rarity": "Common"
   },
   {
+    "ID": 2280,
+    "Name": "Kyta BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 2281,
+    "Name": "Pants Кута",
+    "Type": "Pants",
+    "Rarity": "Common"
+  },
+  {
+    "ID": 2282,
+    "Name": "Shirt Кута",
+    "Type": "Shirt",
+    "Rarity": "Common"
+  },
+  {
+    "ID": 2283,
+    "Name": "Kyta Vest",
+    "Type": "Vest",
+    "Rarity": "Rare"
+  },
+  {
     "ID": 2500,
     "Name": "Рюкзак KD и JP",
     "Type": "Backpack",
@@ -877,14 +901,20 @@
   },
   {
     "ID": 5915,
-    "Name": "СНДК/лв | LAAT/le",
-    "Type": "Vehicle",
+    "Name": "Навык силы: Помутнение разума",
+    "Type": "Medical",
     "Rarity": "Legendary"
   },
   {
     "ID": 5915,
-    "Name": "Навык силы: Помутнение разума",
-    "Type": "Medical",
+    "Name": "LAAT/le",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 5916,
+    "Name": "LAAT/le Turret",
+    "Type": "Vehicle",
     "Rarity": "Legendary"
   },
   {
@@ -1687,33 +1717,15 @@
   },
   {
     "ID": 9006,
-    "Name": "Баррикада_1",
-    "Type": "Storage",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9006,
     "Name": "BOCO Шлем АРК",
     "Type": "Hat",
     "Rarity": "Mythical"
   },
   {
     "ID": 9007,
-    "Name": "Баррикада_2",
-    "Type": "Storage",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9007,
     "Name": "BOCO Шлем АРФ",
     "Type": "Hat",
     "Rarity": "Mythical"
-  },
-  {
-    "ID": 9008,
-    "Name": "Баррикада_3",
-    "Type": "Storage",
-    "Rarity": "Epic"
   },
   {
     "ID": 9008,
@@ -1726,24 +1738,6 @@
     "Name": "BOCO Шлем Огнемётчика",
     "Type": "Hat",
     "Rarity": "Mythical"
-  },
-  {
-    "ID": 9009,
-    "Name": "Баррикада_4",
-    "Type": "Storage",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9010,
-    "Name": "Баррикада_5",
-    "Type": "Storage",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9011,
-    "Name": "Баррикада_6",
-    "Type": "Storage",
-    "Rarity": "Epic"
   },
   {
     "ID": 9020,
@@ -2116,6 +2110,42 @@
     "Name": "FLEET Hat PLT Guardia",
     "Type": "Hat",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 9506,
+    "Name": "Баррикада_1",
+    "Type": "Storage",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 9507,
+    "Name": "Баррикада_2",
+    "Type": "Storage",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 9508,
+    "Name": "Баррикада_3",
+    "Type": "Storage",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 9509,
+    "Name": "Баррикада_4",
+    "Type": "Storage",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 9510,
+    "Name": "Баррикада_5",
+    "Type": "Storage",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 9511,
+    "Name": "Баррикада_6",
+    "Type": "Storage",
+    "Rarity": "Epic"
   },
   {
     "ID": 9700,
@@ -2550,12 +2580,6 @@
     "Rarity": "Legendary"
   },
   {
-    "ID": 55995,
-    "Name": "B2 GUN",
-    "Type": "Gun",
-    "Rarity": "Legendary"
-  },
-  {
     "ID": 12564,
     "Name": "Z42",
     "Type": "Gun",
@@ -2568,10 +2592,16 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 55996,
-    "Name": "B2 Magazine",
-    "Type": "Magazine",
-    "Rarity": "Uncommon"
+    "ID": 13300,
+    "Name": "Laser_Muzzle_Red",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 13301,
+    "Name": "Laser_Tracer__Red",
+    "Type": "Effect",
+    "Rarity": null
   },
   {
     "ID": 14200,
@@ -3816,6 +3846,12 @@
     "Rarity": "Rare"
   },
   {
+    "ID": 20549,
+    "Name": "Visor",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 20550,
     "Name": "Visor",
     "Type": "Glasses",
@@ -3848,12 +3884,6 @@
   {
     "ID": 20559,
     "Name": "Visor Rancor Кольт",
-    "Type": "Glasses",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 20549,
-    "Name": "Visor",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
@@ -4489,14 +4519,14 @@
   },
   {
     "ID": 40100,
-    "Name": "Арт обстрел (ВАР)",
-    "Type": "Throwable",
+    "Name": "AT-JT",
+    "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "AT-JT",
-    "Type": "Vehicle",
+    "Name": "Арт обстрел (ВАР)",
+    "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {
@@ -4992,6 +5022,18 @@
     "Rarity": "Legendary"
   },
   {
+    "ID": 55995,
+    "Name": "B2 GUN",
+    "Type": "Gun",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 55996,
+    "Name": "B2 Magazine",
+    "Type": "Magazine",
+    "Rarity": "Uncommon"
+  },
+  {
     "ID": 55998,
     "Name": "DLT-20X Scope 16x",
     "Type": "Sight",
@@ -5253,12 +5295,6 @@
     "ID": 58992,
     "Name": "Бакта-граната(тест)",
     "Type": "Throwable",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 58995,
-    "Name": "Adrenaline",
-    "Type": "Medical",
     "Rarity": "Rare"
   },
   {

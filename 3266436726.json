@@ -1470,6 +1470,18 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 8370,
+    "Name": "Кваргон Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 8371,
+    "Name": "Маска Кваргона",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
     "ID": 8430,
     "Name": "Shadow Clothes",
     "Type": "Shirt",
@@ -2944,6 +2956,48 @@
     "Name": "Бронежилет Гекка",
     "Type": "Vest",
     "Rarity": null
+  },
+  {
+    "ID": 15445,
+    "Name": "Duros",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15446,
+    "Name": "Kyorren",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15447,
+    "Name": "Nautolan",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15448,
+    "Name": "Radian",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15449,
+    "Name": "Togrut",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15450,
+    "Name": "Trandashan",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15451,
+    "Name": "Twin Lekku",
+    "Type": "Hat",
+    "Rarity": "Mythical"
   },
   {
     "ID": 15500,
@@ -4519,14 +4573,14 @@
   },
   {
     "ID": 40100,
-    "Name": "AT-JT",
-    "Type": "Vehicle",
+    "Name": "Арт обстрел (ВАР)",
+    "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "Арт обстрел (ВАР)",
-    "Type": "Throwable",
+    "Name": "AT-JT",
+    "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
@@ -4946,6 +5000,18 @@
   {
     "ID": 51192,
     "Name": "Rocket RPS",
+    "Type": "Magazine",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 51900,
+    "Name": "IG227 Rocket Launcher",
+    "Type": "Gun",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 51901,
+    "Name": "IG227 Mag",
     "Type": "Magazine",
     "Rarity": "Legendary"
   },

@@ -352,6 +352,7 @@
     "Name": "RTT с турелью",
     "Type": "Vehicle",
     "Rarity": "Uncommon",
+  },
   {
         "ID": 44230,
     "Name": "Nu classs",
@@ -361,6 +362,12 @@
   {
         "ID": 44229,
     "Name": "Nu classs - Mars",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 44237,
+    "Name": "IG227",
     "Type": "Vehicle",
     "Rarity": "Uncommon"
   }

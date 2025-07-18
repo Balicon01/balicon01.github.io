@@ -1,29 +1,5 @@
 [
   {
-    "ID": 5915,
-    "Name": "Laat/LE",
-    "Type": "Vehicle",
-    "Rarity": "Uncommon"
-  },
-  {
-    "ID": 5916,
-    "Name": "Laat/LE с турелью",
-    "Type": "Vehicle",
-    "Rarity": "Uncommon"
-  },
-  {
-    "ID": 7050,
-    "Name": "Гравикаталка(Vehicle)",
-    "Type": "Vehicle",
-    "Rarity": null
-  },
-  {
-    "ID": 7056,
-    "Name": "Гравикаталка(Vehicle)",
-    "Type": "Vehicle",
-    "Rarity": null
-  },
-  {
     "ID": 33000,
     "Name": "TX-225 Combat Assault Tank",
     "Type": "Vehicle",
@@ -204,6 +180,54 @@
     "Rarity": null
   },
   {
+    "ID": 7050,
+    "Name": "Гравикаталка(Vehicle)",
+    "Type": "Vehicle",
+    "Rarity": null
+  },
+  {
+    "ID": 7056,
+    "Name": "Гравикаталка(Vehicle)",
+    "Type": "Vehicle",
+    "Rarity": null
+  },
+  {
+    "ID": 50056,
+    "Name": "Laat/i",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 41000,
+    "Name": "Laat/c",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 41001,
+    "Name": "Laat/i gunner",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+    {
+    "ID": 41002,
+    "Name": "Laat/i projector",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 41003,
+    "Name": "Laat/i",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 50057,
+    "Name": "HMP",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
     "ID": 40001,
     "Name": "ARC-170 boom",
     "Type": "Vehicle",
@@ -238,6 +262,12 @@
     "Name": "Vulture_Droid 4",
     "Type": "Vehicle",
     "Rarity": "Legendary"
+  },
+  {
+    "ID": 40049,
+    "Name": "BARC V1",
+    "Type": "Vehicle",
+    "Rarity": null
   },
   {
     "ID": 40008,
@@ -276,105 +306,75 @@
     "Rarity": "Legendary"
   },
   {
-    "ID": 40049,
-    "Name": "BARC V1",
-    "Type": "Vehicle",
-    "Rarity": null
-  },
-  {
-    "ID": 40100,
+        "ID": 40100,
     "Name": "AT-JT",
     "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
-    "ID": 40101,
+        "ID": 40101,
     "Name": "AT-TE",
     "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
-    "ID": 41000,
-    "Name": "Laat/c",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 41001,
-    "Name": "Laat/i gunner",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 41002,
-    "Name": "Laat/i projector",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 41003,
-    "Name": "Laat/i",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 44229,
-    "Name": "Nu classs - Mars",
-    "Type": "Vehicle",
-    "Rarity": "Uncommon"
-  },
-  {
-    "ID": 44230,
-    "Name": "Nu classs",
-    "Type": "Vehicle",
-    "Rarity": "Uncommon"
-  },
-  {
-    "ID": 44231,
-    "Name": "MTT",
-    "Type": "Vehicle",
-    "Rarity": "Uncommon"
-  },
-  {
-    "ID": 44232,
-    "Name": "RTT",
-    "Type": "Vehicle",
-    "Rarity": "Uncommon"
-  },
-  {
-    "ID": 44233,
-    "Name": "RTT с турелью",
-    "Type": "Vehicle",
-    "Rarity": "Uncommon"
-  },
-  {
-    "ID": 44234,
-    "Name": "Стервятник",
-    "Type": "Vehicle",
-    "Rarity": "Uncommon"
-  },
-  {
-    "ID": 44236,
+        "ID": 44236,
     "Name": "ARC-170",
     "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
-    "ID": 44237,
-    "Name": "IG227",
+        "ID": 5915,
+    "Name": "Laat/LE",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+   {
+        "ID": 5916,
+    "Name": "Laat/LE с турелью",
     "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
-    "ID": 50056,
-    "Name": "Laat/i",
+        "ID": 44234,
+    "Name": "Стервятник",
     "Type": "Vehicle",
-    "Rarity": "Legendary"
+    "Rarity": "Uncommon"
   },
   {
-    "ID": 50057,
-    "Name": "HMP",
+        "ID": 44231,
+    "Name": "MTT",
     "Type": "Vehicle",
-    "Rarity": "Legendary"
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 44232,
+    "Name": "RTT",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 44233,
+    "Name": "RTT с турелью",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 44230,
+    "Name": "Nu classs",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 44229,
+    "Name": "Nu classs - Mars",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 44237,
+    "Name": "IG227",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
   }
 ]

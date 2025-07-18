@@ -329,6 +329,12 @@
     "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
+   {
+        "ID": 5916,
+    "Name": "Laat/LE с турелью",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
   {
         "ID": 44234,
     "Name": "Стервятник",

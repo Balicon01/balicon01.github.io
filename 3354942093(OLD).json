@@ -1,0 +1,380 @@
+[
+  {
+    "ID": 33000,
+    "Name": "TX-225 Combat Assault Tank",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 33001,
+    "Name": "Reconnaissance Troop Transporter",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 33002,
+    "Name": "X-34 Landspeeder",
+    "Type": "Vehicle",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 33003,
+    "Name": "Millenium Falcon",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 33004,
+    "Name": "Rebel Scout Speeder",
+    "Type": "Vehicle",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 33005,
+    "Name": "TIE Bomber",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 33006,
+    "Name": "TIE Fighter",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 33007,
+    "Name": "TIE Interceptor",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 33008,
+    "Name": "X-wing",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 33009,
+    "Name": "X-wing",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 33010,
+    "Name": "Y-wing",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 33011,
+    "Name": "181st TIE Interceptor",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 33012,
+    "Name": "74-Z speeder bike",
+    "Type": "Vehicle",
+    "Rarity": null
+  },
+  {
+    "ID": 33013,
+    "Name": "UT-60D U-wing starfighter",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 33014,
+    "Name": "TIE Reaper",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 33015,
+    "Name": "Slave 1",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 33018,
+    "Name": "Phantom",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 33019,
+    "Name": "Fang Fighter",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 33020,
+    "Name": "TIE Defender",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 33021,
+    "Name": "TIE Defender",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 33022,
+    "Name": "TIE Defender",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 33023,
+    "Name": "TIE Defender",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 33024,
+    "Name": "TIE Defender",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 33025,
+    "Name": "X-wing",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 33026,
+    "Name": "X-wing",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 33027,
+    "Name": "X-wing",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 33028,
+    "Name": "Auzituck anti-slaver gunship",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 33029,
+    "Name": "Auzituck anti-slaver gunship",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 33030,
+    "Name": "Anti Air Turret",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 33031,
+    "Name": "616-AvA Speeder Bike",
+    "Type": "Vehicle",
+    "Rarity": null
+  },
+  {
+    "ID": 7050,
+    "Name": "Гравикаталка(Vehicle)",
+    "Type": "Vehicle",
+    "Rarity": null
+  },
+  {
+    "ID": 7056,
+    "Name": "Гравикаталка(Vehicle)",
+    "Type": "Vehicle",
+    "Rarity": null
+  },
+  {
+    "ID": 50056,
+    "Name": "Laat/i",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 41000,
+    "Name": "Laat/c",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 41001,
+    "Name": "Laat/i gunner",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+    {
+    "ID": 41002,
+    "Name": "Laat/i projector",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 41003,
+    "Name": "Laat/i",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 50057,
+    "Name": "HMP",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 40001,
+    "Name": "ARC-170 boom",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 40002,
+    "Name": "TX-130",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 40003,
+    "Name": "Vulture_Droid 1",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 40004,
+    "Name": "Vulture_Droid 2",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 40005,
+    "Name": "Vulture_Droid 3",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 40006,
+    "Name": "Vulture_Droid 4",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 40049,
+    "Name": "BARC V1",
+    "Type": "Vehicle",
+    "Rarity": null
+  },
+  {
+    "ID": 40008,
+    "Name": "AAT [CIA]",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 40009,
+    "Name": "AAT [CIA] V2",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 40010,
+    "Name": "AAT [CIA] V3",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 40011,
+    "Name": "AAT [CIA] V4",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 40013,
+    "Name": "WARTHOG",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 40014,
+    "Name": "WARTHOG_APC",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+        "ID": 40100,
+    "Name": "AT-JT",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 40101,
+    "Name": "AT-TE",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 44236,
+    "Name": "ARC-170",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 5915,
+    "Name": "Laat/LE",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+   {
+        "ID": 5916,
+    "Name": "Laat/LE с турелью",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 44234,
+    "Name": "Стервятник",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 44231,
+    "Name": "MTT",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 44232,
+    "Name": "RTT",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 44233,
+    "Name": "RTT с турелью",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 44230,
+    "Name": "Nu classs",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 44229,
+    "Name": "Nu classs - Mars",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 44237,
+    "Name": "IG227",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  }
+]

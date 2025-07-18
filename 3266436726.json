@@ -901,14 +901,14 @@
   },
   {
     "ID": 5915,
-    "Name": "Навык силы: Помутнение разума",
-    "Type": "Medical",
+    "Name": "LAAT/le",
+    "Type": "Vehicle",
     "Rarity": "Legendary"
   },
   {
     "ID": 5915,
-    "Name": "LAAT/le",
-    "Type": "Vehicle",
+    "Name": "Навык силы: Помутнение разума",
+    "Type": "Medical",
     "Rarity": "Legendary"
   },
   {
@@ -1478,8 +1478,8 @@
   {
     "ID": 8371,
     "Name": "Маска Кваргона",
-    "Type": "Mask",
-    "Rarity": "Rare"
+    "Type": "Hat",
+    "Rarity": "Mythical"
   },
   {
     "ID": 8430,
@@ -3176,6 +3176,36 @@
   {
     "ID": 16444,
     "Name": "Хром Козырек",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 16450,
+    "Name": "BackPack Рифа",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16451,
+    "Name": "Clothes Рифа",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 16452,
+    "Name": "Hat Рифа",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16453,
+    "Name": "Vest Рифа",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16454,
+    "Name": "Козырек Рифа",
     "Type": "Mask",
     "Rarity": "Rare"
   },

@@ -12,8 +12,14 @@
     "Rarity": "Uncommon"
   },
   {
+    "ID": 2030,
+    "Name": "Термо(Верх)",
+    "Type": "Shirt",
+    "Rarity": "Uncommon"
+  },
+  {
     "ID": 2031,
-    "Name": "Термобелье клона",
+    "Name": "Термо(Низ)",
     "Type": "Pants",
     "Rarity": "Uncommon"
   },

@@ -24,6 +24,12 @@
     "Rarity": "Uncommon"
   },
   {
+    "ID": 2031,
+    "Name": "Термобелье клона",
+    "Type": "Pants",
+    "Rarity": "Uncommon"
+  },
+  {
     "ID": 2270,
     "Name": "Mask Кута",
     "Type": "Mask",
@@ -1087,39 +1093,51 @@
   },
   {
     "ID": 6660,
-    "Name": "OFC top",
+    "Name": "Офицерская униформа (Верх)",
     "Type": "Shirt",
     "Rarity": "Rare"
   },
   {
     "ID": 6661,
-    "Name": "OFC bottoms",
+    "Name": "Офицерская униформа (Низ)",
     "Type": "Pants",
     "Rarity": "Rare"
   },
   {
     "ID": 6662,
-    "Name": "OFC Cap",
+    "Name": "Офицерская кепка",
     "Type": "Hat",
     "Rarity": "Uncommon"
   },
   {
+    "ID": 6663,
+    "Name": "Офицерский Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 6665,
-    "Name": "Mars bottoms",
+    "Name": "Верховное командование bottoms",
     "Type": "Pants",
     "Rarity": "Rare"
   },
   {
     "ID": 6666,
-    "Name": "Mars Cap",
+    "Name": "Верховное командование Cap",
     "Type": "Hat",
     "Rarity": "Uncommon"
   },
   {
     "ID": 6667,
-    "Name": "Mars top",
+    "Name": "Верховное командование top",
     "Type": "Shirt",
     "Rarity": "Rare"
+  },
+  {
+    "ID": 6668,
+    "Name": "Верховное командование Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
   },
   {
     "ID": 6968,
@@ -1278,32 +1296,50 @@
     "Rarity": "Mythical"
   },
   {
-    "ID": 7620,
-    "Name": "Lightsaber 0 B(Animation)",
-    "Type": "Melee",
-    "Rarity": "Mythical"
-  },
-  {
     "ID": 7621,
-    "Name": "Lightsaber 4 B(Animation)",
+    "Name": "Lightsaber MOLL (1 клинок)",
     "Type": "Melee",
     "Rarity": "Mythical"
   },
   {
     "ID": 7622,
-    "Name": "Lightsaber 1 B(Animation)",
+    "Name": "Lightsaber MOLL (2 клинка)",
     "Type": "Melee",
     "Rarity": "Mythical"
   },
   {
     "ID": 7623,
-    "Name": "Lightsaber 1 B(Animation)",
+    "Name": "Lightsaber DOOKY",
     "Type": "Melee",
     "Rarity": "Mythical"
   },
   {
-    "ID": 7629,
-    "Name": "Lightsaber 4 B(Animation)",
+    "ID": 7650,
+    "Name": "Lightsaber (2 клинка) B Anim",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7651,
+    "Name": "Lightsaber (2 клинка) Y Anim",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7652,
+    "Name": "Lightsaber (2 клинка) G Anim",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7653,
+    "Name": "Lightsaber (2 клинка) R Anim",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7654,
+    "Name": "Lightsaber (2 клинка) P Anim",
     "Type": "Melee",
     "Rarity": "Mythical"
   },
@@ -2926,6 +2962,48 @@
     "Name": "Visor",
     "Type": "Glasses",
     "Rarity": "Epic"
+  },
+  {
+    "ID": 15345,
+    "Name": "Duros (JEDI)",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15346,
+    "Name": "Kyorren (JEDI)",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15347,
+    "Name": "Nautolan (JEDI)",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15348,
+    "Name": "Radian (JEDI)",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15349,
+    "Name": "Togrut (JEDI)",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15350,
+    "Name": "Trandashan (JEDI)",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15351,
+    "Name": "Twin Lekku (JEDI)",
+    "Type": "Hat",
+    "Rarity": "Mythical"
   },
   {
     "ID": 15366,
@@ -4609,14 +4687,14 @@
   },
   {
     "ID": 40100,
-    "Name": "Арт обстрел (ВАР)",
-    "Type": "Throwable",
+    "Name": "AT-JT",
+    "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "AT-JT",
-    "Type": "Vehicle",
+    "Name": "Арт обстрел (ВАР)",
+    "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {
@@ -4656,13 +4734,25 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 41000,
+    "Name": "LAAT/C",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 41001,
     "Name": "LAAT/I",
     "Type": "Vehicle",
     "Rarity": "Epic"
   },
   {
-    "ID": 41002,
+    "ID": 41001,
+    "Name": "LAAT/I",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 41003,
     "Name": "LAAT/I",
     "Type": "Vehicle",
     "Rarity": "Epic"
@@ -4686,6 +4776,18 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 41007,
+    "Name": "LAAT/I",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 44228,
+    "Name": "Nu-Class",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 44229,
     "Name": "Nu-Class",
     "Type": "Vehicle",
@@ -4700,6 +4802,12 @@
   {
     "ID": 44234,
     "Name": "Vulture",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 44236,
+    "Name": "ARC-170",
     "Type": "Vehicle",
     "Rarity": "Legendary"
   },
@@ -5176,12 +5284,6 @@
     "Name": "Модуль для бластера DC-17M s",
     "Type": "Grip",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 58306,
-    "Name": "Боевой бластер Westar-M5",
-    "Type": "Gun",
-    "Rarity": "Epic"
   },
   {
     "ID": 58306,

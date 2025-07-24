@@ -348,6 +348,12 @@
     "Rarity": null
   },
   {
+    "ID": 4253,
+    "Name": "СейвзонаКНС",
+    "Type": "Large",
+    "Rarity": null
+  },
+  {
     "ID": 4261,
     "Name": "Ящик(Одежда)",
     "Type": "Shirt",
@@ -2634,6 +2640,24 @@
     "Rarity": "Legendary"
   },
   {
+    "ID": 12451,
+    "Name": "Gauss Rifle",
+    "Type": "Gun",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 12452,
+    "Name": "Gauss Rifle mag",
+    "Type": "Magazine",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 12453,
+    "Name": "Gauss Rifle Scope",
+    "Type": "Sight",
+    "Rarity": "Legendary"
+  },
+  {
     "ID": 12564,
     "Name": "Z42",
     "Type": "Gun",
@@ -3166,6 +3190,96 @@
     "Name": "Магазин NT-242",
     "Type": "Magazine",
     "Rarity": "Legendary"
+  },
+  {
+    "ID": 16000,
+    "Name": "710 Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 16001,
+    "Name": "710 Clothes Med",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 16002,
+    "Name": "710 Clothes КМД",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 16003,
+    "Name": "710 Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16004,
+    "Name": "710 Hat ARF 1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16005,
+    "Name": "710 Hat ARF 2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16006,
+    "Name": "710 Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16007,
+    "Name": "710 Hat AS CMD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16008,
+    "Name": "710 Hat BARK",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16009,
+    "Name": "710 Hat KD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16010,
+    "Name": "710 Hat Pilot",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16011,
+    "Name": "710 Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16012,
+    "Name": "710 Vest CMD",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16013,
+    "Name": "710 Vest Med",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16014,
+    "Name": "710 CMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
   },
   {
     "ID": 16311,
@@ -4296,12 +4410,6 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 22844,
-    "Name": "Dual DC-17",
-    "Type": "Gun",
-    "Rarity": "Epic"
-  },
-  {
     "ID": 22845,
     "Name": "Боевые картриджы для DC17",
     "Type": "Magazine",
@@ -5058,6 +5166,12 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 49105,
+    "Name": "Броня Джедаев",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 49106,
     "Name": "R4(Orange)",
     "Type": "Shirt",
@@ -5176,6 +5290,84 @@
     "Name": "Scope PLX1",
     "Type": "Sight",
     "Rarity": "Rare"
+  },
+  {
+    "ID": 54000,
+    "Name": "Боевой бластер DC-12R \"Click\"",
+    "Type": "Gun",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 54001,
+    "Name": "Картридж для боевой DC-12R \"Click\"",
+    "Type": "Magazine",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 54002,
+    "Name": "Прицел DC-12R \"Click\"",
+    "Type": "Sight",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 54003,
+    "Name": "Laser_Muzzle",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 54004,
+    "Name": "Laser_Tracer",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 54005,
+    "Name": "Laser_Muzzle",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 54006,
+    "Name": "Laser_Tracer",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 54007,
+    "Name": "Laser_Muzzle",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 54008,
+    "Name": "Laser_Tracer",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 54009,
+    "Name": "Laser_Muzzle",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 54010,
+    "Name": "Laser_Tracer",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 54011,
+    "Name": "Laser_Muzzle",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 54012,
+    "Name": "Laser_Tracer",
+    "Type": "Effect",
+    "Rarity": null
   },
   {
     "ID": 55035,

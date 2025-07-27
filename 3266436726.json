@@ -25,7 +25,7 @@
   },
   {
     "ID": 2031,
-    "Name": "Термобелье клона",
+    "Name": "Термо(Низ)",
     "Type": "Pants",
     "Rarity": "Uncommon"
   },
@@ -492,6 +492,12 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 5024,
+    "Name": "Germo Door 5",
+    "Type": "Barricade",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 5115,
     "Name": "Hat Кута",
     "Type": "Hat",
@@ -919,14 +925,14 @@
   },
   {
     "ID": 5915,
-    "Name": "LAAT/le",
-    "Type": "Vehicle",
+    "Name": "Навык силы: Помутнение разума",
+    "Type": "Medical",
     "Rarity": "Legendary"
   },
   {
     "ID": 5915,
-    "Name": "Навык силы: Помутнение разума",
-    "Type": "Medical",
+    "Name": "LAAT/le",
+    "Type": "Vehicle",
     "Rarity": "Legendary"
   },
   {
@@ -1250,6 +1256,114 @@
   {
     "ID": 7015,
     "Name": "Vest SGT",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7018,
+    "Name": "Козырек КМД 1 phase",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 7019,
+    "Name": "Козырек офицера",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 7020,
+    "Name": "SGT BackPack 1 phase NULL",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7021,
+    "Name": "Hat SGT 1 phase NULL",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7022,
+    "Name": "SGT JetPack 1 phase NULL",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7023,
+    "Name": "Vest SGT 1 phase NULL",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7024,
+    "Name": "LT BackPack 1 phase NULL",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7025,
+    "Name": "Hat LT 1 phase NULL",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7026,
+    "Name": "LT JetPack 1 phase NULL",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7027,
+    "Name": "Vest LT 1 phase NULL",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7028,
+    "Name": "CPT BackPack 1 phase NULL",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7029,
+    "Name": "Hat CPT 1 phase NULL",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7030,
+    "Name": "CPT JetPack 1 phase NULL",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7031,
+    "Name": "Vest CPT 1 phase NULL",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7032,
+    "Name": "COM BackPack 1 phase NULL",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7033,
+    "Name": "Hat COM 1 phase NULL",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7034,
+    "Name": "COM JetPack 1 phase NULL",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7035,
+    "Name": "Vest COM 1 phase NULL",
     "Type": "Vest",
     "Rarity": "Mythical"
   },
@@ -4795,14 +4909,14 @@
   },
   {
     "ID": 40100,
-    "Name": "AT-JT",
-    "Type": "Vehicle",
+    "Name": "Арт обстрел (ВАР)",
+    "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "Арт обстрел (ВАР)",
-    "Type": "Throwable",
+    "Name": "AT-JT",
+    "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
@@ -5308,6 +5422,12 @@
     "Name": "Прицел DC-12R \"Click\"",
     "Type": "Sight",
     "Rarity": "Legendary"
+  },
+  {
+    "ID": 54003,
+    "Name": "Картридж для боевой DC-12R \"Click\"",
+    "Type": "Magazine",
+    "Rarity": "Epic"
   },
   {
     "ID": 54003,

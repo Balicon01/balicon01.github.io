@@ -919,14 +919,14 @@
   },
   {
     "ID": 5915,
-    "Name": "Навык силы: Помутнение разума",
-    "Type": "Medical",
+    "Name": "LAAT/le",
+    "Type": "Vehicle",
     "Rarity": "Legendary"
   },
   {
     "ID": 5915,
-    "Name": "LAAT/le",
-    "Type": "Vehicle",
+    "Name": "Навык силы: Помутнение разума",
+    "Type": "Medical",
     "Rarity": "Legendary"
   },
   {
@@ -1636,6 +1636,18 @@
     "Name": "Маска Кваргона",
     "Type": "Hat",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 8375,
+    "Name": "Куртка Кваргона",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 8376,
+    "Name": "Штаны Кваргона",
+    "Type": "Pants",
+    "Rarity": "Rare"
   },
   {
     "ID": 8430,
@@ -3018,6 +3030,12 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 15000,
+    "Name": "Hair_Feline",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 15020,
     "Name": "Asoka Clothes",
     "Type": "Shirt",
@@ -4237,7 +4255,7 @@
   },
   {
     "ID": 20549,
-    "Name": "Visor",
+    "Name": "Visor 1 phase",
     "Type": "Glasses",
     "Rarity": "Epic"
   },
@@ -4903,14 +4921,14 @@
   },
   {
     "ID": 40100,
-    "Name": "Арт обстрел (ВАР)",
-    "Type": "Throwable",
+    "Name": "AT-JT",
+    "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "AT-JT",
-    "Type": "Vehicle",
+    "Name": "Арт обстрел (ВАР)",
+    "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {
@@ -4941,6 +4959,12 @@
     "ID": 40402,
     "Name": "Airstrike binoculars",
     "Type": "Sight",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 40999,
+    "Name": "LAAT/I",
+    "Type": "Vehicle",
     "Rarity": "Epic"
   },
   {

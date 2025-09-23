@@ -918,6 +918,12 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 5720,
+    "Name": "Lightsaber Хитрец (Anim)",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 5915,
     "Name": "LAAT/le",
     "Type": "Vehicle",
@@ -2790,6 +2796,36 @@
     "Rarity": "Uncommon"
   },
   {
+    "ID": 13000,
+    "Name": "91 BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13001,
+    "Name": "91 BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13002,
+    "Name": "91 Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13003,
+    "Name": "91 Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13004,
+    "Name": "91 Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 13300,
     "Name": "Laser_Muzzle_Red",
     "Type": "Effect",
@@ -3618,6 +3654,24 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 17350,
+    "Name": "Dargen BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 17351,
+    "Name": "Dargen Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 17352,
+    "Name": "Dargen Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 17361,
     "Name": "41 Clothes",
     "Type": "Shirt",
@@ -4119,6 +4173,24 @@
     "ID": 19321,
     "Name": "Clothes 1УПК",
     "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 19330,
+    "Name": "b1 (Огнемётчик)",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 19331,
+    "Name": "b1 backpack (Огнемётчик)",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 19332,
+    "Name": "b1 helmet (Огнемётчик)",
+    "Type": "Hat",
     "Rarity": "Epic"
   },
   {
@@ -4921,14 +4993,14 @@
   },
   {
     "ID": 40100,
-    "Name": "AT-JT",
-    "Type": "Vehicle",
+    "Name": "Арт обстрел (ВАР)",
+    "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "Арт обстрел (ВАР)",
-    "Type": "Throwable",
+    "Name": "AT-JT",
+    "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {

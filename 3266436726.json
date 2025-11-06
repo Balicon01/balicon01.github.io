@@ -1806,28 +1806,10 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 8430,
-    "Name": "Shadow Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
     "ID": 8431,
     "Name": "310 FGN Clothes Sand",
     "Type": "Shirt",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 8431,
-    "Name": "Shadow Hat ARC",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8432,
-    "Name": "Shadow Hat ARF 1",
-    "Type": "Hat",
-    "Rarity": "Mythical"
   },
   {
     "ID": 8432,
@@ -1842,27 +1824,9 @@
     "Rarity": "Mythical"
   },
   {
-    "ID": 8433,
-    "Name": "Shadow Hat AS 0",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8434,
-    "Name": "Shadow Hat Pilot",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
     "ID": 8434,
     "Name": "310 Hat Pilot Sand",
     "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8435,
-    "Name": "Shadow Vest",
-    "Type": "Vest",
     "Rarity": "Mythical"
   },
   {
@@ -2127,6 +2091,42 @@
     "ID": 8821,
     "Name": "Наплечник командера + JP",
     "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8830,
+    "Name": "Shadow Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 8831,
+    "Name": "Shadow Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8832,
+    "Name": "Shadow Hat ARF 1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8833,
+    "Name": "Shadow Hat AS 0",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8834,
+    "Name": "Shadow Hat Pilot",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8835,
+    "Name": "Shadow Vest",
+    "Type": "Vest",
     "Rarity": "Mythical"
   },
   {

@@ -72,6 +72,12 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 2800,
+    "Name": "Форма Офицера голограмма",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 3000,
     "Name": "Шлем Администратора",
     "Type": "Hat",
@@ -900,24 +906,6 @@
     "Rarity": "Mythical"
   },
   {
-    "ID": 5693,
-    "Name": "Lightsaber Асока",
-    "Type": "Melee",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 5700,
-    "Name": "Lightsaber 1 Marsian",
-    "Type": "Melee",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 5701,
-    "Name": "Lightsaber 2 Marsian",
-    "Type": "Melee",
-    "Rarity": "Mythical"
-  },
-  {
     "ID": 5720,
     "Name": "Lightsaber Хитрец (Anim)",
     "Type": "Melee",
@@ -925,14 +913,14 @@
   },
   {
     "ID": 5915,
-    "Name": "LAAT/le",
-    "Type": "Vehicle",
+    "Name": "Навык силы: Помутнение разума",
+    "Type": "Medical",
     "Rarity": "Legendary"
   },
   {
     "ID": 5915,
-    "Name": "Навык силы: Помутнение разума",
-    "Type": "Medical",
+    "Name": "LAAT/le",
+    "Type": "Vehicle",
     "Rarity": "Legendary"
   },
   {
@@ -1464,6 +1452,12 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 7655,
+    "Name": "Lightsaber (2 клинка) W Anim",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 7732,
     "Name": "Flamethrower",
     "Type": "Gun",
@@ -1656,8 +1650,170 @@
     "Rarity": "Rare"
   },
   {
+    "ID": 8401,
+    "Name": "310 Hat ARC Woods",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8402,
+    "Name": "310 Hat ARF 1 Woods",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8403,
+    "Name": "310 Hat ARF 2 Woods",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8404,
+    "Name": "310 Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8405,
+    "Name": "310 BackPack Woods",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8406,
+    "Name": "310 BackPack CMD Woods",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8407,
+    "Name": "310 FGN BackPack Woods",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8408,
+    "Name": "310 BackPack Radist Woods",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8409,
+    "Name": "310 Hat BARK Woods",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8410,
+    "Name": "310 Clothes Woods",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 8411,
+    "Name": "310 FGN Clothes Woods",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 8412,
+    "Name": "310 Hat FGN Woods",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8413,
+    "Name": "310 Hat KD Woods",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8414,
+    "Name": "310 Hat Pilot Woods",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8415,
+    "Name": "310 Vest Woods",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8416,
+    "Name": "310 FGN Vest Woods",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8421,
+    "Name": "310 Hat ARC Sand",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8422,
+    "Name": "310 Hat ARF 1 Sand",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8423,
+    "Name": "310 Hat ARF 2 Sand",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8424,
+    "Name": "310 Hat AS Sand",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8425,
+    "Name": "310 BackPack Sand",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8426,
+    "Name": "310 BackPack CMD Sand",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8427,
+    "Name": "310 FGN BackPack Sand",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8428,
+    "Name": "310 BackPack Radist Sand",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8429,
+    "Name": "310 Hat BARK Sand",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8430,
+    "Name": "310 Clothes Sand",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 8430,
     "Name": "Shadow Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 8431,
+    "Name": "310 FGN Clothes Sand",
     "Type": "Shirt",
     "Rarity": "Epic"
   },
@@ -1674,6 +1830,18 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 8432,
+    "Name": "310 Hat FGN Sand",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8433,
+    "Name": "310 Hat KD Sand",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 8433,
     "Name": "Shadow Hat AS 0",
     "Type": "Hat",
@@ -1686,8 +1854,134 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 8434,
+    "Name": "310 Hat Pilot Sand",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 8435,
     "Name": "Shadow Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8435,
+    "Name": "310 Vest Sand",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8436,
+    "Name": "310 FGN Vest Sand",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8451,
+    "Name": "310 Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8452,
+    "Name": "310 Hat ARF 1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8453,
+    "Name": "310 Hat ARF 2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8454,
+    "Name": "310 Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8455,
+    "Name": "212 Hat AS CMD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8456,
+    "Name": "310 BackPack CMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8457,
+    "Name": "310 Hat BARK",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8458,
+    "Name": "310 Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 8459,
+    "Name": "310 CMD Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 8460,
+    "Name": "310 FGN Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 8461,
+    "Name": "310 MED Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 8462,
+    "Name": "310 Hat FGN",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8463,
+    "Name": "310 Hat KD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8464,
+    "Name": "310 Hat Pilot",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8465,
+    "Name": "310 Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8466,
+    "Name": "310 CMD Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8467,
+    "Name": "310 FGN Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8468,
+    "Name": "310 MED Vest",
     "Type": "Vest",
     "Rarity": "Mythical"
   },
@@ -2928,6 +3222,30 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 14470,
+    "Name": "Лаки BackPack RC",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14471,
+    "Name": "Лаки Clothes RC",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 14472,
+    "Name": "Лаки Hat RC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14473,
+    "Name": "Лаки Vest RC",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 14490,
     "Name": "Лаки BackPack",
     "Type": "Backpack",
@@ -3270,6 +3588,42 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 15466,
+    "Name": "Джетпак Corvus",
+    "Type": "Backpack",
+    "Rarity": null
+  },
+  {
+    "ID": 15467,
+    "Name": "Штаны Corvus",
+    "Type": "Pants",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 15468,
+    "Name": "Шлем Corvus",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15469,
+    "Name": "Дальномер Corvus",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 15470,
+    "Name": "Куртка Corvus",
+    "Type": "Shirt",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 15471,
+    "Name": "Бронежилет Corvus",
+    "Type": "Vest",
+    "Rarity": null
+  },
+  {
     "ID": 15500,
     "Name": "INV VEST",
     "Type": "Vest",
@@ -3352,6 +3706,30 @@
     "Name": "Магазин NT-242",
     "Type": "Magazine",
     "Rarity": "Legendary"
+  },
+  {
+    "ID": 15900,
+    "Name": "Джетпак Forzi (Mandalorian)",
+    "Type": "Backpack",
+    "Rarity": null
+  },
+  {
+    "ID": 15901,
+    "Name": "Шлем Forzi (Mandalorian)",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15902,
+    "Name": "Куртка Forzi (Mandalorian)",
+    "Type": "Shirt",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 15903,
+    "Name": "Бронежилет Forzi (Mandalorian)",
+    "Type": "Vest",
+    "Rarity": null
   },
   {
     "ID": 16000,
@@ -4993,14 +5371,14 @@
   },
   {
     "ID": 40100,
-    "Name": "Арт обстрел (ВАР)",
-    "Type": "Throwable",
+    "Name": "AT-JT",
+    "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "AT-JT",
-    "Type": "Vehicle",
+    "Name": "Арт обстрел (ВАР)",
+    "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {
@@ -5442,6 +5820,12 @@
     "Rarity": "Rare"
   },
   {
+    "ID": 49850,
+    "Name": "Когти Бомжихи",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 50056,
     "Name": "LAAT",
     "Type": "Vehicle",
@@ -5515,15 +5899,15 @@
   },
   {
     "ID": 54003,
-    "Name": "Картридж для боевой DC-12R \"Click\"",
-    "Type": "Magazine",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 54003,
     "Name": "Laser_Muzzle",
     "Type": "Effect",
     "Rarity": null
+  },
+  {
+    "ID": 54003,
+    "Name": "Картридж для боевой DC-12R \"Click\"",
+    "Type": "Magazine",
+    "Rarity": "Epic"
   },
   {
     "ID": 54004,
@@ -5902,6 +6286,12 @@
     "Name": "Бакта-граната(тест)",
     "Type": "Throwable",
     "Rarity": "Rare"
+  },
+  {
+    "ID": 58993,
+    "Name": "Bakta",
+    "Type": "Effect",
+    "Rarity": null
   },
   {
     "ID": 59871,

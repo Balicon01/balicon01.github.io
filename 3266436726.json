@@ -913,14 +913,14 @@
   },
   {
     "ID": 5915,
-    "Name": "Навык силы: Помутнение разума",
-    "Type": "Medical",
+    "Name": "LAAT/le",
+    "Type": "Vehicle",
     "Rarity": "Legendary"
   },
   {
     "ID": 5915,
-    "Name": "LAAT/le",
-    "Type": "Vehicle",
+    "Name": "Навык силы: Помутнение разума",
+    "Type": "Medical",
     "Rarity": "Legendary"
   },
   {
@@ -3076,6 +3076,36 @@
     "Name": "Gauss Rifle Scope",
     "Type": "Sight",
     "Rarity": "Legendary"
+  },
+  {
+    "ID": 12500,
+    "Name": "Deus Шлем",
+    "Type": "Hat",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 12501,
+    "Name": "Deus куртка (обычная)",
+    "Type": "Shirt",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 12502,
+    "Name": "Deus куртка (с обвесом)",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 12503,
+    "Name": "Deus штаны",
+    "Type": "Pants",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 12504,
+    "Name": "Deus нагрудник",
+    "Type": "Vest",
+    "Rarity": "Rare"
   },
   {
     "ID": 12564,
@@ -5371,14 +5401,14 @@
   },
   {
     "ID": 40100,
-    "Name": "AT-JT",
-    "Type": "Vehicle",
+    "Name": "Арт обстрел (ВАР)",
+    "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "Арт обстрел (ВАР)",
-    "Type": "Throwable",
+    "Name": "AT-JT",
+    "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
@@ -5899,15 +5929,15 @@
   },
   {
     "ID": 54003,
-    "Name": "Laser_Muzzle",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 54003,
     "Name": "Картридж для боевой DC-12R \"Click\"",
     "Type": "Magazine",
     "Rarity": "Epic"
+  },
+  {
+    "ID": 54003,
+    "Name": "Laser_Muzzle",
+    "Type": "Effect",
+    "Rarity": null
   },
   {
     "ID": 54004,

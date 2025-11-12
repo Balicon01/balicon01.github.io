@@ -913,14 +913,14 @@
   },
   {
     "ID": 5915,
-    "Name": "LAAT/le",
-    "Type": "Vehicle",
+    "Name": "Навык силы: Помутнение разума",
+    "Type": "Medical",
     "Rarity": "Legendary"
   },
   {
     "ID": 5915,
-    "Name": "Навык силы: Помутнение разума",
-    "Type": "Medical",
+    "Name": "LAAT/le",
+    "Type": "Vehicle",
     "Rarity": "Legendary"
   },
   {
@@ -1378,6 +1378,30 @@
     "Name": "Гравикаталка(Vehicle)",
     "Type": "Vehicle",
     "Rarity": null
+  },
+  {
+    "ID": 7070,
+    "Name": "Hat COM (ARC)",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7071,
+    "Name": "Hat CPT (ARC)",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7072,
+    "Name": "Hat LT (ARC)",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 7073,
+    "Name": "Hat SGT (ARC)",
+    "Type": "Hat",
+    "Rarity": "Mythical"
   },
   {
     "ID": 7361,
@@ -4974,6 +4998,12 @@
     "Rarity": "Rare"
   },
   {
+    "ID": 22643,
+    "Name": "DC19_Barrel",
+    "Type": "Barrel",
+    "Rarity": null
+  },
+  {
     "ID": 22740,
     "Name": "Боевой бластер DC15L",
     "Type": "Gun",
@@ -5929,15 +5959,15 @@
   },
   {
     "ID": 54003,
-    "Name": "Картридж для боевой DC-12R \"Click\"",
-    "Type": "Magazine",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 54003,
     "Name": "Laser_Muzzle",
     "Type": "Effect",
     "Rarity": null
+  },
+  {
+    "ID": 54003,
+    "Name": "Картридж для боевой DC-12R \"Click\"",
+    "Type": "Magazine",
+    "Rarity": "Epic"
   },
   {
     "ID": 54004,

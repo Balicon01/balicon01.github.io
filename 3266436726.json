@@ -913,14 +913,14 @@
   },
   {
     "ID": 5915,
-    "Name": "Навык силы: Помутнение разума",
-    "Type": "Medical",
+    "Name": "LAAT/le",
+    "Type": "Vehicle",
     "Rarity": "Legendary"
   },
   {
     "ID": 5915,
-    "Name": "LAAT/le",
-    "Type": "Vehicle",
+    "Name": "Навык силы: Помутнение разума",
+    "Type": "Medical",
     "Rarity": "Legendary"
   },
   {
@@ -5094,6 +5094,186 @@
     "Rarity": "Rare"
   },
   {
+    "ID": 23001,
+    "Name": "Танцовщица 1",
+    "Type": "Shirt",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23002,
+    "Name": "Танцовщица 2",
+    "Type": "Shirt",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23003,
+    "Name": "Танцовщица 3",
+    "Type": "Shirt",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23004,
+    "Name": "Танцовщица 4",
+    "Type": "Shirt",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23005,
+    "Name": "Танцовщица 5",
+    "Type": "Shirt",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23006,
+    "Name": "Танцовщица 6",
+    "Type": "Shirt",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23007,
+    "Name": "Танцовщица 7",
+    "Type": "Shirt",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23008,
+    "Name": "Танцовщица 8",
+    "Type": "Shirt",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23009,
+    "Name": "Танцовщица 9",
+    "Type": "Shirt",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23010,
+    "Name": "Танцовщица 10",
+    "Type": "Shirt",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23011,
+    "Name": "Танцовщица 11",
+    "Type": "Shirt",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23012,
+    "Name": "Танцовщица 12",
+    "Type": "Shirt",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23013,
+    "Name": "Танцовщица 13",
+    "Type": "Shirt",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23014,
+    "Name": "Танцовщица 14",
+    "Type": "Shirt",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23015,
+    "Name": "Танцовщица 15",
+    "Type": "Shirt",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23016,
+    "Name": "Танцовщица 16",
+    "Type": "Shirt",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23200,
+    "Name": "Mercenary Backpack",
+    "Type": "Backpack",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23201,
+    "Name": "PMC Backpack",
+    "Type": "Backpack",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23202,
+    "Name": "PMC Bottom",
+    "Type": "Pants",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23203,
+    "Name": "PMC Bottom Mk.II",
+    "Type": "Pants",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23204,
+    "Name": "PMC Helmet",
+    "Type": "Hat",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23205,
+    "Name": "PMC Helmet Mk.II",
+    "Type": "Hat",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23206,
+    "Name": "PMC Helmet Mk.II",
+    "Type": "Hat",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23207,
+    "Name": "PMC Helmet",
+    "Type": "Hat",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23208,
+    "Name": "PMC Top",
+    "Type": "Shirt",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23209,
+    "Name": "PMC Top",
+    "Type": "Shirt",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23210,
+    "Name": "PMC Top Mk.II",
+    "Type": "Shirt",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23211,
+    "Name": "PMC Top Mk.II",
+    "Type": "Shirt",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23212,
+    "Name": "PMC Vest",
+    "Type": "Vest",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 23213,
+    "Name": "PMC Vest Mk.II",
+    "Type": "Vest",
+    "Rarity": "Legendary"
+  },
+  {
     "ID": 24001,
     "Name": "Katana",
     "Type": "Melee",
@@ -5203,6 +5383,24 @@
   },
   {
     "ID": 31270,
+    "Name": "Стенд \"LAAT\"",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 31280,
+    "Name": "Стенд \"AAT\"",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 31281,
+    "Name": "Стенд \"ATTE\"",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 31282,
     "Name": "Стенд \"LAAT\"",
     "Type": "Barricade",
     "Rarity": "Uncommon"
@@ -5431,14 +5629,14 @@
   },
   {
     "ID": 40100,
-    "Name": "Арт обстрел (ВАР)",
-    "Type": "Throwable",
+    "Name": "AT-JT",
+    "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "AT-JT",
-    "Type": "Vehicle",
+    "Name": "Арт обстрел (ВАР)",
+    "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {
@@ -5959,15 +6157,15 @@
   },
   {
     "ID": 54003,
-    "Name": "Laser_Muzzle",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 54003,
     "Name": "Картридж для боевой DC-12R \"Click\"",
     "Type": "Magazine",
     "Rarity": "Epic"
+  },
+  {
+    "ID": 54003,
+    "Name": "Laser_Muzzle",
+    "Type": "Effect",
+    "Rarity": null
   },
   {
     "ID": 54004,

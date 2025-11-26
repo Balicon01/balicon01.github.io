@@ -376,5 +376,12 @@
     "Name": "IG227",
     "Type": "Vehicle",
     "Rarity": "Uncommon"
+  },
+  {
+        "ID": 4500,
+    "Name": "Туррель",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
   }
 ]
+

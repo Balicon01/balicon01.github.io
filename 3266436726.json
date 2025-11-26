@@ -5298,6 +5298,24 @@
     "Rarity": "Rare"
   },
   {
+    "ID": 25000,
+    "Name": "SportShot",
+    "Type": "Gun",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 25001,
+    "Name": "SportShot Magazine",
+    "Type": "Magazine",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 25003,
+    "Name": "SportShot Laser",
+    "Type": "Tactical",
+    "Rarity": "Rare"
+  },
+  {
     "ID": 30000,
     "Name": "Ящик с патронами E-5.",
     "Type": "Barricade",
@@ -5428,6 +5446,54 @@
     "Name": "FLEET top",
     "Type": "Shirt",
     "Rarity": "Rare"
+  },
+  {
+    "ID": 35000,
+    "Name": "Стенд \"СБР 1\"",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 35001,
+    "Name": "Стенд \"СБР 2\"",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 35002,
+    "Name": "Стенд \"СБР 3\"",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 35003,
+    "Name": "Стенд \"СБР 4\"",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 35004,
+    "Name": "Стенд \"СБР 5\"",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 35005,
+    "Name": "Стенд \"СБР 6\"",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 35006,
+    "Name": "Стенд \"СБР 7\"",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 35007,
+    "Name": "Стенд \"СБР 8\"",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
   },
   {
     "ID": 35402,
@@ -5629,14 +5695,14 @@
   },
   {
     "ID": 40100,
-    "Name": "AT-JT",
-    "Type": "Vehicle",
+    "Name": "Арт обстрел (ВАР)",
+    "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "Арт обстрел (ВАР)",
-    "Type": "Throwable",
+    "Name": "AT-JT",
+    "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
@@ -6157,15 +6223,15 @@
   },
   {
     "ID": 54003,
-    "Name": "Картридж для боевой DC-12R \"Click\"",
-    "Type": "Magazine",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 54003,
     "Name": "Laser_Muzzle",
     "Type": "Effect",
     "Rarity": null
+  },
+  {
+    "ID": 54003,
+    "Name": "Картридж для боевой DC-12R \"Click\"",
+    "Type": "Magazine",
+    "Rarity": "Epic"
   },
   {
     "ID": 54004,
@@ -6522,10 +6588,34 @@
     "Rarity": "Rare"
   },
   {
+    "ID": 58414,
+    "Name": "10 бинтов.",
+    "Type": "Supply",
+    "Rarity": null
+  },
+  {
+    "ID": 58415,
+    "Name": "Ящик с бинтами.",
+    "Type": "Barricade",
+    "Rarity": "Legendary"
+  },
+  {
     "ID": 58980,
-    "Name": "Еда",
+    "Name": "Сухпай",
     "Type": "Food",
     "Rarity": "Rare"
+  },
+  {
+    "ID": 58981,
+    "Name": "10 сухпаев.",
+    "Type": "Supply",
+    "Rarity": null
+  },
+  {
+    "ID": 58982,
+    "Name": "Ящик с сухпайками.",
+    "Type": "Barricade",
+    "Rarity": "Legendary"
   },
   {
     "ID": 58990,

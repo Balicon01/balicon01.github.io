@@ -1494,6 +1494,12 @@
     "Rarity": "Legendary"
   },
   {
+    "ID": 7760,
+    "Name": "Parachute",
+    "Type": "Cloud",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 7776,
     "Name": "Flamethrower_Effect",
     "Type": "Effect",
@@ -1611,6 +1617,30 @@
     "ID": 8104,
     "Name": "Меткий Шлем",
     "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8110,
+    "Name": "Jedi Wookie Head",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8111,
+    "Name": "Jedi Wookie Top",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8112,
+    "Name": "Jedi Wookie Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 8113,
+    "Name": "Lightsaber Jedi Wooki (Anim)",
+    "Type": "Melee",
     "Rarity": "Mythical"
   },
   {
@@ -3276,6 +3306,30 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 14440,
+    "Name": "NT-773",
+    "Type": "Gun",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 14441,
+    "Name": "Магазин NT-773",
+    "Type": "Magazine",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 14443,
+    "Name": "Прицел NT-773 8x",
+    "Type": "Sight",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 14444,
+    "Name": "Прицел NT-773 16x",
+    "Type": "Sight",
+    "Rarity": "Legendary"
+  },
+  {
     "ID": 14470,
     "Name": "Лаки BackPack RC",
     "Type": "Backpack",
@@ -3436,6 +3490,36 @@
     "Name": "Корд Vest",
     "Type": "Vest",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 14900,
+    "Name": "Marsian BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14901,
+    "Name": "Marsian Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 14902,
+    "Name": "Marsian Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14903,
+    "Name": "Marsian Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14904,
+    "Name": "Marsian Козырек",
+    "Type": "Mask",
+    "Rarity": "Rare"
   },
   {
     "ID": 15000,
@@ -5592,12 +5676,6 @@
     "Rarity": null
   },
   {
-    "ID": 36373,
-    "Name": "Parachute",
-    "Type": "Cloud",
-    "Rarity": "Epic"
-  },
-  {
     "ID": 38305,
     "Name": "Gungan Head",
     "Type": "Hat",
@@ -5695,14 +5773,14 @@
   },
   {
     "ID": 40100,
-    "Name": "Арт обстрел (ВАР)",
-    "Type": "Throwable",
+    "Name": "AT-JT",
+    "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "AT-JT",
-    "Type": "Vehicle",
+    "Name": "Арт обстрел (ВАР)",
+    "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {
@@ -6223,15 +6301,15 @@
   },
   {
     "ID": 54003,
-    "Name": "Laser_Muzzle",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 54003,
     "Name": "Картридж для боевой DC-12R \"Click\"",
     "Type": "Magazine",
     "Rarity": "Epic"
+  },
+  {
+    "ID": 54003,
+    "Name": "Laser_Muzzle",
+    "Type": "Effect",
+    "Rarity": null
   },
   {
     "ID": 54004,
@@ -6316,6 +6394,42 @@
     "Name": "Scope EE-3",
     "Type": "Sight",
     "Rarity": "Rare"
+  },
+  {
+    "ID": 55600,
+    "Name": "Лук Тарбуки",
+    "Type": "Gun",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 55601,
+    "Name": "Лук Тарбуки Magazine",
+    "Type": "Magazine",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 55610,
+    "Name": "Лук Тарбуки Scope 2x",
+    "Type": "Sight",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 55611,
+    "Name": "Лук Тарбуки Scope 4x",
+    "Type": "Sight",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 55612,
+    "Name": "Лук Тарбуки Scope 6x",
+    "Type": "Sight",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 55613,
+    "Name": "Лук Тарбуки Scope 8x",
+    "Type": "Sight",
+    "Rarity": "Epic"
   },
   {
     "ID": 55679,

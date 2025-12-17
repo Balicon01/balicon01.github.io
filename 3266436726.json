@@ -913,14 +913,14 @@
   },
   {
     "ID": 5915,
-    "Name": "LAAT/le",
-    "Type": "Vehicle",
+    "Name": "Навык силы: Помутнение разума",
+    "Type": "Medical",
     "Rarity": "Legendary"
   },
   {
     "ID": 5915,
-    "Name": "Навык силы: Помутнение разума",
-    "Type": "Medical",
+    "Name": "LAAT/le",
+    "Type": "Vehicle",
     "Rarity": "Legendary"
   },
   {
@@ -3246,6 +3246,36 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 14290,
+    "Name": "Jeese BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14291,
+    "Name": "Jeese JetPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14292,
+    "Name": "Jeese Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 14293,
+    "Name": "Jeese Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14294,
+    "Name": "Jeese Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 14390,
     "Name": "Юдзиро BackPack",
     "Type": "Backpack",
@@ -4098,6 +4128,48 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 16549,
+    "Name": "Дройдека - Невидимая",
+    "Type": "Shirt",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 16550,
+    "Name": "Дройдека - Боевой",
+    "Type": "Shirt",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 16551,
+    "Name": "Щит Дройдеки",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16552,
+    "Name": "Дройдека - Перекатывающийся",
+    "Type": "Vest",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 16553,
+    "Name": "B1 Дроид (Турель)",
+    "Type": "Sentry",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16554,
+    "Name": "Droid_B1_Active",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 16555,
+    "Name": "Droid_B1_Lost",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
     "ID": 17020,
     "Name": "Fox BackPack",
     "Type": "Backpack",
@@ -4294,6 +4366,12 @@
     "Name": "332 Козырек",
     "Type": "Mask",
     "Rarity": "Rare"
+  },
+  {
+    "ID": 17393,
+    "Name": "501 Hat Rex",
+    "Type": "Hat",
+    "Rarity": "Mythical"
   },
   {
     "ID": 17430,
@@ -5773,14 +5851,14 @@
   },
   {
     "ID": 40100,
-    "Name": "AT-JT",
-    "Type": "Vehicle",
+    "Name": "Арт обстрел (ВАР)",
+    "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "Арт обстрел (ВАР)",
-    "Type": "Throwable",
+    "Name": "AT-JT",
+    "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
@@ -6301,15 +6379,15 @@
   },
   {
     "ID": 54003,
-    "Name": "Картридж для боевой DC-12R \"Click\"",
-    "Type": "Magazine",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 54003,
     "Name": "Laser_Muzzle",
     "Type": "Effect",
     "Rarity": null
+  },
+  {
+    "ID": 54003,
+    "Name": "Картридж для боевой DC-12R \"Click\"",
+    "Type": "Magazine",
+    "Rarity": "Epic"
   },
   {
     "ID": 54004,

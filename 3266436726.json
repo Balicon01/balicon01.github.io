@@ -3852,6 +3852,36 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 15560,
+    "Name": "Штаны Deus",
+    "Type": "Pants",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 15561,
+    "Name": "Шлем Deus",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15562,
+    "Name": "Маска Deus",
+    "Type": "Mask",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15563,
+    "Name": "Куртка Deus",
+    "Type": "Shirt",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 15564,
+    "Name": "Бронежилет Deus",
+    "Type": "Vest",
+    "Rarity": null
+  },
+  {
     "ID": 15777,
     "Name": "Asaf JetPack",
     "Type": "Backpack",
@@ -3896,6 +3926,30 @@
   {
     "ID": 15903,
     "Name": "Бронежилет Forzi (Mandalorian)",
+    "Type": "Vest",
+    "Rarity": null
+  },
+  {
+    "ID": 15910,
+    "Name": "Джетпак Юдзиро (Mandalorian)",
+    "Type": "Backpack",
+    "Rarity": null
+  },
+  {
+    "ID": 15911,
+    "Name": "Шлем Юдзиро (Mandalorian)",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15912,
+    "Name": "Куртка Юдзиро (Mandalorian)",
+    "Type": "Shirt",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 15913,
+    "Name": "Бронежилет Юдзиро (Mandalorian)",
     "Type": "Vest",
     "Rarity": null
   },

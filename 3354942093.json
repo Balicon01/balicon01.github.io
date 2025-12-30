@@ -198,6 +198,12 @@
     "Rarity": "Legendary"
   },
   {
+    "ID": 40999,
+    "Name": "Laat Рейбла",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
     "ID": 41000,
     "Name": "Laat/c",
     "Type": "Vehicle",

@@ -24,6 +24,12 @@
     "Rarity": "Uncommon"
   },
   {
+    "ID": 2035,
+    "Name": "Термо(Низ огнеметчика)",
+    "Type": "Pants",
+    "Rarity": "Uncommon"
+  },
+  {
     "ID": 2270,
     "Name": "Mask Кута",
     "Type": "Mask",
@@ -913,14 +919,14 @@
   },
   {
     "ID": 5915,
-    "Name": "Навык силы: Помутнение разума",
-    "Type": "Medical",
+    "Name": "LAAT/le",
+    "Type": "Vehicle",
     "Rarity": "Legendary"
   },
   {
     "ID": 5915,
-    "Name": "LAAT/le",
-    "Type": "Vehicle",
+    "Name": "Навык силы: Помутнение разума",
+    "Type": "Medical",
     "Rarity": "Legendary"
   },
   {
@@ -3276,6 +3282,42 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 14310,
+    "Name": "Vengar BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14311,
+    "Name": "Vengar Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 14312,
+    "Name": "Vengar Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14313,
+    "Name": "Vengar Mask",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 14314,
+    "Name": "Vengar Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14315,
+    "Name": "Vengar Visor",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 14390,
     "Name": "Юдзиро BackPack",
     "Type": "Backpack",
@@ -3954,6 +3996,30 @@
     "Rarity": null
   },
   {
+    "ID": 15940,
+    "Name": "Джетпак Marsian (Mandalorian)",
+    "Type": "Backpack",
+    "Rarity": null
+  },
+  {
+    "ID": 15941,
+    "Name": "Шлем Marsian (Mandalorian)",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15942,
+    "Name": "Куртка Marsian (Mandalorian)",
+    "Type": "Shirt",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 15943,
+    "Name": "Бронежилет Marsian (Mandalorian)",
+    "Type": "Vest",
+    "Rarity": null
+  },
+  {
     "ID": 16000,
     "Name": "710 Clothes",
     "Type": "Shirt",
@@ -4204,12 +4270,6 @@
     "Name": "Дройдека - Перекатывающийся",
     "Type": "Vest",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 16553,
-    "Name": "B1 Дроид (Турель)",
-    "Type": "Sentry",
-    "Rarity": "Mythical"
   },
   {
     "ID": 16554,
@@ -5646,6 +5706,48 @@
     "Rarity": "Uncommon"
   },
   {
+    "ID": 32000,
+    "Name": "Наушник Asaf`a",
+    "Type": "Mask",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 32001,
+    "Name": "Очки Asaf`a",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 32002,
+    "Name": "Маска Asaf`a (Шлем)",
+    "Type": "Hat",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 32003,
+    "Name": "Маска Asaf`a (Шлем)",
+    "Type": "Hat",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 32004,
+    "Name": "Штаны Asaf`a",
+    "Type": "Pants",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 32005,
+    "Name": "Куртка Asaf`a",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 32006,
+    "Name": "Нагрудник Asaf`a",
+    "Type": "Vest",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 33205,
     "Name": "FLEET Cap",
     "Type": "Hat",
@@ -6433,15 +6535,15 @@
   },
   {
     "ID": 54003,
-    "Name": "Laser_Muzzle",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 54003,
     "Name": "Картридж для боевой DC-12R \"Click\"",
     "Type": "Magazine",
     "Rarity": "Epic"
+  },
+  {
+    "ID": 54003,
+    "Name": "Laser_Muzzle",
+    "Type": "Effect",
+    "Rarity": null
   },
   {
     "ID": 54004,
@@ -6610,6 +6712,54 @@
     "Name": "DLT-20X Scope 8x",
     "Type": "Sight",
     "Rarity": "Rare"
+  },
+  {
+    "ID": 56000,
+    "Name": "Оружие на туррель ААТ",
+    "Type": "Gun",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 56001,
+    "Name": "Магазин на туррель ААТ",
+    "Type": "Magazine",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 56003,
+    "Name": "Магазин на туррель ААТ",
+    "Type": "Magazine",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 56004,
+    "Name": "Clone (Турель)",
+    "Type": "Sentry",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 56005,
+    "Name": "B1 Дроид Geonosis (Турель)",
+    "Type": "Sentry",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 56006,
+    "Name": "B1 Дроид Sniper (Турель)",
+    "Type": "Sentry",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 56007,
+    "Name": "B1 Дроид (Турель)",
+    "Type": "Sentry",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 56008,
+    "Name": "AAT (Турель)",
+    "Type": "Sentry",
+    "Rarity": "Mythical"
   },
   {
     "ID": 58301,

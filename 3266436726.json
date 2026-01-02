@@ -3900,6 +3900,60 @@
     "Rarity": null
   },
   {
+    "ID": 15570,
+    "Name": "BackPack Mandalorian (G)",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15571,
+    "Name": "Helmet Mandalorian (G)",
+    "Type": "Hat",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 15572,
+    "Name": "Vest Mandalorian (G)",
+    "Type": "Vest",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 15573,
+    "Name": "Backpack Mandalorian (GR)",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15574,
+    "Name": "Helmet Mandalorian (GR)",
+    "Type": "Hat",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 15575,
+    "Name": "Vest Mandalorian (GR)",
+    "Type": "Vest",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 15576,
+    "Name": "Backpack Mandalorian (WR)",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15577,
+    "Name": "Helmet Mandalorian (WR)",
+    "Type": "Hat",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 15578,
+    "Name": "Vest Mandalorian (WR)",
+    "Type": "Vest",
+    "Rarity": "Rare"
+  },
+  {
     "ID": 15777,
     "Name": "Asaf JetPack",
     "Type": "Backpack",

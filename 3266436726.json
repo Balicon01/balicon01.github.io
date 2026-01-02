@@ -2088,30 +2088,6 @@
     "Rarity": "Mythical"
   },
   {
-    "ID": 8810,
-    "Name": "Кваргон Нагрудник",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8811,
-    "Name": "Кваргон Одежда",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 8812,
-    "Name": "Кваргон Рюкзак",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8813,
-    "Name": "Кваргон Шлем",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
     "ID": 8815,
     "Name": "Реактивный ранец",
     "Type": "Backpack",
@@ -3877,26 +3853,50 @@
   },
   {
     "ID": 15555,
-    "Name": "Neam Clothes v1",
+    "Name": "Top Mandalorian (G)",
     "Type": "Shirt",
     "Rarity": "Epic"
   },
   {
     "ID": 15556,
-    "Name": "Neam Clothes v2",
+    "Name": "Top Mandalorian (GR)",
     "Type": "Shirt",
     "Rarity": "Epic"
   },
   {
     "ID": 15557,
-    "Name": "Neam Clothes v3",
+    "Name": "Top Mandalorian (WR)",
     "Type": "Shirt",
     "Rarity": "Epic"
+  },
+  {
+    "ID": 15558,
+    "Name": "Vest Mandalorian (G)",
+    "Type": "Vest",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 15559,
+    "Name": "Vest Mandalorian (GR)",
+    "Type": "Vest",
+    "Rarity": "Rare"
   },
   {
     "ID": 15560,
     "Name": "Штаны Deus",
     "Type": "Pants",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 15560,
+    "Name": "Vest Mandalorian (WR)",
+    "Type": "Vest",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 15561,
+    "Name": "Helmet Mandalorian (G)",
+    "Type": "Hat",
     "Rarity": "Rare"
   },
   {
@@ -3912,6 +3912,18 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 15562,
+    "Name": "Helmet Mandalorian (GR)",
+    "Type": "Hat",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 15563,
+    "Name": "Helmet Mandalorian (WR)",
+    "Type": "Hat",
+    "Rarity": "Rare"
+  },
+  {
     "ID": 15563,
     "Name": "Куртка Deus",
     "Type": "Shirt",
@@ -3919,9 +3931,27 @@
   },
   {
     "ID": 15564,
+    "Name": "BackPack Mandalorian (G)",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15564,
     "Name": "Бронежилет Deus",
     "Type": "Vest",
     "Rarity": null
+  },
+  {
+    "ID": 15565,
+    "Name": "Backpack Mandalorian (GR)",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15566,
+    "Name": "Backpack Mandalorian (WR)",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
   },
   {
     "ID": 15777,
@@ -3999,7 +4029,7 @@
     "ID": 15940,
     "Name": "Джетпак Marsian (Mandalorian)",
     "Type": "Backpack",
-    "Rarity": null
+    "Rarity": "Mythical"
   },
   {
     "ID": 15941,
@@ -4011,13 +4041,19 @@
     "ID": 15942,
     "Name": "Куртка Marsian (Mandalorian)",
     "Type": "Shirt",
-    "Rarity": "Rare"
+    "Rarity": "Mythical"
   },
   {
     "ID": 15943,
     "Name": "Бронежилет Marsian (Mandalorian)",
     "Type": "Vest",
-    "Rarity": null
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15944,
+    "Name": "ПНВ Marsian (Mandalorian)",
+    "Type": "Glasses",
+    "Rarity": "Mythical"
   },
   {
     "ID": 16000,
@@ -5086,6 +5122,12 @@
     "Name": "Visor Rancor Хавок",
     "Type": "Glasses",
     "Rarity": "Epic"
+  },
+  {
+    "ID": 20562,
+    "Name": "ПНВ Mandalorian",
+    "Type": "Glasses",
+    "Rarity": "Mythical"
   },
   {
     "ID": 20999,
@@ -6535,15 +6577,15 @@
   },
   {
     "ID": 54003,
-    "Name": "Картридж для боевой DC-12R \"Click\"",
-    "Type": "Magazine",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 54003,
     "Name": "Laser_Muzzle",
     "Type": "Effect",
     "Rarity": null
+  },
+  {
+    "ID": 54003,
+    "Name": "Картридж для боевой DC-12R \"Click\"",
+    "Type": "Magazine",
+    "Rarity": "Epic"
   },
   {
     "ID": 54004,

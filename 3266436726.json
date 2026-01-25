@@ -919,14 +919,14 @@
   },
   {
     "ID": 5915,
-    "Name": "LAAT/le",
-    "Type": "Vehicle",
+    "Name": "Навык силы: Помутнение разума",
+    "Type": "Medical",
     "Rarity": "Legendary"
   },
   {
     "ID": 5915,
-    "Name": "Навык силы: Помутнение разума",
-    "Type": "Medical",
+    "Name": "LAAT/le",
+    "Type": "Vehicle",
     "Rarity": "Legendary"
   },
   {
@@ -946,6 +946,18 @@
     "Name": "Навык силы: Лечение",
     "Type": "Medical",
     "Rarity": "Legendary"
+  },
+  {
+    "ID": 5920,
+    "Name": "Навык силы: Массовое востановление",
+    "Type": "Throwable",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 5921,
+    "Name": "EffectTest",
+    "Type": "Effect",
+    "Rarity": null
   },
   {
     "ID": 6001,
@@ -3258,6 +3270,30 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 14295,
+    "Name": "Echo BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14296,
+    "Name": "Echo Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 14297,
+    "Name": "Echo Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14298,
+    "Name": "Echo Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 14310,
     "Name": "Vengar BackPack",
     "Type": "Backpack",
@@ -3811,15 +3847,33 @@
   },
   {
     "ID": 15500,
+    "Name": "[MS] ETA-2",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 15500,
     "Name": "INV VEST",
     "Type": "Vest",
     "Rarity": "Mythical"
   },
   {
     "ID": 15501,
+    "Name": "[MS] ETA-2",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 15501,
     "Name": "INV BACKPACK",
     "Type": "Backpack",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 15502,
+    "Name": "[MS] ETA-2",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
   },
   {
     "ID": 15522,
@@ -3896,6 +3950,36 @@
   {
     "ID": 15564,
     "Name": "Бронежилет Deus",
+    "Type": "Vest",
+    "Rarity": null
+  },
+  {
+    "ID": 15565,
+    "Name": "Плащ Magnaguard",
+    "Type": "Backpack",
+    "Rarity": null
+  },
+  {
+    "ID": 15566,
+    "Name": "Шлем Magnaguard_Helmet",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15567,
+    "Name": "Штаны Magnaguard",
+    "Type": "Pants",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 15568,
+    "Name": "Куртка Magnaguard",
+    "Type": "Shirt",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 15569,
+    "Name": "Бронежилет Magnaguard",
     "Type": "Vest",
     "Rarity": null
   },
@@ -4144,6 +4228,30 @@
     "Name": "710 CMD",
     "Type": "Backpack",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 16200,
+    "Name": "AV7 Tank Cannon",
+    "Type": "Gun",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 16201,
+    "Name": "AV7 Missile",
+    "Type": "Magazine",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 16202,
+    "Name": "Rangefinder",
+    "Type": "Tactical",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 16203,
+    "Name": "AV7_Explosion",
+    "Type": "Effect",
+    "Rarity": null
   },
   {
     "ID": 16311,
@@ -5592,6 +5700,18 @@
     "Rarity": "Legendary"
   },
   {
+    "ID": 23412,
+    "Name": "Med_Bunker",
+    "Type": "Large",
+    "Rarity": null
+  },
+  {
+    "ID": 23413,
+    "Name": "Tech_Bunker",
+    "Type": "Large",
+    "Rarity": null
+  },
+  {
     "ID": 24001,
     "Name": "Katana",
     "Type": "Melee",
@@ -6049,19 +6169,43 @@
   },
   {
     "ID": 40100,
-    "Name": "Арт обстрел (ВАР)",
-    "Type": "Throwable",
-    "Rarity": "Uncommon"
-  },
-  {
-    "ID": 40100,
     "Name": "AT-JT",
     "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
+    "ID": 40100,
+    "Name": "Арт обстрел (ВАР)",
+    "Type": "Throwable",
+    "Rarity": "Uncommon"
+  },
+  {
     "ID": 40101,
     "Name": "ATTE",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 40130,
+    "Name": "AV7",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 40150,
+    "Name": "AT-RT",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 40150,
+    "Name": "AT-RT",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 40155,
+    "Name": "AV7(Mod)",
     "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
@@ -6150,6 +6294,18 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 43521,
+    "Name": "Barricade_Med_Bunker",
+    "Type": "Barricade",
+    "Rarity": null
+  },
+  {
+    "ID": 43522,
+    "Name": "Barricade_Tech_Bunker",
+    "Type": "Barricade",
+    "Rarity": null
+  },
+  {
     "ID": 44228,
     "Name": "Nu-Class",
     "Type": "Vehicle",
@@ -6182,6 +6338,12 @@
   {
     "ID": 44236,
     "Name": "ARC-170",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 44280,
+    "Name": "X-Wing",
     "Type": "Vehicle",
     "Rarity": "Legendary"
   },
@@ -6577,15 +6739,15 @@
   },
   {
     "ID": 54003,
-    "Name": "Laser_Muzzle",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 54003,
     "Name": "Картридж для боевой DC-12R \"Click\"",
     "Type": "Magazine",
     "Rarity": "Epic"
+  },
+  {
+    "ID": 54003,
+    "Name": "Laser_Muzzle",
+    "Type": "Effect",
+    "Rarity": null
   },
   {
     "ID": 54004,
@@ -6865,7 +7027,7 @@
   },
   {
     "ID": 58315,
-    "Name": "Капсула с бактой",
+    "Name": "Ыыыыыыыыыыыыы",
     "Type": "Medical",
     "Rarity": "Legendary"
   },

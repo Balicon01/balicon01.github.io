@@ -300,6 +300,12 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 4005,
+    "Name": "Набор курсанта",
+    "Type": "Supply",
+    "Rarity": "Rare"
+  },
+  {
     "ID": 4006,
     "Name": "Хранилище",
     "Type": "Storage",
@@ -328,12 +334,6 @@
     "Name": "Хранилище(Ящик Открытый)",
     "Type": "Storage",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4010,
-    "Name": "Набор курсанта",
-    "Type": "Supply",
-    "Rarity": "Rare"
   },
   {
     "ID": 4180,
@@ -949,13 +949,13 @@
   },
   {
     "ID": 5919,
-    "Name": "Навык силы: Лечение",
+    "Name": "Навык силы: Лечение. Уровень 1.",
     "Type": "Medical",
     "Rarity": "Legendary"
   },
   {
     "ID": 5920,
-    "Name": "Навык силы: Массовое востановление",
+    "Name": "Навык силы: Массовое востановление. Уровень 2.",
     "Type": "Throwable",
     "Rarity": "Rare"
   },
@@ -964,6 +964,18 @@
     "Name": "EffectTest",
     "Type": "Effect",
     "Rarity": null
+  },
+  {
+    "ID": 5921,
+    "Name": "Навык силы: Лечение. Уровень 2.",
+    "Type": "Medical",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 5922,
+    "Name": "Навык силы: Массовое востановление. Уровень 1.",
+    "Type": "Throwable",
+    "Rarity": "Rare"
   },
   {
     "ID": 6001,
@@ -2694,6 +2706,12 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 10031,
+    "Name": "Aklay_Green_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
     "ID": 10556,
     "Name": "Shield",
     "Type": "Melee",
@@ -3889,27 +3907,27 @@
   },
   {
     "ID": 15500,
+    "Name": "INV VEST",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15500,
     "Name": "[MS] ETA-2",
     "Type": "Vehicle",
     "Rarity": "Legendary"
   },
   {
-    "ID": 15500,
-    "Name": "INV VEST",
-    "Type": "Vest",
-    "Rarity": "Mythical"
+    "ID": 15501,
+    "Name": "[MS] ETA-2",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
   },
   {
     "ID": 15501,
     "Name": "INV BACKPACK",
     "Type": "Backpack",
     "Rarity": "Mythical"
-  },
-  {
-    "ID": 15501,
-    "Name": "[MS] ETA-2",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
   },
   {
     "ID": 15502,
@@ -5160,6 +5178,24 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 19328,
+    "Name": "AT-RT Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 19329,
+    "Name": "AT-RT Helmet",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 19330,
+    "Name": "AT-RT Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 19400,
     "Name": "Super Tactic Clothes",
     "Type": "Shirt",
@@ -5478,6 +5514,12 @@
     "Rarity": null
   },
   {
+    "ID": 21123,
+    "Name": "IDN Sergeant",
+    "Type": "Melee",
+    "Rarity": null
+  },
+  {
     "ID": 21144,
     "Name": "Дробаш Шахрама",
     "Type": "Gun",
@@ -5511,6 +5553,18 @@
     "ID": 22005,
     "Name": "E5S Scope 16x",
     "Type": "Sight",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 22010,
+    "Name": "E5S Rifle (dsd1)",
+    "Type": "Gun",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 22011,
+    "Name": "E5S Magazine (dsd1)",
+    "Type": "Magazine",
     "Rarity": "Rare"
   },
   {
@@ -6307,13 +6361,19 @@
   },
   {
     "ID": 40100,
+    "Name": "AT-JT",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 40100,
     "Name": "Арт обстрел (ВАР)",
     "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "AT-JT",
+    "Name": "Juggernaut",
     "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
@@ -6336,10 +6396,28 @@
     "Rarity": "Uncommon"
   },
   {
+    "ID": 40155,
+    "Name": "DSD-1",
+    "Type": "Vehicle",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 40156,
     "Name": "J1(Mod)",
     "Type": "Vehicle",
     "Rarity": "Uncommon"
+  },
+  {
+    "ID": 40158,
+    "Name": "Octuptarra",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 40159,
+    "Name": "DSD-1",
+    "Type": "Vehicle",
+    "Rarity": "Mythical"
   },
   {
     "ID": 40300,
@@ -6586,6 +6664,24 @@
     "Name": "RC Backp  (Wnitenoize)",
     "Type": "Backpack",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 45613,
+    "Name": "Pixel сфінктер",
+    "Type": "Gun",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 45614,
+    "Name": "Магазин (АТБ)",
+    "Type": "Magazine",
+    "Rarity": "Common"
+  },
+  {
+    "ID": 45682,
+    "Name": "Гномяча тарілка",
+    "Type": "Glasses",
+    "Rarity": "Rare"
   },
   {
     "ID": 46050,
@@ -6936,6 +7032,72 @@
     "Rarity": null
   },
   {
+    "ID": 53521,
+    "Name": "Supply",
+    "Type": "Supply",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 53522,
+    "Name": "Наушники",
+    "Type": "Hat",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 53523,
+    "Name": "Наушники",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 53524,
+    "Name": "Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 53525,
+    "Name": "Shirt",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 53526,
+    "Name": "Pants",
+    "Type": "Pants",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 53527,
+    "Name": "Supply",
+    "Type": "Supply",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 53528,
+    "Name": "Наушники",
+    "Type": "Hat",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 53529,
+    "Name": "Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 53530,
+    "Name": "Shirt",
+    "Type": "Shirt",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 53531,
+    "Name": "Pants",
+    "Type": "Pants",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 54000,
     "Name": "Боевой бластер DC-12R \"Click\"",
     "Type": "Gun",
@@ -7178,6 +7340,18 @@
   {
     "ID": 56008,
     "Name": "AAT (Турель)",
+    "Type": "Sentry",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 56009,
+    "Name": "B1 Дроид Учебный(Турель)",
+    "Type": "Sentry",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 56010,
+    "Name": "B1 Дроид Учебный(Турель)",
     "Type": "Sentry",
     "Rarity": "Mythical"
   },

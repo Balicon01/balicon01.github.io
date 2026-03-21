@@ -312,12 +312,6 @@
     "Rarity": "Legendary"
   },
   {
-        "ID": 40100,
-    "Name": "AT-JT",
-    "Type": "Vehicle",
-    "Rarity": "Uncommon"
-  },
-  {
         "ID": 40101,
     "Name": "AT-TE",
     "Type": "Vehicle",
@@ -386,6 +380,60 @@
   {
         "ID": 4500,
     "Name": "Туррель",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 40080,
+    "Name": "TX-130 M1",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 44462,
+    "Name": "Гиена",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 50159,
+    "Name": "DSD-1",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 15502,
+    "Name": "ETA-2 Yellow",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 15501,
+    "Name": "ETA-2 Red",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 15500,
+    "Name": "ETA-2 Grey",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 40155,
+    "Name": "AV-7",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 40150,
+    "Name": "AT-RT",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 40156,
+    "Name": "J1",
     "Type": "Vehicle",
     "Rarity": "Uncommon"
   }

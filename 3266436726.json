@@ -576,6 +576,54 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 5396,
+    "Name": "RC BackPack (Etta)",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5397,
+    "Name": "RC Clothes (Etta)",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 5398,
+    "Name": "RC Hat (Etta)",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5399,
+    "Name": "RC Vest (Etta)",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5401,
+    "Name": "RC BackPack (Подрывник (Etta))",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5402,
+    "Name": "RC Clothes (Снайпер (Etta))",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 5403,
+    "Name": "RC BackPack (Техник (Etta))",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 5404,
+    "Name": "RC Hat (Техник (Etta))",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 5450,
     "Name": "RC Шакрам BackPack",
     "Type": "Backpack",
@@ -925,14 +973,14 @@
   },
   {
     "ID": 5915,
-    "Name": "LAAT/le",
-    "Type": "Vehicle",
+    "Name": "Навык силы: Помутнение разума",
+    "Type": "Medical",
     "Rarity": "Legendary"
   },
   {
     "ID": 5915,
-    "Name": "Навык силы: Помутнение разума",
-    "Type": "Medical",
+    "Name": "LAAT/le",
+    "Type": "Vehicle",
     "Rarity": "Legendary"
   },
   {
@@ -1047,6 +1095,30 @@
     "ID": 6243,
     "Name": "Касс Шлем",
     "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 6250,
+    "Name": "Снеговик Рюкзак",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 6251,
+    "Name": "Снеговик Шлем",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 6252,
+    "Name": "Снеговик Одежда",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 6253,
+    "Name": "Снеговик Нагрудник",
+    "Type": "Vest",
     "Rarity": "Mythical"
   },
   {
@@ -3907,15 +3979,15 @@
   },
   {
     "ID": 15500,
-    "Name": "INV VEST",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 15500,
     "Name": "[MS] ETA-2",
     "Type": "Vehicle",
     "Rarity": "Legendary"
+  },
+  {
+    "ID": 15500,
+    "Name": "INV VEST",
+    "Type": "Vest",
+    "Rarity": "Mythical"
   },
   {
     "ID": 15501,
@@ -4424,6 +4496,12 @@
   {
     "ID": 16317,
     "Name": "Hat ARC GUARD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16380,
+    "Name": "Hat 501|E",
     "Type": "Hat",
     "Rarity": "Mythical"
   },
@@ -6367,14 +6445,14 @@
   },
   {
     "ID": 40100,
-    "Name": "Арт обстрел (ВАР)",
-    "Type": "Throwable",
+    "Name": "Juggernaut",
+    "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "Juggernaut",
-    "Type": "Vehicle",
+    "Name": "Арт обстрел (ВАР)",
+    "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {
@@ -6391,15 +6469,15 @@
   },
   {
     "ID": 40155,
-    "Name": "AV7(Mod)",
-    "Type": "Vehicle",
-    "Rarity": "Uncommon"
-  },
-  {
-    "ID": 40155,
     "Name": "DSD-1",
     "Type": "Vehicle",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 40155,
+    "Name": "AV7(Mod)",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
   },
   {
     "ID": 40156,
@@ -6583,14 +6661,14 @@
   },
   {
     "ID": 45006,
-    "Name": "RC Vest (Black) (Balicon)",
-    "Type": "Vest",
+    "Name": "RC BackPack (Техник (Чёрный))",
+    "Type": "Backpack",
     "Rarity": "Mythical"
   },
   {
     "ID": 45006,
-    "Name": "RC BackPack (Техник (Чёрный))",
-    "Type": "Backpack",
+    "Name": "RC Vest (Black) (Balicon)",
+    "Type": "Vest",
     "Rarity": "Mythical"
   },
   {
@@ -6667,7 +6745,7 @@
   },
   {
     "ID": 45613,
-    "Name": "Pixel сфінктер",
+    "Name": "АТБ",
     "Type": "Gun",
     "Rarity": "Rare"
   },
@@ -6979,25 +7057,25 @@
   },
   {
     "ID": 53441,
-    "Name": "Black Umbrella",
+    "Name": "Crystal Blue",
     "Type": "Cloud",
     "Rarity": "Uncommon"
   },
   {
     "ID": 53442,
-    "Name": "Black Umbrella",
+    "Name": "Crystal Blue Light",
     "Type": "Cloud",
     "Rarity": "Uncommon"
   },
   {
     "ID": 53443,
-    "Name": "Black Umbrella",
+    "Name": "Energy Barrel (Empty)",
     "Type": "Cloud",
     "Rarity": "Uncommon"
   },
   {
     "ID": 53444,
-    "Name": "Black Umbrella",
+    "Name": "Energy Barrel (Full)",
     "Type": "Cloud",
     "Rarity": "Uncommon"
   },
@@ -7117,15 +7195,15 @@
   },
   {
     "ID": 54003,
-    "Name": "Картридж для боевой DC-12R \"Click\"",
-    "Type": "Magazine",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 54003,
     "Name": "Laser_Muzzle",
     "Type": "Effect",
     "Rarity": null
+  },
+  {
+    "ID": 54003,
+    "Name": "Картридж для боевой DC-12R \"Click\"",
+    "Type": "Magazine",
+    "Rarity": "Epic"
   },
   {
     "ID": 54004,

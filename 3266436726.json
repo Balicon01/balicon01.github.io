@@ -1009,15 +1009,15 @@
   },
   {
     "ID": 5921,
-    "Name": "EffectTest",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 5921,
     "Name": "Навык силы: Лечение. Уровень 2.",
     "Type": "Medical",
     "Rarity": "Legendary"
+  },
+  {
+    "ID": 5921,
+    "Name": "EffectTest",
+    "Type": "Effect",
+    "Rarity": null
   },
   {
     "ID": 5922,
@@ -3991,15 +3991,15 @@
   },
   {
     "ID": 15501,
-    "Name": "[MS] ETA-2",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 15501,
     "Name": "INV BACKPACK",
     "Type": "Backpack",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 15501,
+    "Name": "[MS] ETA-2",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
   },
   {
     "ID": 15502,
@@ -5658,6 +5658,120 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 22100,
+    "Name": "Hat ARC \"DOOM\"",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 22101,
+    "Name": "Hat ARF \"DOOM\"",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 22102,
+    "Name": "Hat AS \"DOOM\"",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 22103,
+    "Name": "Hat AS CMD \"DOOM\"",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 22104,
+    "Name": "BackPack CMD \"DOOM\"",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 22105,
+    "Name": "BackPack CMD \"DOOM\"",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 22106,
+    "Name": "BackPack CMD \"DOOM\"",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 22107,
+    "Name": "Hat BARK \"DOOM\"",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 22108,
+    "Name": "Clothes \"DOOM\"",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 22109,
+    "Name": "CMD Clothes \"DOOM\"",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 22110,
+    "Name": "FGN Clothes \"DOOM\"",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 22111,
+    "Name": "MED Clothes \"DOOM\"",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 22112,
+    "Name": "Hat FGN \"DOOM\"",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 22113,
+    "Name": "Hat Pilot \"DOOM\"",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 22114,
+    "Name": "Vest \"DOOM\"",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 22115,
+    "Name": "CMD Vest \"DOOM\"",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 22116,
+    "Name": "FGN Vest \"DOOM\"",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 22117,
+    "Name": "MED Vest \"DOOM\"",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 22118,
+    "Name": "Козырек КМД",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
     "ID": 22144,
     "Name": "Vanguard",
     "Type": "Gun",
@@ -6469,12 +6583,6 @@
   },
   {
     "ID": 40155,
-    "Name": "DSD-1",
-    "Type": "Vehicle",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 40155,
     "Name": "AV7(Mod)",
     "Type": "Vehicle",
     "Rarity": "Uncommon"
@@ -6596,12 +6704,6 @@
   {
     "ID": 44234,
     "Name": "Vulture",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 44236,
-    "Name": "ARC-170",
     "Type": "Vehicle",
     "Rarity": "Legendary"
   },
@@ -7032,6 +7134,18 @@
     "Rarity": "Rare"
   },
   {
+    "ID": 53321,
+    "Name": "Pine Barricade",
+    "Type": "Barricade",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 53322,
+    "Name": "Metal Sign",
+    "Type": "Barricade",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 53437,
     "Name": "Shirt",
     "Type": "Shirt",
@@ -7195,15 +7309,15 @@
   },
   {
     "ID": 54003,
-    "Name": "Laser_Muzzle",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 54003,
     "Name": "Картридж для боевой DC-12R \"Click\"",
     "Type": "Magazine",
     "Rarity": "Epic"
+  },
+  {
+    "ID": 54003,
+    "Name": "Laser_Muzzle",
+    "Type": "Effect",
+    "Rarity": null
   },
   {
     "ID": 54004,
@@ -7430,6 +7544,12 @@
   {
     "ID": 56010,
     "Name": "B1 Дроид Учебный(Турель)",
+    "Type": "Sentry",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 56011,
+    "Name": "Octuptarra Дроид (Турель)",
     "Type": "Sentry",
     "Rarity": "Mythical"
   },

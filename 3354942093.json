@@ -436,6 +436,12 @@
     "Name": "J1",
     "Type": "Vehicle",
     "Rarity": "Uncommon"
+  },
+  {
+        "ID": 44010,
+    "Name": "Y-wing",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
   }
 ]
 

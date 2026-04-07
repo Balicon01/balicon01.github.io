@@ -442,6 +442,18 @@
     "Name": "Y-wing",
     "Type": "Vehicle",
     "Rarity": "Uncommon"
+  },
+  {
+        "ID": 40158,
+    "Name": "Octuptarra",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+        "ID": 40100,
+    "Name": "JUGGERNAUT",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
   }
 ]
 

@@ -132,6 +132,12 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 3104,
+    "Name": "Lightsaber Прайс",
+    "Type": "Melee",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 3300,
     "Name": "Турель АТТЕ",
     "Type": "Gun",
@@ -444,8 +450,14 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 4499,
+    "Name": "Туррель 2",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
     "ID": 4500,
-    "Name": "Туррель",
+    "Name": "Туррель 2",
     "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
@@ -458,6 +470,18 @@
   {
     "ID": 4502,
     "Name": "Туррель 1",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 4505,
+    "Name": "Туррель 3",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 4507,
+    "Name": "Туррель 4",
     "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
@@ -1009,15 +1033,15 @@
   },
   {
     "ID": 5921,
-    "Name": "Навык силы: Лечение. Уровень 2.",
-    "Type": "Medical",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 5921,
     "Name": "EffectTest",
     "Type": "Effect",
     "Rarity": null
+  },
+  {
+    "ID": 5921,
+    "Name": "Навык силы: Лечение. Уровень 2.",
+    "Type": "Medical",
+    "Rarity": "Legendary"
   },
   {
     "ID": 5922,
@@ -2778,8 +2802,80 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 10028,
+    "Name": "Aklay_Blue_Large_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10029,
+    "Name": "Aklay_Blue_Medium_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10030,
+    "Name": "Aklay_Blue_Small_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
     "ID": 10031,
     "Name": "Aklay_Green_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10031,
+    "Name": "Aklay_Green_Large_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10032,
+    "Name": "Aklay_Green_Medium_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10033,
+    "Name": "Aklay_Green_Small_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10034,
+    "Name": "Aklay_Red_Large_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10035,
+    "Name": "Aklay_Red_Medium_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10036,
+    "Name": "Aklay_Red_Small_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10037,
+    "Name": "Aklay_Yellow_Large_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10038,
+    "Name": "Aklay_Yellow_Medium_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10039,
+    "Name": "Aklay_Yellow_Small_Animal",
     "Type": "Animal",
     "Rarity": null
   },
@@ -2798,6 +2894,12 @@
   {
     "ID": 10558,
     "Name": "Shield Юдзиро",
+    "Type": "Melee",
+    "Rarity": null
+  },
+  {
+    "ID": 10559,
+    "Name": "Shield Doom",
     "Type": "Melee",
     "Rarity": null
   },
@@ -3126,6 +3228,12 @@
     "Rarity": "Legendary"
   },
   {
+    "ID": 12164,
+    "Name": "Z6",
+    "Type": "Gun",
+    "Rarity": "Legendary"
+  },
+  {
     "ID": 12165,
     "Name": "Z6 Magazine",
     "Type": "Magazine",
@@ -3202,6 +3310,48 @@
     "Name": "Кристалл фиолетовый",
     "Type": "Map",
     "Rarity": "Epic"
+  },
+  {
+    "ID": 12400,
+    "Name": "Электро BackPack Cama",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 12401,
+    "Name": "Электро BackPack LT",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 12402,
+    "Name": "Электро BackPack SGT",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 12403,
+    "Name": "Электро Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 12404,
+    "Name": "Электро Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 12405,
+    "Name": "Электро Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 12406,
+    "Name": "Электро Козырек",
+    "Type": "Mask",
+    "Rarity": "Rare"
   },
   {
     "ID": 12445,
@@ -3453,12 +3603,6 @@
     "ID": 14393,
     "Name": "Юдзиро Vest",
     "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 14394,
-    "Name": "Юдзиро Hat",
-    "Type": "Hat",
     "Rarity": "Mythical"
   },
   {
@@ -3979,15 +4123,15 @@
   },
   {
     "ID": 15500,
-    "Name": "[MS] ETA-2",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 15500,
     "Name": "INV VEST",
     "Type": "Vest",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 15500,
+    "Name": "[MS] ETA-2",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
   },
   {
     "ID": 15501,
@@ -4536,10 +4680,52 @@
     "Rarity": "Rare"
   },
   {
+    "ID": 16430,
+    "Name": "Охотник BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16431,
+    "Name": "Охотник Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 16432,
+    "Name": "Охотник Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16433,
+    "Name": "Охотник Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16434,
+    "Name": "Нож Охотника",
+    "Type": "Melee",
+    "Rarity": "Rare"
+  },
+  {
     "ID": 16440,
     "Name": "Хром BackPack",
     "Type": "Backpack",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 16440,
+    "Name": "Азазель BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16441,
+    "Name": "Clothes RC Азазель",
+    "Type": "Shirt",
+    "Rarity": "Epic"
   },
   {
     "ID": 16441,
@@ -4549,8 +4735,20 @@
   },
   {
     "ID": 16442,
+    "Name": "Hat RC Азазель",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16442,
     "Name": "Хром Hat",
     "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16443,
+    "Name": "Vest RC Азазель",
+    "Type": "Vest",
     "Rarity": "Mythical"
   },
   {
@@ -4562,6 +4760,18 @@
   {
     "ID": 16444,
     "Name": "Хром Козырек",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 16444,
+    "Name": "Visor RC Азазель",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 16445,
+    "Name": "Козырек RC Азазель",
     "Type": "Mask",
     "Rarity": "Rare"
   },
@@ -4594,6 +4804,30 @@
     "Name": "Козырек Рифа",
     "Type": "Mask",
     "Rarity": "Rare"
+  },
+  {
+    "ID": 16460,
+    "Name": "Крушила BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16461,
+    "Name": "Крушила Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 16462,
+    "Name": "Крушила Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16463,
+    "Name": "Крушила Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
   },
   {
     "ID": 16511,
@@ -5466,6 +5700,30 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 20570,
+    "Name": "Visor RC White",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 20571,
+    "Name": "Visor RC Black",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 20572,
+    "Name": "Visor RC DOOM",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 20573,
+    "Name": "Visor CMD RC DOOM",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 20999,
     "Name": "Тест Visor",
     "Type": "Glasses",
@@ -5683,7 +5941,7 @@
   },
   {
     "ID": 22104,
-    "Name": "BackPack CMD \"DOOM\"",
+    "Name": "BackPack ARC \"DOOM\"",
     "Type": "Backpack",
     "Rarity": "Mythical"
   },
@@ -5695,7 +5953,7 @@
   },
   {
     "ID": 22106,
-    "Name": "BackPack CMD \"DOOM\"",
+    "Name": "JetPack \"DOOM\"",
     "Type": "Backpack",
     "Rarity": "Mythical"
   },
@@ -5767,7 +6025,7 @@
   },
   {
     "ID": 22118,
-    "Name": "Козырек КМД",
+    "Name": "Козырек КМД \"DOOM\"",
     "Type": "Mask",
     "Rarity": "Rare"
   },
@@ -6666,6 +6924,12 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 42510,
+    "Name": "Jabba",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 43521,
     "Name": "Barricade_Med_Bunker",
     "Type": "Barricade",
@@ -6763,14 +7027,14 @@
   },
   {
     "ID": 45006,
-    "Name": "RC BackPack (Техник (Чёрный))",
-    "Type": "Backpack",
+    "Name": "RC Vest (Black) (Balicon)",
+    "Type": "Vest",
     "Rarity": "Mythical"
   },
   {
     "ID": 45006,
-    "Name": "RC Vest (Black) (Balicon)",
-    "Type": "Vest",
+    "Name": "RC BackPack (Техник (Чёрный))",
+    "Type": "Backpack",
     "Rarity": "Mythical"
   },
   {
@@ -6843,6 +7107,90 @@
     "ID": 45022,
     "Name": "RC Backp  (Wnitenoize)",
     "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 45100,
+    "Name": "RC BackPack (CMD DOOM)",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 45101,
+    "Name": "RC Clothes (CMD DOOM)",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 45102,
+    "Name": "RC Hat (CMD DOOM)",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 45103,
+    "Name": "RC Vestk (CMD DOOM)",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 45104,
+    "Name": "Козырек CMD RC DOOM",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 45105,
+    "Name": "RC BackPack (DOOM)",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 45106,
+    "Name": "RC Clothes (DOOM)",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 45107,
+    "Name": "RC Hat (DOOM)",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 45108,
+    "Name": "RC Vestk (DOOM)",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 45109,
+    "Name": "Козырек RC DOOM",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 45110,
+    "Name": "RC BackPack (Подрывник (DOOM))",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 45111,
+    "Name": "RC Clothes (Снайпер (DOOM))",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 45112,
+    "Name": "RC BackPack (Техник (DOOM))",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 45113,
+    "Name": "RC Hat (Техник (DOOM))",
+    "Type": "Hat",
     "Rarity": "Mythical"
   },
   {
@@ -7068,6 +7416,12 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 49150,
+    "Name": "S1A3(Фонарь)",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 49199,
     "Name": "Интегрированный наушник",
     "Type": "Mask",
@@ -7146,20 +7500,44 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 53400,
+    "Name": "Знак: Атаковать",
+    "Type": "Barricade",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 53401,
+    "Name": "Знак: Вперёд",
+    "Type": "Barricade",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 53402,
+    "Name": "Знак: Защита",
+    "Type": "Barricade",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 53403,
+    "Name": "Красная табличка",
+    "Type": "Barricade",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 53437,
-    "Name": "Shirt",
+    "Name": "Куртка Рыцаря-Джедая",
     "Type": "Shirt",
     "Rarity": "Mythical"
   },
   {
     "ID": 53438,
-    "Name": "Pants",
+    "Name": "Штаны Рыцаря-Джедая",
     "Type": "Pants",
     "Rarity": "Mythical"
   },
   {
     "ID": 53439,
-    "Name": "Vest",
+    "Name": "Нагрудник Рыцаря-Джедая",
     "Type": "Vest",
     "Rarity": "Mythical"
   },
@@ -7195,7 +7573,7 @@
   },
   {
     "ID": 53445,
-    "Name": "Black Umbrella",
+    "Name": "Energy Box",
     "Type": "Cloud",
     "Rarity": "Uncommon"
   },
@@ -7225,67 +7603,67 @@
   },
   {
     "ID": 53521,
-    "Name": "Supply",
+    "Name": "Пак Стража-Джедая",
     "Type": "Supply",
     "Rarity": "Mythical"
   },
   {
     "ID": 53522,
-    "Name": "Наушники",
+    "Name": "Капюшон Стража-Джедая",
     "Type": "Hat",
     "Rarity": "Rare"
   },
   {
     "ID": 53523,
-    "Name": "Наушники",
+    "Name": "Маска Стража-Джедая",
     "Type": "Mask",
     "Rarity": "Rare"
   },
   {
     "ID": 53524,
-    "Name": "Vest",
+    "Name": "Нагрудник Стража-Джедая",
     "Type": "Vest",
     "Rarity": "Mythical"
   },
   {
     "ID": 53525,
-    "Name": "Shirt",
+    "Name": "Куртка Стража-Джедая",
     "Type": "Shirt",
     "Rarity": "Mythical"
   },
   {
     "ID": 53526,
-    "Name": "Pants",
+    "Name": "Штаны Стража-Джедая",
     "Type": "Pants",
     "Rarity": "Mythical"
   },
   {
     "ID": 53527,
-    "Name": "Supply",
+    "Name": "Пак Стража-Джедая (Чёрный)",
     "Type": "Supply",
     "Rarity": "Mythical"
   },
   {
     "ID": 53528,
-    "Name": "Наушники",
+    "Name": "Капюшон Стража-Джедая (Чёрный)",
     "Type": "Hat",
     "Rarity": "Rare"
   },
   {
     "ID": 53529,
-    "Name": "Vest",
+    "Name": "Нагрудник Стража-Джедая (Чёрный)",
     "Type": "Vest",
     "Rarity": "Mythical"
   },
   {
     "ID": 53530,
-    "Name": "Shirt",
+    "Name": "Куртка Стража-Джедая (Чёрный)",
     "Type": "Shirt",
     "Rarity": "Mythical"
   },
   {
     "ID": 53531,
-    "Name": "Pants",
+    "Name": "Штаны Стража-Джедая (Чёрный)",
     "Type": "Pants",
     "Rarity": "Mythical"
   },
@@ -7543,7 +7921,7 @@
   },
   {
     "ID": 56010,
-    "Name": "B1 Дроид Учебный(Турель)",
+    "Name": "Дроидека (Турель)",
     "Type": "Sentry",
     "Rarity": "Mythical"
   },
@@ -7552,6 +7930,30 @@
     "Name": "Octuptarra Дроид (Турель)",
     "Type": "Sentry",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 56012,
+    "Name": "Octuptarra Дроид (Турель)",
+    "Type": "Sentry",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 56020,
+    "Name": "Оружие на туррель TX130M",
+    "Type": "Gun",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 56022,
+    "Name": "Магазин на туррель TX130M",
+    "Type": "Magazine",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 56023,
+    "Name": "Магазин на туррель TX130M",
+    "Type": "Magazine",
+    "Rarity": "Epic"
   },
   {
     "ID": 58301,

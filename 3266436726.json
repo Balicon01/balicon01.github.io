@@ -1045,15 +1045,15 @@
   },
   {
     "ID": 5921,
-    "Name": "EffectTest",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 5921,
     "Name": "Навык силы: Лечение. Уровень 2.",
     "Type": "Medical",
     "Rarity": "Legendary"
+  },
+  {
+    "ID": 5921,
+    "Name": "EffectTest",
+    "Type": "Effect",
+    "Rarity": null
   },
   {
     "ID": 5922,
@@ -2821,13 +2821,13 @@
   },
   {
     "ID": 9512,
-    "Name": "Баррикада_6",
+    "Name": "Баррикада_7",
     "Type": "Storage",
     "Rarity": "Epic"
   },
   {
     "ID": 9513,
-    "Name": "Баррикада_6",
+    "Name": "Баррикада_8",
     "Type": "Storage",
     "Rarity": "Epic"
   },
@@ -2860,6 +2860,96 @@
     "Name": "B2 Helmet",
     "Type": "Hat",
     "Rarity": "Epic"
+  },
+  {
+    "ID": 10028,
+    "Name": "Aklay_Blue_Large_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10029,
+    "Name": "Aklay_Blue_Medium_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10030,
+    "Name": "Aklay_Blue_Small_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10031,
+    "Name": "Aklay_Green_Large_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10031,
+    "Name": "Moll_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10031,
+    "Name": "Aklay_Green_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10032,
+    "Name": "Aklay_Green_Medium_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10032,
+    "Name": "Taver_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10033,
+    "Name": "Aklay_Green_Small_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10034,
+    "Name": "Aklay_Red_Large_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10035,
+    "Name": "Aklay_Red_Medium_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10036,
+    "Name": "Aklay_Red_Small_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10037,
+    "Name": "Aklay_Yellow_Large_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10038,
+    "Name": "Aklay_Yellow_Medium_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10039,
+    "Name": "Aklay_Yellow_Small_Animal",
+    "Type": "Animal",
+    "Rarity": null
   },
   {
     "ID": 10556,
@@ -3214,6 +3304,12 @@
     "Name": "Блиц Vest",
     "Type": "Vest",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 11512,
+    "Name": "Barricade_Hole",
+    "Type": "Barricade",
+    "Rarity": null
   },
   {
     "ID": 11522,
@@ -3640,6 +3736,150 @@
     "Name": "Laser_Tracer__Red",
     "Type": "Effect",
     "Rarity": null
+  },
+  {
+    "ID": 14000,
+    "Name": "RC BackPack (GUARD КМД)",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14001,
+    "Name": "RC Clothes (GUARD КМД)",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 14002,
+    "Name": "RC Hat (GUARD КМД)",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14003,
+    "Name": "RC Vest (GUARD КМД)",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14004,
+    "Name": "RC BackPack (GUARD)",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14005,
+    "Name": "RC Clothes (GUARD)",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 14006,
+    "Name": "RC Hat (GUARD)",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14007,
+    "Name": "RC Vest (GUARD)",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14008,
+    "Name": "RC BackPack (Подрывник (GUARD))",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14009,
+    "Name": "RC Clothes (Снайпер (GUARD))",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 14010,
+    "Name": "RC BackPack (Техник (GUARD))",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14011,
+    "Name": "RC Hat (Техник (GUARD))",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14020,
+    "Name": "RC BackPack (SBR КМД)",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14021,
+    "Name": "RC Clothes (SBR КМД)",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 14022,
+    "Name": "RC Hat (SBR КМД)",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14023,
+    "Name": "RC Vest (SBR КМД)",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14024,
+    "Name": "RC BackPack (SBR)",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14025,
+    "Name": "RC Clothes (SBR)",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 14026,
+    "Name": "RC Hat (SBR)",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14027,
+    "Name": "RC Vest (SBR)",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14028,
+    "Name": "RC BackPack (Подрывник (SBR))",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14029,
+    "Name": "RC Clothes (Снайпер (SBR))",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 14030,
+    "Name": "RC BackPack (Техник (GUARD))",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14031,
+    "Name": "RC Hat (Техник (SBR))",
+    "Type": "Hat",
+    "Rarity": "Mythical"
   },
   {
     "ID": 14200,
@@ -4122,6 +4362,36 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 15340,
+    "Name": "Чайс BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15341,
+    "Name": "Чайс Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 15342,
+    "Name": "Чайс Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15343,
+    "Name": "Чайс Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15344,
+    "Name": "Чайс Visor",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 15345,
     "Name": "Duros (JEDI)",
     "Type": "Hat",
@@ -4279,15 +4549,15 @@
   },
   {
     "ID": 15500,
-    "Name": "[MS] ETA-2",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 15500,
     "Name": "INV VEST",
     "Type": "Vest",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 15500,
+    "Name": "[MS] ETA-2",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
   },
   {
     "ID": 15501,
@@ -4393,7 +4663,7 @@
   },
   {
     "ID": 15566,
-    "Name": "Шлем Magnaguard_Helmet",
+    "Name": "Шлем Magnaguard",
     "Type": "Hat",
     "Rarity": "Mythical"
   },
@@ -4470,6 +4740,12 @@
     "Rarity": "Rare"
   },
   {
+    "ID": 15579,
+    "Name": "Наушник Magnaguard",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
     "ID": 15600,
     "Name": "Gorgodon Head #1",
     "Type": "Hat",
@@ -4528,6 +4804,24 @@
     "Name": "Бронежилет Geonosian",
     "Type": "Vest",
     "Rarity": null
+  },
+  {
+    "ID": 15660,
+    "Name": "Droid Gren backpack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15661,
+    "Name": "Droid Gren helmet",
+    "Type": "Hat",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 15662,
+    "Name": "Droid Gren",
+    "Type": "Shirt",
+    "Rarity": "Epic"
   },
   {
     "ID": 15777,
@@ -4928,6 +5222,12 @@
   {
     "ID": 16317,
     "Name": "Hat ARC GUARD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 16318,
+    "Name": "Hat ARC K9",
     "Type": "Hat",
     "Rarity": "Mythical"
   },
@@ -6810,6 +7110,78 @@
     "Rarity": "Legendary"
   },
   {
+    "ID": 30050,
+    "Name": "1",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 30051,
+    "Name": "2",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 30052,
+    "Name": "3",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 30053,
+    "Name": "4",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 30054,
+    "Name": "5",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 30055,
+    "Name": "6",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 30056,
+    "Name": "7",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 30057,
+    "Name": "8",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 30058,
+    "Name": "9",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 30059,
+    "Name": "10",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 30060,
+    "Name": "11",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 30061,
+    "Name": "12",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
     "ID": 31265,
     "Name": "Полевой госпиталь.",
     "Type": "Barricade",
@@ -7164,8 +7536,8 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 40080,
-    "Name": "TX-130M1",
+    "ID": 40092,
+    "Name": "AAC-1",
     "Type": "Vehicle",
     "Rarity": "Legendary"
   },
@@ -7284,6 +7656,12 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 41008,
+    "Name": "LAAT/I (New_System)",
+    "Type": "Vehicle",
+    "Rarity": "Epic"
+  },
+  {
     "ID": 42510,
     "Name": "Jabba",
     "Type": "Shirt",
@@ -7346,6 +7724,30 @@
   {
     "ID": 44238,
     "Name": "ARC-170 \"Грач\"",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 44250,
+    "Name": "V-Wing",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 44255,
+    "Name": "V-Wing(M2)",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 44256,
+    "Name": "Tri-Fighter",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 44257,
+    "Name": "V-19",
     "Type": "Vehicle",
     "Rarity": "Legendary"
   },
@@ -7591,7 +7993,7 @@
   },
   {
     "ID": 45205,
-    "Name": "Airdrop Grenade (Нейтрал)",
+    "Name": "Airdrop Grenade (Ящик ВАР)",
     "Type": "Throwable",
     "Rarity": "Legendary"
   },
@@ -7633,6 +8035,30 @@
   },
   {
     "ID": 45216,
+    "Name": "AirSpawn",
+    "Type": "Spawn",
+    "Rarity": null
+  },
+  {
+    "ID": 45225,
+    "Name": "Airdrop Grenade (Ящик КНС)",
+    "Type": "Throwable",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 45226,
+    "Name": "Drop_Ef",
+    "Type": "Effect",
+    "Rarity": null
+  },
+  {
+    "ID": 45227,
+    "Name": "Barricada",
+    "Type": "Storage",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 45228,
     "Name": "AirSpawn",
     "Type": "Spawn",
     "Rarity": null
@@ -8167,15 +8593,15 @@
   },
   {
     "ID": 54003,
-    "Name": "Laser_Muzzle",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 54003,
     "Name": "Картридж для боевой DC-12R \"Click\"",
     "Type": "Magazine",
     "Rarity": "Epic"
+  },
+  {
+    "ID": 54003,
+    "Name": "Laser_Muzzle",
+    "Type": "Effect",
+    "Rarity": null
   },
   {
     "ID": 54004,
@@ -8296,6 +8722,18 @@
     "Name": "Лук Тарбуки Scope 8x",
     "Type": "Sight",
     "Rarity": "Epic"
+  },
+  {
+    "ID": 55650,
+    "Name": "Gren Droid GUN",
+    "Type": "Gun",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 55651,
+    "Name": "Gren Droid Magazine",
+    "Type": "Magazine",
+    "Rarity": "Uncommon"
   },
   {
     "ID": 55679,
@@ -8677,7 +9115,7 @@
   },
   {
     "ID": 58565,
-    "Name": "Pistol RC Magazine",
+    "Name": "Dual Pistol RC Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
   },

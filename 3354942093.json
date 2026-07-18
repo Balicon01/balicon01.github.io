@@ -454,6 +454,36 @@
     "Name": "JUGGERNAUT",
     "Type": "Vehicle",
     "Rarity": "Uncommon"
+  },
+  {
+    "ID": 44256,
+    "Name": "Tri-Fighter",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 15414,
+    "Name": "AIV-140 Turret",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 15413,
+    "Name": "AIV-140",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 44250,
+    "Name": "V-Wing",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 44257,
+    "Name": "V-19",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
   }
 ]
 

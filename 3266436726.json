@@ -1045,15 +1045,15 @@
   },
   {
     "ID": 5921,
-    "Name": "Навык силы: Лечение. Уровень 2.",
-    "Type": "Medical",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 5921,
     "Name": "EffectTest",
     "Type": "Effect",
     "Rarity": null
+  },
+  {
+    "ID": 5921,
+    "Name": "Навык силы: Лечение. Уровень 2.",
+    "Type": "Medical",
+    "Rarity": "Legendary"
   },
   {
     "ID": 5922,
@@ -2862,96 +2862,6 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 10028,
-    "Name": "Aklay_Blue_Large_Animal",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
-    "ID": 10029,
-    "Name": "Aklay_Blue_Medium_Animal",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
-    "ID": 10030,
-    "Name": "Aklay_Blue_Small_Animal",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
-    "ID": 10031,
-    "Name": "Aklay_Green_Large_Animal",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
-    "ID": 10031,
-    "Name": "Moll_Animal",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
-    "ID": 10031,
-    "Name": "Aklay_Green_Animal",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
-    "ID": 10032,
-    "Name": "Aklay_Green_Medium_Animal",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
-    "ID": 10032,
-    "Name": "Taver_Animal",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
-    "ID": 10033,
-    "Name": "Aklay_Green_Small_Animal",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
-    "ID": 10034,
-    "Name": "Aklay_Red_Large_Animal",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
-    "ID": 10035,
-    "Name": "Aklay_Red_Medium_Animal",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
-    "ID": 10036,
-    "Name": "Aklay_Red_Small_Animal",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
-    "ID": 10037,
-    "Name": "Aklay_Yellow_Large_Animal",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
-    "ID": 10038,
-    "Name": "Aklay_Yellow_Medium_Animal",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
-    "ID": 10039,
-    "Name": "Aklay_Yellow_Small_Animal",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
     "ID": 10556,
     "Name": "Shield",
     "Type": "Melee",
@@ -3966,10 +3876,124 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 14300,
+    "Name": "Fives BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14301,
+    "Name": "Fives Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 14302,
+    "Name": "Fives Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14303,
+    "Name": "Fives JetPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14304,
+    "Name": "Fives Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14310,
+    "Name": "Кобра BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14311,
+    "Name": "Кобра Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 14312,
+    "Name": "Кобра Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14313,
+    "Name": "Кобра JetPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14314,
+    "Name": "Кобра Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 14315,
     "Name": "Vengar Visor",
     "Type": "Glasses",
     "Rarity": "Epic"
+  },
+  {
+    "ID": 14320,
+    "Name": "Donan BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14321,
+    "Name": "Donan Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 14322,
+    "Name": "Donan Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14323,
+    "Name": "Donan Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14324,
+    "Name": "Donan Visor",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 14325,
+    "Name": "BackPack Mandalorian (Donan)",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 14326,
+    "Name": "Helmet Mandalorian (Donan)",
+    "Type": "Hat",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 14327,
+    "Name": "Top Mandalorian (Donan)",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 14328,
+    "Name": "Vest Mandalorian (Donan)",
+    "Type": "Vest",
+    "Rarity": "Rare"
   },
   {
     "ID": 14390,
@@ -4549,15 +4573,15 @@
   },
   {
     "ID": 15500,
-    "Name": "INV VEST",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 15500,
     "Name": "[MS] ETA-2",
     "Type": "Vehicle",
     "Rarity": "Legendary"
+  },
+  {
+    "ID": 15500,
+    "Name": "INV VEST",
+    "Type": "Vest",
+    "Rarity": "Mythical"
   },
   {
     "ID": 15501,

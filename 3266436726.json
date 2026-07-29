@@ -1045,15 +1045,15 @@
   },
   {
     "ID": 5921,
-    "Name": "EffectTest",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 5921,
     "Name": "Навык силы: Лечение. Уровень 2.",
     "Type": "Medical",
     "Rarity": "Legendary"
+  },
+  {
+    "ID": 5921,
+    "Name": "EffectTest",
+    "Type": "Effect",
+    "Rarity": null
   },
   {
     "ID": 5922,
@@ -2784,6 +2784,78 @@
     "Rarity": "Mythical"
   },
   {
+    "ID": 9361,
+    "Name": "FLEET Hat PLT K9",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 9370,
+    "Name": "Плащ Казаха",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 9371,
+    "Name": "Казах Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 9372,
+    "Name": "Казах Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 9373,
+    "Name": "Казах Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 9380,
+    "Name": "Бабай Backpack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 9381,
+    "Name": "Бабай Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 9382,
+    "Name": "Бабай Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 9383,
+    "Name": "Бабай BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 9384,
+    "Name": "Бабай Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 9385,
+    "Name": "Бабай Visor",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 9386,
+    "Name": "Бабай Козырек",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
     "ID": 9506,
     "Name": "Баррикада_1",
     "Type": "Storage",
@@ -3406,12 +3478,6 @@
     "Name": "187 Vest КМД",
     "Type": "Vest",
     "Rarity": "Mythical"
-  },
-  {
-    "ID": 12164,
-    "Name": "Z6",
-    "Type": "Gun",
-    "Rarity": "Legendary"
   },
   {
     "ID": 12164,
@@ -4573,27 +4639,27 @@
   },
   {
     "ID": 15500,
+    "Name": "INV VEST",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15500,
     "Name": "[MS] ETA-2",
     "Type": "Vehicle",
     "Rarity": "Legendary"
   },
   {
-    "ID": 15500,
-    "Name": "INV VEST",
-    "Type": "Vest",
-    "Rarity": "Mythical"
+    "ID": 15501,
+    "Name": "[MS] ETA-2",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
   },
   {
     "ID": 15501,
     "Name": "INV BACKPACK",
     "Type": "Backpack",
     "Rarity": "Mythical"
-  },
-  {
-    "ID": 15501,
-    "Name": "[MS] ETA-2",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
   },
   {
     "ID": 15502,
@@ -4628,6 +4694,18 @@
   {
     "ID": 15526,
     "Name": "Система пилота",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 15527,
+    "Name": "Козырек КМД",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 15528,
+    "Name": "Козырек КМД",
     "Type": "Mask",
     "Rarity": "Rare"
   },
@@ -6992,6 +7070,12 @@
   {
     "ID": 24002,
     "Name": "Режик Андрюхи",
+    "Type": "Melee",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 24003,
+    "Name": "Dyn-Dy-Don",
     "Type": "Melee",
     "Rarity": "Epic"
   },

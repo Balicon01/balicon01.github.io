@@ -490,6 +490,12 @@
     "Name": "V-19",
     "Type": "Vehicle",
     "Rarity": "Uncommon"
+  },
+  {
+    "ID": 40092,
+    "Name": "AAC-1",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon"
   }
 ]
 

@@ -331,7 +331,37 @@
   },
   {
     "ID": 3956,
-    "Name": "Электро Козырек",
+    "Name": "Янтарь Козырек",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 3960,
+    "Name": "Янтарь Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 3961,
+    "Name": "Рунтер Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 3962,
+    "Name": "Рунтер Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 3963,
+    "Name": "Рунтер BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 3964,
+    "Name": "Рунтер Козырек",
     "Type": "Mask",
     "Rarity": "Rare"
   },
@@ -1039,14 +1069,14 @@
   },
   {
     "ID": 5915,
-    "Name": "LAAT/le",
-    "Type": "Vehicle",
+    "Name": "Навык силы: Помутнение разума",
+    "Type": "Medical",
     "Rarity": "Legendary"
   },
   {
     "ID": 5915,
-    "Name": "Навык силы: Помутнение разума",
-    "Type": "Medical",
+    "Name": "LAAT/le",
+    "Type": "Vehicle",
     "Rarity": "Legendary"
   },
   {
@@ -1075,15 +1105,15 @@
   },
   {
     "ID": 5921,
-    "Name": "Навык силы: Лечение. Уровень 2.",
-    "Type": "Medical",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 5921,
     "Name": "EffectTest",
     "Type": "Effect",
     "Rarity": null
+  },
+  {
+    "ID": 5921,
+    "Name": "Навык силы: Лечение. Уровень 2.",
+    "Type": "Medical",
+    "Rarity": "Legendary"
   },
   {
     "ID": 5922,
@@ -4681,15 +4711,15 @@
   },
   {
     "ID": 15500,
-    "Name": "INV VEST",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 15500,
     "Name": "[MS] ETA-2",
     "Type": "Vehicle",
     "Rarity": "Legendary"
+  },
+  {
+    "ID": 15500,
+    "Name": "INV VEST",
+    "Type": "Vest",
+    "Rarity": "Mythical"
   },
   {
     "ID": 15501,
@@ -5332,6 +5362,36 @@
     "Name": "MED BackPack CMD",
     "Type": "Backpack",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 16034,
+    "Name": "Battle Surgeon Hat",
+    "Type": "Hat",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 16035,
+    "Name": "Battle Surgeon Pants",
+    "Type": "Pants",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 16036,
+    "Name": "Battle Surgeon Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 16037,
+    "Name": "Battle Surgeon Vest",
+    "Type": "Vest",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 16038,
+    "Name": "Battle Surgeon Vest Officer",
+    "Type": "Vest",
+    "Rarity": "Epic"
   },
   {
     "ID": 16200,
@@ -6925,7 +6985,7 @@
   },
   {
     "ID": 22745,
-    "Name": "Боевой бластер DC-15a укороченный",
+    "Name": "Боевой бластер DC-15У",
     "Type": "Gun",
     "Rarity": "Epic"
   },
@@ -7738,6 +7798,12 @@
     "Name": "Rakghoul Vest",
     "Type": "Vest",
     "Rarity": "Mythical"
+  },
+  {
+    "ID": 38319,
+    "Name": "Gungan JetPack",
+    "Type": "Backpack",
+    "Rarity": "Rare"
   },
   {
     "ID": 38320,

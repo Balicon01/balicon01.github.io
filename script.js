@@ -12,22 +12,22 @@ document.addEventListener('DOMContentLoaded', () => {
     order: [], // Отключаем изначальную сортировку (нейтральное положение)
     columnDefs: [
       { orderable: false, targets: 0 }, // Disable sorting on the "Photo" column
-      { 
-        type: 'num', 
+      {
+        type: 'num',
         targets: 1,
-        render: function(data, type, row) {
+        render: function (data, type, row) {
           return type === 'display' ? `<span class="item-id">${data}</span>` : data;
         }
       },
       {
         targets: 2,
-        render: function(data, type, row) {
+        render: function (data, type, row) {
           return type === 'display' ? `<span class="item-type">${data}</span>` : data;
         }
       },
       {
         targets: 3,
-        render: function(data, type, row) {
+        render: function (data, type, row) {
           return type === 'display' ? `<span class="item-name">${data}</span>` : data;
         }
       }
@@ -91,18 +91,18 @@ document.addEventListener('DOMContentLoaded', () => {
     // Show loader, hide table
     loaderContainer.style.display = 'flex';
     dataTableContainer.style.display = 'none';
-    
+
     try {
       const response = await fetch(url);
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
       }
       const data = await response.json();
-      
+
       const rows = dataProcessor(data);
-      
+
       table.clear().rows.add(rows).draw();
-      
+
       // Hide loader, show table
       loaderContainer.style.display = 'none';
       dataTableContainer.style.display = 'block';
@@ -130,9 +130,9 @@ document.addEventListener('DOMContentLoaded', () => {
       const type = data[i].Type;
       // Пропускаем ненужные типы (если переданы)
       if (excludeTypes.includes(type)) continue;
-      
+
       const displayType = type || (excludeTypes.length === 0 ? 'Vehicle' : 'N/A');
-      
+
       rows.push([
         getImgHTML(imgPath, data[i].ID),
         data[i].ID,
@@ -145,14 +145,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Button logic
   function handleButtonClick(buttonId, url, imgPath, excludeTypes) {
-    document.getElementById(buttonId).addEventListener('click', function() {
+    document.getElementById(buttonId).addEventListener('click', function () {
       // Manage active state
       document.querySelectorAll('.custom-button').forEach(btn => btn.classList.remove('active'));
       this.classList.add('active');
-      
+
       searchInput.value = ''; // Clear search
       table.search('').draw();
-      
+
       // Передаем функцию, которая вызовет processData с нужными аргументами
       loadData(url, (data) => processData(data, imgPath, excludeTypes));
     });
@@ -163,22 +163,22 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Для Eternal (3266436726.json) -> папка /images_3266436726/ (назовите её как вам нужно)
   handleButtonClick('relsi', 'https://Balicon01.github.io/3266436726.json', 'https://Balicon01.github.io/images_3266436726/', defaultExcludes);
-  
+
   // Для Original (3412516593.json) -> папка /images_3412516593/
   handleButtonClick('relorig', 'https://Balicon01.github.io/3412516593.json', 'https://Balicon01.github.io/images_3412516593/', defaultExcludes);
-  
+
   // Для Cars (3354942093.json) -> папка /ImagesVehicle/
-  handleButtonClick('toggleCars', 'https://Balicon01.github.io/3354942093.json', 'https://Balicon01.github.io/ImagesVehicle/', []);
+  handleButtonClick('toggleCars', 'https://Balicon01.github.io/Vehicle.json', 'https://Balicon01.github.io/ImagesVehicle/', []);
 
   // Search
-  searchInput.addEventListener('input', function() {
+  searchInput.addEventListener('input', function () {
     table.search(this.value).draw();
   });
 
   // --- Новые Фичи ---
 
   // Копирование ID
-  $('#dataTable').on('click', '.item-id', function() {
+  $('#dataTable').on('click', '.item-id', function () {
     const text = $(this).text();
     navigator.clipboard.writeText(text).then(() => {
       toast.classList.add('show');
@@ -190,7 +190,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   // Lightbox для картинок
-  $('#dataTable').on('click', '.image', function() {
+  $('#dataTable').on('click', '.image', function () {
     lightboxImg.src = this.src;
     lightbox.classList.add('show');
   });

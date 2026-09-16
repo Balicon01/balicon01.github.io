@@ -72,12 +72,6 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 2500,
-    "Name": "Рюкзак KD и JP",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
     "ID": 2800,
     "Name": "Форма Офицера голограмма",
     "Type": "Shirt",
@@ -270,30 +264,6 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 3700,
-    "Name": "Валет BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 3701,
-    "Name": "Валет Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 3702,
-    "Name": "Валет Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 3703,
-    "Name": "Валет Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
     "ID": 3950,
     "Name": "Янтарь Clothes",
     "Type": "Shirt",
@@ -430,48 +400,6 @@
     "Name": "СейвзонаКНС",
     "Type": "Large",
     "Rarity": null
-  },
-  {
-    "ID": 4261,
-    "Name": "Ящик(Одежда)",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 4262,
-    "Name": "Голокрон(Одежда)",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 4400,
-    "Name": "Higs BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 4401,
-    "Name": "Higs Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 4402,
-    "Name": "Higs Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 4403,
-    "Name": "Higs Hat (ARC)",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 4404,
-    "Name": "Higs Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
   },
   {
     "ID": 4410,
@@ -657,66 +585,6 @@
     "ID": 5393,
     "Name": "RC Хитрец Vest",
     "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 5394,
-    "Name": "RC Хитрец Vest v2",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 5395,
-    "Name": "RC Хитрец Hat v2",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 5396,
-    "Name": "RC BackPack (Etta)",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 5397,
-    "Name": "RC Clothes (Etta)",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 5398,
-    "Name": "RC Hat (Etta)",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 5399,
-    "Name": "RC Vest (Etta)",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 5401,
-    "Name": "RC BackPack (Подрывник (Etta))",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 5402,
-    "Name": "RC Clothes (Снайпер (Etta))",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 5403,
-    "Name": "RC BackPack (Техник (Etta))",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 5404,
-    "Name": "RC Hat (Техник (Etta))",
-    "Type": "Hat",
     "Rarity": "Mythical"
   },
   {
@@ -1069,14 +937,14 @@
   },
   {
     "ID": 5915,
-    "Name": "Навык силы: Помутнение разума",
-    "Type": "Medical",
+    "Name": "LAAT/le",
+    "Type": "Vehicle",
     "Rarity": "Legendary"
   },
   {
     "ID": 5915,
-    "Name": "LAAT/le",
-    "Type": "Vehicle",
+    "Name": "Навык силы: Помутнение разума",
+    "Type": "Medical",
     "Rarity": "Legendary"
   },
   {
@@ -1105,69 +973,21 @@
   },
   {
     "ID": 5921,
-    "Name": "EffectTest",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 5921,
     "Name": "Навык силы: Лечение. Уровень 2.",
     "Type": "Medical",
     "Rarity": "Legendary"
+  },
+  {
+    "ID": 5921,
+    "Name": "EffectTest",
+    "Type": "Effect",
+    "Rarity": null
   },
   {
     "ID": 5922,
     "Name": "Навык силы: Массовое востановление. Уровень 1.",
     "Type": "Throwable",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 6001,
-    "Name": "Рюкзак радиста",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 6002,
-    "Name": "Рюкзак радиста 41ЭРК",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 6003,
-    "Name": "Рюкзак радиста (Баррикада)",
-    "Type": "Barricade",
-    "Rarity": "Uncommon"
-  },
-  {
-    "ID": 6004,
-    "Name": "Рюкзак радиста 41ЭРК (Баррикада)",
-    "Type": "Barricade",
-    "Rarity": "Uncommon"
-  },
-  {
-    "ID": 6010,
-    "Name": "Скунс BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 6011,
-    "Name": "Скунс Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 6012,
-    "Name": "Скунс Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 6013,
-    "Name": "Скунс Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
   },
   {
     "ID": 6110,
@@ -1252,12 +1072,6 @@
     "Name": "Снеговик Clothes",
     "Type": "Shirt",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 6371,
-    "Name": "Hat 1Phase",
-    "Type": "Hat",
-    "Rarity": "Mythical"
   },
   {
     "ID": 6422,
@@ -1398,210 +1212,6 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 7000,
-    "Name": "Clothes CPT",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 7001,
-    "Name": "CPT BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7002,
-    "Name": "Hat CPT",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7003,
-    "Name": "Vest CPT",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7004,
-    "Name": "Clothes COM",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 7005,
-    "Name": "COM BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7006,
-    "Name": "Hat COM",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7007,
-    "Name": "Vest COM",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7008,
-    "Name": "Clothes LT",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 7009,
-    "Name": "Hat LT",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7010,
-    "Name": "LT BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7011,
-    "Name": "Vest LT",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7012,
-    "Name": "Clothes SGT",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 7013,
-    "Name": "Hat SGT",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7014,
-    "Name": "SGT BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7015,
-    "Name": "Vest SGT",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7018,
-    "Name": "Козырек КМД 1 phase",
-    "Type": "Mask",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 7019,
-    "Name": "Козырек офицера",
-    "Type": "Mask",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 7020,
-    "Name": "SGT BackPack 1 phase NULL",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7021,
-    "Name": "Hat SGT 1 phase NULL",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7022,
-    "Name": "SGT JetPack 1 phase NULL",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7023,
-    "Name": "Vest SGT 1 phase NULL",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7024,
-    "Name": "LT BackPack 1 phase NULL",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7025,
-    "Name": "Hat LT 1 phase NULL",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7026,
-    "Name": "LT JetPack 1 phase NULL",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7027,
-    "Name": "Vest LT 1 phase NULL",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7028,
-    "Name": "CPT BackPack 1 phase NULL",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7029,
-    "Name": "Hat CPT 1 phase NULL",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7030,
-    "Name": "CPT JetPack 1 phase NULL",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7031,
-    "Name": "Vest CPT 1 phase NULL",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7032,
-    "Name": "COM BackPack 1 phase NULL",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7033,
-    "Name": "Hat COM 1 phase NULL",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7034,
-    "Name": "COM JetPack 1 phase NULL",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7035,
-    "Name": "Vest COM 1 phase NULL",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
     "ID": 7047,
     "Name": "Гравикаталка(Item)",
     "Type": "Barricade",
@@ -1624,54 +1234,6 @@
     "Name": "Гравикаталка(Vehicle)",
     "Type": "Vehicle",
     "Rarity": null
-  },
-  {
-    "ID": 7070,
-    "Name": "Hat COM (ARC)",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7071,
-    "Name": "Hat CPT (ARC)",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7072,
-    "Name": "Hat LT (ARC)",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7073,
-    "Name": "Hat SGT (ARC)",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7361,
-    "Name": "1 Clothes Scout",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 7362,
-    "Name": "1 Vest Scout",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 7363,
-    "Name": "41 Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 7364,
-    "Name": "41 Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
   },
   {
     "ID": 7621,
@@ -1762,90 +1324,6 @@
     "Name": "Flamethrower_Effect",
     "Type": "Effect",
     "Rarity": null
-  },
-  {
-    "ID": 8000,
-    "Name": "41BOCO Нагрудник",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8001,
-    "Name": "41BOCO Нагрудник Медика",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8002,
-    "Name": "41BOCO Нагрудник Огнемётчика",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8003,
-    "Name": "41BOCO Одежда Медика",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 8004,
-    "Name": "41BOCO Одежда Обычная",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 8005,
-    "Name": "41BOCO Одежда Огнемётчика",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 8006,
-    "Name": "41BOCO Рюкзак ARC",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8007,
-    "Name": "41BOCO Рюкзак Медика",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8008,
-    "Name": "41BOCO Рюкзак Обычный",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8009,
-    "Name": "41BOCO Рюкзак Огнемётчика",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8010,
-    "Name": "41BOCO Шлем АРК",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8011,
-    "Name": "41BOCO Шлем АРФ",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8012,
-    "Name": "41BOCO Шлем АС",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8013,
-    "Name": "41BOCO Шлем Огнемётчика",
-    "Type": "Hat",
-    "Rarity": "Mythical"
   },
   {
     "ID": 8100,
@@ -1962,438 +1440,6 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 8401,
-    "Name": "310 Hat ARC Woods",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8402,
-    "Name": "310 Hat ARF 1 Woods",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8403,
-    "Name": "310 Hat ARF 2 Woods",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8404,
-    "Name": "310 Hat AS",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8405,
-    "Name": "310 BackPack Woods",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8406,
-    "Name": "310 BackPack CMD Woods",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8407,
-    "Name": "310 FGN BackPack Woods",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8408,
-    "Name": "310 BackPack Radist Woods",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8409,
-    "Name": "310 Hat BARK Woods",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8410,
-    "Name": "310 Clothes Woods",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 8411,
-    "Name": "310 FGN Clothes Woods",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 8412,
-    "Name": "310 Hat FGN Woods",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8413,
-    "Name": "310 Hat KD Woods",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8414,
-    "Name": "310 Hat Pilot Woods",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8415,
-    "Name": "310 Vest Woods",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8416,
-    "Name": "310 FGN Vest Woods",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8421,
-    "Name": "310 Hat ARC Sand",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8422,
-    "Name": "310 Hat ARF 1 Sand",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8423,
-    "Name": "310 Hat ARF 2 Sand",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8424,
-    "Name": "310 Hat AS Sand",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8425,
-    "Name": "310 BackPack Sand",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8426,
-    "Name": "310 BackPack CMD Sand",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8427,
-    "Name": "310 FGN BackPack Sand",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8428,
-    "Name": "310 BackPack Radist Sand",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8429,
-    "Name": "310 Hat BARK Sand",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8430,
-    "Name": "310 Clothes Sand",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 8431,
-    "Name": "310 FGN Clothes Sand",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 8432,
-    "Name": "310 Hat FGN Sand",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8433,
-    "Name": "310 Hat KD Sand",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8434,
-    "Name": "310 Hat Pilot Sand",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8435,
-    "Name": "310 Vest Sand",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8436,
-    "Name": "310 FGN Vest Sand",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8451,
-    "Name": "310 Hat ARC",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8452,
-    "Name": "310 Hat ARF 1",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8453,
-    "Name": "310 Hat ARF 2",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8454,
-    "Name": "310 Hat AS",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8455,
-    "Name": "212 Hat AS CMD",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8456,
-    "Name": "310 BackPack CMD",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8457,
-    "Name": "310 Hat BARK",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8458,
-    "Name": "310 Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 8459,
-    "Name": "310 CMD Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 8460,
-    "Name": "310 FGN Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 8461,
-    "Name": "310 MED Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 8462,
-    "Name": "310 Hat FGN",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8463,
-    "Name": "310 Hat KD",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8464,
-    "Name": "310 Hat Pilot",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8465,
-    "Name": "310 Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8466,
-    "Name": "310 CMD Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8467,
-    "Name": "310 FGN Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8468,
-    "Name": "310 MED Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8800,
-    "Name": "Наплечник АРК v1",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8801,
-    "Name": "Наплечник АРК v2",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8802,
-    "Name": "Наплечник АРК v3",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8803,
-    "Name": "Наплечник лейтенанта",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8804,
-    "Name": "Наплечник сержанта",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8805,
-    "Name": "Наплечник АРК v4",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8806,
-    "Name": "Наплечник лейтенанта + JP",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8807,
-    "Name": "Наплечник сержанта + JP",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8808,
-    "Name": "Реактивный ранец",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8815,
-    "Name": "Реактивный ранец",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8816,
-    "Name": "Наплечник АРК v1",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8817,
-    "Name": "Наплечник лейтенанта + JP",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8818,
-    "Name": "Наплечник сержанта + JP",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8819,
-    "Name": "Наплечник командера",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8820,
-    "Name": "Наплечник командера + JP",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8821,
-    "Name": "Наплечник командера + JP",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8830,
-    "Name": "Shadow Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 8831,
-    "Name": "Shadow Hat ARC",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8832,
-    "Name": "Shadow Hat ARF 1",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8833,
-    "Name": "Shadow Hat AS 0",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8834,
-    "Name": "Shadow Hat Pilot",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 8835,
-    "Name": "Shadow Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
     "ID": 8850,
     "Name": "Gaussrifle Pine",
     "Type": "Gun",
@@ -2422,66 +1468,6 @@
     "Name": "Картридж для боевой ST-W48",
     "Type": "Magazine",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 9000,
-    "Name": "BOCO Нагрудник",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9001,
-    "Name": "BOCO Нагрудник Огнемётчика",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9002,
-    "Name": "BOCO Одежда Медика",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9003,
-    "Name": "BOCO Одежда Обычная",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9004,
-    "Name": "BOCO Одежда Огнемётчика",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9005,
-    "Name": "BOCO Рюкзак Обычный",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9006,
-    "Name": "BOCO Шлем АРК",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9007,
-    "Name": "BOCO Шлем АРФ",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9008,
-    "Name": "BOCO Шлем АС",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9009,
-    "Name": "BOCO Шлем Огнемётчика",
-    "Type": "Hat",
-    "Rarity": "Mythical"
   },
   {
     "ID": 9020,
@@ -2520,96 +1506,6 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 9050,
-    "Name": "327 Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9051,
-    "Name": "327 Clothes Med",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9052,
-    "Name": "327 Clothes КМД",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9053,
-    "Name": "327 Hat ARF 1",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9054,
-    "Name": "327 Hat ARF 2",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9055,
-    "Name": "327 Hat AS",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9056,
-    "Name": "327 Hat AS CMD",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9057,
-    "Name": "327 Hat BARK",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9058,
-    "Name": "327 Hat KD",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9059,
-    "Name": "327 Hat Pilot",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9060,
-    "Name": "327 Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9061,
-    "Name": "327 Vest CMD",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9062,
-    "Name": "327 Vest Med",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9063,
-    "Name": "327 CMD",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9064,
-    "Name": "327 Hat ARC",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
     "ID": 9090,
     "Name": "Система 1",
     "Type": "Storage",
@@ -2626,6 +1522,18 @@
     "Name": "Система 2",
     "Type": "Storage",
     "Rarity": "Epic"
+  },
+  {
+    "ID": 9101,
+    "Name": "Fire Grenade",
+    "Type": "Throwable",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 9102,
+    "Name": "Fire_Effect",
+    "Type": "Effect",
+    "Rarity": null
   },
   {
     "ID": 9120,
@@ -2688,180 +1596,6 @@
     "Rarity": "Mythical"
   },
   {
-    "ID": 9300,
-    "Name": "GUARD Clothes v1",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9301,
-    "Name": "GUARD Clothes v2",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9302,
-    "Name": "GUARD Clothes v3",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9303,
-    "Name": "GUARD Hat ARF",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9310,
-    "Name": "K9 Clothes v1",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9311,
-    "Name": "K9 Clothes v2",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9312,
-    "Name": "K9 Clothes v3",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9320,
-    "Name": "Flame 1УПК",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9321,
-    "Name": "Hat Flame",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9322,
-    "Name": "Flame Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9323,
-    "Name": "Flame BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9340,
-    "Name": "FLEET Сlothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9341,
-    "Name": "FLEET Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9342,
-    "Name": "FLEET Hat PLT",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9343,
-    "Name": "FLEET Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9344,
-    "Name": "FLEET Сlothes 1 УПК",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9345,
-    "Name": "FLEET Hat 1 УПК",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9346,
-    "Name": "FLEET Hat PLT 1 УПК",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9347,
-    "Name": "FLEET Vest 1 УПК",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9348,
-    "Name": "FLEET Сlothes 41ЭРК",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9349,
-    "Name": "FLEET Hat 41ЭРК",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9350,
-    "Name": "FLEET Hat PLT ЭРК",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9351,
-    "Name": "FLEET Vest 41ЭРК",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9352,
-    "Name": "FLEET Сlothes 501 ЭШК",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9353,
-    "Name": "FLEET Hat 501 ЭЩК",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9354,
-    "Name": "FLEET Hat PLT 501 ЭШК",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9355,
-    "Name": "FLEET Vest 501 ЭШК",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9360,
-    "Name": "FLEET Hat PLT Guardia",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9361,
-    "Name": "FLEET Hat PLT K9",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
     "ID": 9370,
     "Name": "Плащ Казаха",
     "Type": "Backpack",
@@ -2884,48 +1618,6 @@
     "Name": "Казах Vest",
     "Type": "Vest",
     "Rarity": "Mythical"
-  },
-  {
-    "ID": 9380,
-    "Name": "Бабай Backpack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9381,
-    "Name": "Бабай Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9382,
-    "Name": "Бабай Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9383,
-    "Name": "Бабай BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9384,
-    "Name": "Бабай Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 9385,
-    "Name": "Бабай Visor",
-    "Type": "Glasses",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 9386,
-    "Name": "Бабай Козырек",
-    "Type": "Mask",
-    "Rarity": "Rare"
   },
   {
     "ID": 9506,
@@ -3006,6 +1698,96 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 10028,
+    "Name": "Aklay_Blue_Large_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10029,
+    "Name": "Aklay_Blue_Medium_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10030,
+    "Name": "Aklay_Blue_Small_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10031,
+    "Name": "Aklay_Green_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10031,
+    "Name": "Aklay_Green_Large_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10031,
+    "Name": "Moll_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10032,
+    "Name": "Aklay_Green_Medium_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10032,
+    "Name": "Taver_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10033,
+    "Name": "Aklay_Green_Small_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10034,
+    "Name": "Aklay_Red_Large_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10035,
+    "Name": "Aklay_Red_Medium_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10036,
+    "Name": "Aklay_Red_Small_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10037,
+    "Name": "Aklay_Yellow_Large_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10038,
+    "Name": "Aklay_Yellow_Medium_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
+    "ID": 10039,
+    "Name": "Aklay_Yellow_Small_Animal",
+    "Type": "Animal",
+    "Rarity": null
+  },
+  {
     "ID": 10556,
     "Name": "Shield",
     "Type": "Melee",
@@ -3030,228 +1812,6 @@
     "Rarity": null
   },
   {
-    "ID": 11000,
-    "Name": "104 BackPack КМД",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11001,
-    "Name": "104 Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 11002,
-    "Name": "104 Clothes Мед",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 11003,
-    "Name": "104 Clothes КМД",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 11004,
-    "Name": "104 Hat ARC",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11005,
-    "Name": "104 Hat ARF 1",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11006,
-    "Name": "104 Hat ARF 2",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11007,
-    "Name": "104 Hat AS",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11008,
-    "Name": "104 Hat AS КМД",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11009,
-    "Name": "104 Hat BARK",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11010,
-    "Name": "104 Hat KD",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11011,
-    "Name": "104 Hat Pilot",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11012,
-    "Name": "104 Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11013,
-    "Name": "104 Vest MED",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11014,
-    "Name": "104 Vest КМД",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11100,
-    "Name": "127 Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 11101,
-    "Name": "127 Clothes CMD",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 11102,
-    "Name": "127 Clothes OFC",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 11103,
-    "Name": "127 Hat ARC",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11104,
-    "Name": "127 Hat AS",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11105,
-    "Name": "127 Hat ENG",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11106,
-    "Name": "127 Hat Pilot",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11107,
-    "Name": "127 Hat Pilot CMD",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11108,
-    "Name": "127 Hat Pilot OFC",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11109,
-    "Name": "127 Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11110,
-    "Name": "127 Vest CMD",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11111,
-    "Name": "127 Vest OFC",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11420,
-    "Name": "Hallas BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11421,
-    "Name": "Hallas BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11422,
-    "Name": "Hallas BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11423,
-    "Name": "Hallas Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 11424,
-    "Name": "Hallas Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11426,
-    "Name": "Hallas Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11430,
-    "Name": "87 BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11431,
-    "Name": "87 Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 11432,
-    "Name": "87 Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11433,
-    "Name": "87 Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
     "ID": 11441,
     "Name": "Кадетские штаны",
     "Type": "Pants",
@@ -3262,102 +1822,6 @@
     "Name": "Кадетская куртка",
     "Type": "Shirt",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 11460,
-    "Name": "Хавок BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11461,
-    "Name": "Хавок Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 11462,
-    "Name": "Хавок Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11463,
-    "Name": "Хавок Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11470,
-    "Name": "Хаммер BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11471,
-    "Name": "Хаммер Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 11472,
-    "Name": "Хаммер Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11473,
-    "Name": "Хаммер Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11480,
-    "Name": "Кольт BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11481,
-    "Name": "Кольт Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 11482,
-    "Name": "Кольт Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11483,
-    "Name": "Кольт Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11490,
-    "Name": "Блиц BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11491,
-    "Name": "Блиц Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 11492,
-    "Name": "Блиц Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 11493,
-    "Name": "Блиц Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
   },
   {
     "ID": 11512,
@@ -3388,12 +1852,6 @@
     "Name": "Henti BackPack",
     "Type": "Backpack",
     "Rarity": "Mythical"
-  },
-  {
-    "ID": 11528,
-    "Name": "Invisible Nightvision",
-    "Type": "Glasses",
-    "Rarity": "Epic"
   },
   {
     "ID": 11755,
@@ -3432,126 +1890,6 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 12100,
-    "Name": "187 BackPack КМД",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 12101,
-    "Name": "187 Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 12102,
-    "Name": "187 Clothes FGN",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 12103,
-    "Name": "187 Clothes MED",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 12104,
-    "Name": "187 Clothes КМД",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 12105,
-    "Name": "187 Hat ARC",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 12106,
-    "Name": "187 Hat ARF 1",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 12107,
-    "Name": "187 Hat ARF 2",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 12108,
-    "Name": "187 Hat AS MED",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 12109,
-    "Name": "187 Hat AS КМД",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 12110,
-    "Name": "187 Hat AS 1",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 12111,
-    "Name": "187 Hat AS 2",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 12112,
-    "Name": "187 Hat BARK",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 12113,
-    "Name": "187 Hat FGN",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 12114,
-    "Name": "187 Hat KD",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 12115,
-    "Name": "187 Hat Pilot",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 12116,
-    "Name": "187 Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 12117,
-    "Name": "187 Vest FGN",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 12118,
-    "Name": "187 Vest MED",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 12119,
-    "Name": "187 Vest КМД",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
     "ID": 12164,
     "Name": "Z6",
     "Type": "Gun",
@@ -3588,28 +1926,16 @@
     "Rarity": "Mythical"
   },
   {
-    "ID": 12300,
-    "Name": "Хиллер BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 12301,
-    "Name": "Хиллер Clothes",
-    "Type": "Shirt",
+    "ID": 12340,
+    "Name": "ВАР Flag",
+    "Type": "Barricade",
     "Rarity": "Epic"
   },
   {
-    "ID": 12302,
-    "Name": "Хиллер Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 12303,
-    "Name": "Хиллер Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
+    "ID": 12341,
+    "Name": "КНС Flag",
+    "Type": "Barricade",
+    "Rarity": "Epic"
   },
   {
     "ID": 12345,
@@ -3744,33 +2070,1947 @@
     "Rarity": "Uncommon"
   },
   {
+    "ID": 12900,
+    "Name": "[Козырьки] Козырек",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 12901,
+    "Name": "[Козырьки] Козырек ARF",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 12902,
+    "Name": "[Козырьки] Козырек ARF K9",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 12903,
+    "Name": "[Козырьки] Козырек OFC 1",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 12904,
+    "Name": "[Козырьки] Козырек OFC 2",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 12905,
+    "Name": "[Козырьки] Козырек OFC 3",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 12906,
+    "Name": "[Козырьки] Козырек Интегрированный",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 12926,
+    "Name": "[ПНВ] Visor 1",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 12927,
+    "Name": "[ПНВ] Интегрированный Visor",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 12951,
+    "Name": "[BackPacks] BackPack 10",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 12952,
+    "Name": "[BackPacks] BackPack 11",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 12953,
+    "Name": "[BackPacks] BackPack 12",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 12954,
+    "Name": "[BackPacks] BackPack 13",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 12955,
+    "Name": "[BackPacks] BackPack 14",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 12956,
+    "Name": "[BackPacks] BackPack 1",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 12957,
+    "Name": "[BackPacks] BackPack 2",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 12958,
+    "Name": "[BackPacks] BackPack 3",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 12959,
+    "Name": "[BackPacks] BackPack 4",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 12960,
+    "Name": "[BackPacks] BackPack 5",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 12961,
+    "Name": "[BackPacks] BackPack 6",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 12962,
+    "Name": "[BackPacks] BackPack 7",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 12963,
+    "Name": "[BackPacks] BackPack 8",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 12964,
+    "Name": "[BackPacks] BackPack 9",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
     "ID": 13000,
-    "Name": "91 BackPack",
+    "Name": "[1УПК] BackPack ARC 1",
     "Type": "Backpack",
     "Rarity": "Mythical"
   },
   {
     "ID": 13001,
-    "Name": "91 BackPack",
+    "Name": "[1УПК] BackPack ARC 2",
     "Type": "Backpack",
     "Rarity": "Mythical"
   },
   {
     "ID": 13002,
-    "Name": "91 Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
+    "Name": "[1УПК] BackPack ARC 3",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
   },
   {
     "ID": 13003,
-    "Name": "91 Hat",
-    "Type": "Hat",
+    "Name": "[1УПК] BackPack COM",
+    "Type": "Backpack",
     "Rarity": "Mythical"
   },
   {
     "ID": 13004,
-    "Name": "91 Vest",
+    "Name": "[1УПК] BackPack FGN",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13005,
+    "Name": "[1УПК] BackPack LT",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13006,
+    "Name": "[1УПК] BackPack SGT",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13007,
+    "Name": "[1УПК] JetPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13008,
+    "Name": "[1УПК] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13009,
+    "Name": "[1УПК] Shirt FGN",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13010,
+    "Name": "[1УПК] Shirt Med",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13011,
+    "Name": "[1УПК] Shirt Scout",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13012,
+    "Name": "[1УПК] Hat 1P",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13013,
+    "Name": "[1УПК] Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13014,
+    "Name": "[1УПК] Hat ARF1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13015,
+    "Name": "[1УПК] Hat ARF2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13016,
+    "Name": "[1УПК] Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13017,
+    "Name": "[1УПК] Hat BARK",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13018,
+    "Name": "[1УПК] Hat ENG",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13019,
+    "Name": "[1УПК] Hat FGN",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13020,
+    "Name": "[1УПК] Hat KD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13021,
+    "Name": "[1УПК] Hat PLT",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13022,
+    "Name": "[1УПК] Hat Scout",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13023,
+    "Name": "[1УПК] Vest",
     "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13024,
+    "Name": "[1УПК] Vest FGN",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13025,
+    "Name": "[1УПК] Vest Scout",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13026,
+    "Name": "[41] BackPack CMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13027,
+    "Name": "[41] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13028,
+    "Name": "[41] Shirt Scout",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13029,
+    "Name": "[41] Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13030,
+    "Name": "[41] Hat ARF1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13031,
+    "Name": "[41] Hat ARF2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13032,
+    "Name": "[41] Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13033,
+    "Name": "[41] Hat BARK",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13034,
+    "Name": "[41] Hat ENG",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13035,
+    "Name": "[41] Hat KD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13036,
+    "Name": "[41] Hat PLT",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13037,
+    "Name": "[41] Hat Scout",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13038,
+    "Name": "[41] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13039,
+    "Name": "[41] Vest Scout",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13040,
+    "Name": "[212] BackPack CMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13041,
+    "Name": "[212] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13042,
+    "Name": "[212] Shirt CMD",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13043,
+    "Name": "[212] Shirt FGN",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13044,
+    "Name": "[212] Shirt MED",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13045,
+    "Name": "[212] Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13046,
+    "Name": "[212] Hat ARF1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13047,
+    "Name": "[212] Hat ARF2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13048,
+    "Name": "[212] Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13049,
+    "Name": "[212] Hat AS CMD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13050,
+    "Name": "[212] Hat BARK",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13051,
+    "Name": "[212] Hat ENG",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13052,
+    "Name": "[212] Hat FGN",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13053,
+    "Name": "[212] Hat KD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13054,
+    "Name": "[212] Hat PLT",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13055,
+    "Name": "[212] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13056,
+    "Name": "[212] Vest CMD",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13057,
+    "Name": "[212] Vest FGN",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13058,
+    "Name": "[310] BackPack CMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13059,
+    "Name": "[310] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13060,
+    "Name": "[310] Shirt CMD",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13061,
+    "Name": "[310] Shirt FGN",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13062,
+    "Name": "[310] Shirt MED",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13063,
+    "Name": "[310] Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13064,
+    "Name": "[310] Hat ARF1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13065,
+    "Name": "[310] Hat ARF2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13066,
+    "Name": "[310] Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13067,
+    "Name": "[310] Hat AS CMD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13068,
+    "Name": "[310] Hat BARK",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13069,
+    "Name": "[310] Hat ENG",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13070,
+    "Name": "[310] Hat FGN",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13071,
+    "Name": "[310] Hat KD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13072,
+    "Name": "[310] Hat PLT",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13073,
+    "Name": "[310] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13074,
+    "Name": "[310] Vest CMD",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13075,
+    "Name": "[310] Vest FGN",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13076,
+    "Name": "[310Forest] BackPack CMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13077,
+    "Name": "[310Forest] BackPack FGN",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13078,
+    "Name": "[310Forest] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13079,
+    "Name": "[310Forest] Shirt FGN",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13080,
+    "Name": "[310Forest] Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13081,
+    "Name": "[310Forest] Hat ARF1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13082,
+    "Name": "[310Forest] Hat ARF2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13083,
+    "Name": "[310Forest] Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13084,
+    "Name": "[310Forest] Hat BARK",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13085,
+    "Name": "[310Forest] Hat ENG",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13086,
+    "Name": "[310Forest] Hat FGN",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13087,
+    "Name": "[310Forest] Hat KD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13088,
+    "Name": "[310Forest] Hat PLT",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13089,
+    "Name": "[310Forest] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13090,
+    "Name": "[310Forest] Vest FGN",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13091,
+    "Name": "[310Sand] BackPack CMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13092,
+    "Name": "[310Sand] BackPack FGN",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13093,
+    "Name": "[310Sand] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13094,
+    "Name": "[310Sand] Shirt FGN",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13095,
+    "Name": "[310Sand] Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13096,
+    "Name": "[310Sand] Hat ARF1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13097,
+    "Name": "[310Sand] Hat ARF2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13098,
+    "Name": "[310Sand] Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13099,
+    "Name": "[310Sand] Hat BARK",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13100,
+    "Name": "[310Sand] Hat ENG",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13101,
+    "Name": "[310Sand] Hat FGN",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13102,
+    "Name": "[310Sand] Hat KD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13103,
+    "Name": "[310Sand] Hat PLT",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13104,
+    "Name": "[310Sand] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13105,
+    "Name": "[310Sand] Vest FGN",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13106,
+    "Name": "[501] BackPack CMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13107,
+    "Name": "[501] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13108,
+    "Name": "[501] Shirt CMD",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13109,
+    "Name": "[501] Shirt FGN",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13110,
+    "Name": "[501] Shirt MED",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13111,
+    "Name": "[501] Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13112,
+    "Name": "[501] Hat ARF1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13113,
+    "Name": "[501] Hat ARF2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13114,
+    "Name": "[501] Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13115,
+    "Name": "[501] Hat AS CMD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13116,
+    "Name": "[501] Hat BARK",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13117,
+    "Name": "[501] Hat ENG",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13118,
+    "Name": "[501] Hat FGN",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13119,
+    "Name": "[501] Hat KD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13120,
+    "Name": "[501] Hat PLT",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13121,
+    "Name": "[501] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13122,
+    "Name": "[501] Vest CMD",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13123,
+    "Name": "[501] Vest FGN",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13124,
+    "Name": "[710] BackPack CMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13125,
+    "Name": "[710] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13126,
+    "Name": "[710] Shirt CMD",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13127,
+    "Name": "[710] Shirt FGN",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13128,
+    "Name": "[710] Shirt MED",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13129,
+    "Name": "[710] Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13130,
+    "Name": "[710] Hat ARF1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13131,
+    "Name": "[710] Hat ARF2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13132,
+    "Name": "[710] Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13133,
+    "Name": "[710] Hat AS CMD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13134,
+    "Name": "[710] Hat BARK",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13135,
+    "Name": "[710] Hat ENG",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13136,
+    "Name": "[710] Hat FGN",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13137,
+    "Name": "[710] Hat KD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13138,
+    "Name": "[710] Hat PLT",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13139,
+    "Name": "[710] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13140,
+    "Name": "[710] Vest CMD",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13141,
+    "Name": "[710] Vest FGN",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13142,
+    "Name": "[FLEET] BackPack CMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13143,
+    "Name": "[FLEET] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13144,
+    "Name": "[FLEET] Shirt CMD",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13145,
+    "Name": "[FLEET] Shirt MED",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13146,
+    "Name": "[FLEET] Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13147,
+    "Name": "[FLEET] Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13148,
+    "Name": "[FLEET] Hat ENG",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13149,
+    "Name": "[FLEET] Hat PLT",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13150,
+    "Name": "[FLEET] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13151,
+    "Name": "[GUARD] BackPack CMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13152,
+    "Name": "[GUARD] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13153,
+    "Name": "[GUARD] Shirt CMD",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13154,
+    "Name": "[GUARD] Shirt MED",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13155,
+    "Name": "[GUARD] Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13156,
+    "Name": "[GUARD] Hat ARF",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13157,
+    "Name": "[GUARD] Hat AS 1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13158,
+    "Name": "[GUARD] Hat AS 2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13159,
+    "Name": "[GUARD] Hat AS CMD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13160,
+    "Name": "[GUARD] Hat ENG",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13161,
+    "Name": "[GUARD] Hat PLT",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13162,
+    "Name": "[GUARD] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13163,
+    "Name": "[GUARD] Vest CMD",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13164,
+    "Name": "[INS COM] BackPack 1",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13165,
+    "Name": "[INS COM] BackPack 2",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13166,
+    "Name": "[INS COM] BackPack 3",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13167,
+    "Name": "[INS COM] BackPack 4",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13168,
+    "Name": "[INS COM] BackPack 5",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13169,
+    "Name": "[INS COM] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13170,
+    "Name": "[INS COM] Hat 1P",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13171,
+    "Name": "[INS COM] Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13172,
+    "Name": "[INS COM] Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13173,
+    "Name": "[INS COM] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13174,
+    "Name": "[INS CPT] BackPack 1",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13175,
+    "Name": "[INS CPT] BackPack 2",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13176,
+    "Name": "[INS CPT] BackPack 3",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13177,
+    "Name": "[INS CPT] BackPack 4",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13178,
+    "Name": "[INS CPT] BackPack 5",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13179,
+    "Name": "[INS CPT] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13180,
+    "Name": "[INS CPT] Hat 1P",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13181,
+    "Name": "[INS CPT] Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13182,
+    "Name": "[INS CPT] Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13183,
+    "Name": "[INS CPT] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13184,
+    "Name": "[INS LT] BackPack 1",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13185,
+    "Name": "[INS LT] BackPack 2",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13186,
+    "Name": "[INS LT] BackPack 3",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13187,
+    "Name": "[INS LT] BackPack 4",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13188,
+    "Name": "[INS LT] BackPack 5",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13189,
+    "Name": "[INS LT] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13190,
+    "Name": "[INS LT] Hat 1P",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13191,
+    "Name": "[INS LT] Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13192,
+    "Name": "[INS LT] Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13193,
+    "Name": "[INS LT] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13194,
+    "Name": "[INS SGT] BackPack 1",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13195,
+    "Name": "[INS SGT] BackPack 2",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13196,
+    "Name": "[INS SGT] BackPack 3",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13197,
+    "Name": "[INS SGT] BackPack 4",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13198,
+    "Name": "[INS SGT] BackPack 5",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13199,
+    "Name": "[INS SGT] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13200,
+    "Name": "[INS SGT] Hat 1P",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13201,
+    "Name": "[INS SGT] Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13202,
+    "Name": "[INS SGT] Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13203,
+    "Name": "[INS SGT] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13204,
+    "Name": "[K9] BackPack CMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13205,
+    "Name": "[K9] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13206,
+    "Name": "[K9] Shirt CMD",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13207,
+    "Name": "[K9] Shirt MED",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13208,
+    "Name": "[K9] Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13209,
+    "Name": "[K9] Hat AS 1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13210,
+    "Name": "[K9] Hat AS 2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13211,
+    "Name": "[K9] Hat AS CMD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13212,
+    "Name": "[K9] Hat ENG",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13213,
+    "Name": "[K9] Hat PLT",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13214,
+    "Name": "[K9] Vest 1",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13215,
+    "Name": "[K9] Vest 2",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13216,
+    "Name": "[MED] BackPack CMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13217,
+    "Name": "[MED] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13218,
+    "Name": "[MED] Shirt CMD",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13219,
+    "Name": "[MED] Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13220,
+    "Name": "[MED] Hat ARF1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13221,
+    "Name": "[MED] Hat ARF2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13222,
+    "Name": "[MED] Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13223,
+    "Name": "[MED] Hat AS CMD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13224,
+    "Name": "[MED] Hat BARK",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13225,
+    "Name": "[MED] Hat ENG",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13226,
+    "Name": "[MED] Hat KD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13227,
+    "Name": "[MED] Hat PLT",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13228,
+    "Name": "[MED] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13229,
+    "Name": "[MED] Vest CMD",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13230,
+    "Name": "[SBR] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13231,
+    "Name": "[SBR] Shirt CMD",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13232,
+    "Name": "[SBR] Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13233,
+    "Name": "[SBR] Hat ARF",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13234,
+    "Name": "[SBR] Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13235,
+    "Name": "[SBR] Hat AS CMD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13236,
+    "Name": "[SBR] Hat PLT",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13237,
+    "Name": "[SBR] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13238,
+    "Name": "[SBR] Vest CMD",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13239,
+    "Name": "[Shadow] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13240,
+    "Name": "[Shadow] Hat 1P",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13241,
+    "Name": "[Shadow] Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13242,
+    "Name": "[Shadow] Hat ARF",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13243,
+    "Name": "[Shadow] Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13244,
+    "Name": "[Shadow] Hat PLT",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13245,
+    "Name": "[Shadow] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13246,
+    "Name": "[Ранкор Блиц] BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13247,
+    "Name": "[Ранкор Блиц] Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13248,
+    "Name": "[Ранкор Блиц] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13249,
+    "Name": "[Ранкор Блиц] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13250,
+    "Name": "[Ранкор Блиц] Visor",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13251,
+    "Name": "[Ранкор Кольт] BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13252,
+    "Name": "[Ранкор Кольт] Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13253,
+    "Name": "[Ранкор Кольт] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13254,
+    "Name": "[Ранкор Кольт] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13255,
+    "Name": "[Ранкор Кольт] Visor",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13256,
+    "Name": "[Ранкор Хавок] BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13257,
+    "Name": "[Ранкор Хавок] Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13258,
+    "Name": "[Ранкор Хавок] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13259,
+    "Name": "[Ранкор Хавок] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13260,
+    "Name": "[Ранкор Хавок] Visor",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13261,
+    "Name": "[Ранкор Хаммер] BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13262,
+    "Name": "[Ранкор Хаммер] Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13263,
+    "Name": "[Ранкор Хаммер] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13264,
+    "Name": "[Ранкор Хаммер] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13265,
+    "Name": "[Ранкор Хаммер] Visor",
+    "Type": "Glasses",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13266,
+    "Name": "[87] BackPack CMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13267,
+    "Name": "[87] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13268,
+    "Name": "[87] Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13269,
+    "Name": "[87] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13270,
+    "Name": "[91] BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13271,
+    "Name": "[91] BackPack CMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13272,
+    "Name": "[91] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13273,
+    "Name": "[91] Hat BARK",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13274,
+    "Name": "[91] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13275,
+    "Name": "[104] BackPack CMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13276,
+    "Name": "[104] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13277,
+    "Name": "[104] Shirt CMD",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13278,
+    "Name": "[104] Shirt FGN",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13279,
+    "Name": "[104] Shirt MED",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13280,
+    "Name": "[104] Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13281,
+    "Name": "[104] Hat ARF1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13282,
+    "Name": "[104] Hat ARF2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13283,
+    "Name": "[104] Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13284,
+    "Name": "[104] Hat AS CMD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13285,
+    "Name": "[104] Hat BARK",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13286,
+    "Name": "[104] Hat ENG",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13287,
+    "Name": "[104] Hat FGN",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13288,
+    "Name": "[104] Hat KD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13289,
+    "Name": "[104] Hat PLT",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13290,
+    "Name": "[104] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13291,
+    "Name": "[104] Vest CMD",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13292,
+    "Name": "[104] Vest FGN",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13293,
+    "Name": "[127] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13294,
+    "Name": "[127] Shirt CMD",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13295,
+    "Name": "[127] Shirt OFC",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13296,
+    "Name": "[127] Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13297,
+    "Name": "[127] Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13298,
+    "Name": "[127] Hat ENG",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13299,
+    "Name": "[127] Hat PLT",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13300,
+    "Name": "[127] Hat PLT CMD",
+    "Type": "Hat",
     "Rarity": "Mythical"
   },
   {
@@ -3781,80 +4021,596 @@
   },
   {
     "ID": 13301,
+    "Name": "[127] Hat PLT OFC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13301,
     "Name": "Laser_Tracer__Red",
     "Type": "Effect",
     "Rarity": null
   },
   {
-    "ID": 14000,
-    "Name": "RC BackPack (GUARD КМД)",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 14001,
-    "Name": "RC Clothes (GUARD КМД)",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 14002,
-    "Name": "RC Hat (GUARD КМД)",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 14003,
-    "Name": "RC Vest (GUARD КМД)",
+    "ID": 13302,
+    "Name": "[127] Vest",
     "Type": "Vest",
     "Rarity": "Mythical"
   },
   {
-    "ID": 14004,
-    "Name": "RC BackPack (GUARD)",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 14005,
-    "Name": "RC Clothes (GUARD)",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 14006,
-    "Name": "RC Hat (GUARD)",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 14007,
-    "Name": "RC Vest (GUARD)",
+    "ID": 13303,
+    "Name": "[127] Vest CMD",
     "Type": "Vest",
     "Rarity": "Mythical"
   },
   {
-    "ID": 14008,
-    "Name": "RC BackPack (Подрывник (GUARD))",
-    "Type": "Backpack",
+    "ID": 13304,
+    "Name": "[127] Vest OFC",
+    "Type": "Vest",
     "Rarity": "Mythical"
   },
   {
-    "ID": 14009,
-    "Name": "RC Clothes (Снайпер (GUARD))",
+    "ID": 13305,
+    "Name": "[SPC] Shirt",
     "Type": "Shirt",
     "Rarity": "Epic"
   },
   {
-    "ID": 14010,
-    "Name": "RC BackPack (Техник (GUARD))",
+    "ID": 13306,
+    "Name": "[SPC] Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13307,
+    "Name": "[SPC] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13308,
+    "Name": "[RC Black] BackPack Инженер",
     "Type": "Backpack",
     "Rarity": "Mythical"
   },
   {
-    "ID": 14011,
-    "Name": "RC Hat (Техник (GUARD))",
+    "ID": 13309,
+    "Name": "[RC Black] BackPack Подрывник",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13310,
+    "Name": "[RC Black] BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13311,
+    "Name": "[RC Black] Shirt Снайпер",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13312,
+    "Name": "[RC Black] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13313,
+    "Name": "[RC Black] Hat Инженер",
     "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13314,
+    "Name": "[RC Black] Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13315,
+    "Name": "[RC Black] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13316,
+    "Name": "[RC White] BackPack Инженер",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13317,
+    "Name": "[RC White] BackPack Подрывник",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13318,
+    "Name": "[RC White] BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13319,
+    "Name": "[RC White] Shirt Снайпер",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13320,
+    "Name": "[RC White] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13321,
+    "Name": "[RC White] Hat Инженер",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13322,
+    "Name": "[RC White] Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13323,
+    "Name": "[RC White] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13324,
+    "Name": "[RC Doom] BackPack CMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13325,
+    "Name": "[RC Doom] BackPack Инженер",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13326,
+    "Name": "[RC Doom] BackPack Подрывник",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13327,
+    "Name": "[RC Doom] BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13328,
+    "Name": "[RC Doom] Shirt CMD",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13329,
+    "Name": "[RC Doom] Shirt Снайпер",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13330,
+    "Name": "[RC Doom] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13331,
+    "Name": "[RC Doom] Hat CMD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13332,
+    "Name": "[RC Doom] Hat Инженер",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13333,
+    "Name": "[RC Doom] Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13334,
+    "Name": "[RC Doom] Vest CMD",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13335,
+    "Name": "[RC Doom] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13336,
+    "Name": "[RC Delta RCBoss] RCBossBack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13337,
+    "Name": "[RC Delta RCBoss] RCBossHelm",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13338,
+    "Name": "[RC Delta RCBoss] RCBossShirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13339,
+    "Name": "[RC Delta RCBoss] RCBossVest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13340,
+    "Name": "[RC Delta RCFixer] RCFixerBack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13341,
+    "Name": "[RC Delta RCFixer] RCFixerHelm",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13342,
+    "Name": "[RC Delta RCFixer] RCFixerShirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13343,
+    "Name": "[RC Delta RCFixer] RCFixerVest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13344,
+    "Name": "[RC Delta RCScotch] RCScotchBack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13345,
+    "Name": "[RC Delta RCScotch] RCScotchHelm",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13346,
+    "Name": "[RC Delta RCScotch] RCScotchShirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13347,
+    "Name": "[RC Delta RCScotch] RCScotchVest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13348,
+    "Name": "[RC Delta RCSev] RCSevBack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13349,
+    "Name": "[RC Delta RCSev] RCSevHelm",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13350,
+    "Name": "[RC Delta RCSev] RCSevShirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13351,
+    "Name": "[RC Delta RCSev] RCSevVest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13352,
+    "Name": "[RC Etta] BackPack Инженер",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13353,
+    "Name": "[RC Etta] BackPack Подрывник",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13354,
+    "Name": "[RC Etta] BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13355,
+    "Name": "[RC Etta] Shirt Снайпер",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13356,
+    "Name": "[RC Etta] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13357,
+    "Name": "[RC Etta] Hat Инженер",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13358,
+    "Name": "[RC Etta] Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13359,
+    "Name": "[RC Etta] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13360,
+    "Name": "[327] BackPack CMD",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13361,
+    "Name": "[327] Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13362,
+    "Name": "[327] Shirt CMD",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13363,
+    "Name": "[327] Shirt FGN",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13364,
+    "Name": "[327] Shirt MED",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13365,
+    "Name": "[327] Hat ARC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13366,
+    "Name": "[327] Hat ARF1",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13367,
+    "Name": "[327] Hat ARF2",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13368,
+    "Name": "[327] Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13369,
+    "Name": "[327] Hat AS CMD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13370,
+    "Name": "[327] Hat BARK",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13371,
+    "Name": "[327] Hat ENG",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13372,
+    "Name": "[327] Hat FGN",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13373,
+    "Name": "[327] Hat KD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13374,
+    "Name": "[327] Hat PLT",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13375,
+    "Name": "[327] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13376,
+    "Name": "[327] Vest CMD",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13377,
+    "Name": "[327] Vest FGN",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13378,
+    "Name": "[99 Крушила] BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13379,
+    "Name": "[99 Крушила] Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13380,
+    "Name": "[99 Крушила] Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13381,
+    "Name": "[99 Крушила] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13382,
+    "Name": "[99 Охотник] BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13383,
+    "Name": "[99 Охотник] Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13384,
+    "Name": "[99 Охотник] Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13385,
+    "Name": "[99 Охотник] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13386,
+    "Name": "[99 Охотник] Нож Охотник",
+    "Type": "Melee",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 13387,
+    "Name": "[99 Прицельщик] BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13388,
+    "Name": "[99 Прицельщик] Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13389,
+    "Name": "[99 Прицельщик] Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13390,
+    "Name": "[99 Прицельщик] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13391,
+    "Name": "[99 Прицельщик] Visor",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 13392,
+    "Name": "[99 Тех] BackPack",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13393,
+    "Name": "[99 Тех] Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13394,
+    "Name": "[99 Тех] Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13395,
+    "Name": "[99 Тех] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13396,
+    "Name": "[99 Тех] Visor",
+    "Type": "Mask",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 13397,
+    "Name": "[Shadow] BackPack Shadow 1",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13398,
+    "Name": "[Shadow] BackPack Shadow 2",
+    "Type": "Backpack",
     "Rarity": "Mythical"
   },
   {
@@ -4074,12 +4830,6 @@
     "Rarity": "Mythical"
   },
   {
-    "ID": 14315,
-    "Name": "Vengar Visor",
-    "Type": "Glasses",
-    "Rarity": "Epic"
-  },
-  {
     "ID": 14320,
     "Name": "Donan BackPack",
     "Type": "Backpack",
@@ -4102,12 +4852,6 @@
     "Name": "Donan Vest",
     "Type": "Vest",
     "Rarity": "Mythical"
-  },
-  {
-    "ID": 14324,
-    "Name": "Donan Visor",
-    "Type": "Glasses",
-    "Rarity": "Epic"
   },
   {
     "ID": 14325,
@@ -4158,36 +4902,6 @@
     "Rarity": "Mythical"
   },
   {
-    "ID": 14395,
-    "Name": "Козырек офицера",
-    "Type": "Mask",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 14400,
-    "Name": "Marsian BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 14401,
-    "Name": "Marsian Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 14402,
-    "Name": "Marsian Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 14403,
-    "Name": "Marsian Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
     "ID": 14440,
     "Name": "NT-773",
     "Type": "Gun",
@@ -4210,12 +4924,6 @@
     "Name": "Прицел NT-773 16x",
     "Type": "Sight",
     "Rarity": "Legendary"
-  },
-  {
-    "ID": 14448,
-    "Name": "Dual Westar-35s \"Higs\"",
-    "Type": "Gun",
-    "Rarity": "Epic"
   },
   {
     "ID": 14470,
@@ -4290,30 +4998,6 @@
     "Rarity": "Mythical"
   },
   {
-    "ID": 14520,
-    "Name": "Tokal BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 14521,
-    "Name": "Tokal Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 14522,
-    "Name": "Tokal Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 14523,
-    "Name": "Tokal Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
     "ID": 14560,
     "Name": "Медведь Clothes",
     "Type": "Shirt",
@@ -4356,60 +5040,6 @@
     "Rarity": "Mythical"
   },
   {
-    "ID": 14580,
-    "Name": "Корд BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 14581,
-    "Name": "Корд Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 14582,
-    "Name": "Корд Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 14583,
-    "Name": "Корд Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 14900,
-    "Name": "Marsian BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 14901,
-    "Name": "Marsian Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 14902,
-    "Name": "Marsian Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 14903,
-    "Name": "Marsian Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 14904,
-    "Name": "Marsian Козырек",
-    "Type": "Mask",
-    "Rarity": "Rare"
-  },
-  {
     "ID": 14910,
     "Name": "Gren BackPack",
     "Type": "Backpack",
@@ -4432,12 +5062,6 @@
     "Name": "Gren Vest",
     "Type": "Vest",
     "Rarity": "Mythical"
-  },
-  {
-    "ID": 14914,
-    "Name": "Gren Visor",
-    "Type": "Glasses",
-    "Rarity": "Epic"
   },
   {
     "ID": 15000,
@@ -4500,30 +5124,6 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 15311,
-    "Name": "Dargen Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 15312,
-    "Name": "Dargen Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 15313,
-    "Name": "Dargen BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 15314,
-    "Name": "Visor",
-    "Type": "Glasses",
-    "Rarity": "Epic"
-  },
-  {
     "ID": 15340,
     "Name": "Чайс BackPack",
     "Type": "Backpack",
@@ -4546,12 +5146,6 @@
     "Name": "Чайс Vest",
     "Type": "Vest",
     "Rarity": "Mythical"
-  },
-  {
-    "ID": 15344,
-    "Name": "Чайс Visor",
-    "Type": "Glasses",
-    "Rarity": "Epic"
   },
   {
     "ID": 15345,
@@ -4711,15 +5305,21 @@
   },
   {
     "ID": 15500,
+    "Name": "INV VEST",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 15500,
     "Name": "[MS] ETA-2",
     "Type": "Vehicle",
     "Rarity": "Legendary"
   },
   {
-    "ID": 15500,
-    "Name": "INV VEST",
-    "Type": "Vest",
-    "Rarity": "Mythical"
+    "ID": 15501,
+    "Name": "[MS] ETA-2",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
   },
   {
     "ID": 15501,
@@ -4728,58 +5328,10 @@
     "Rarity": "Mythical"
   },
   {
-    "ID": 15501,
-    "Name": "[MS] ETA-2",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
-  },
-  {
     "ID": 15502,
     "Name": "[MS] ETA-2",
     "Type": "Vehicle",
     "Rarity": "Legendary"
-  },
-  {
-    "ID": 15522,
-    "Name": "Козырек офицера",
-    "Type": "Mask",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 15523,
-    "Name": "Козырек КМД",
-    "Type": "Mask",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 15524,
-    "Name": "Часть шлема ARF",
-    "Type": "Mask",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 15525,
-    "Name": "Часть шлема K-9",
-    "Type": "Mask",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 15526,
-    "Name": "Система пилота",
-    "Type": "Mask",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 15527,
-    "Name": "Козырек КМД",
-    "Type": "Mask",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 15528,
-    "Name": "Козырек КМД",
-    "Type": "Mask",
-    "Rarity": "Rare"
   },
   {
     "ID": 15555,
@@ -5196,204 +5748,6 @@
     "Rarity": "Mythical"
   },
   {
-    "ID": 16000,
-    "Name": "710 Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 16001,
-    "Name": "710 Clothes Med",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 16002,
-    "Name": "710 Clothes КМД",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 16003,
-    "Name": "710 Hat ARC",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16004,
-    "Name": "710 Hat ARF 1",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16005,
-    "Name": "710 Hat ARF 2",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16006,
-    "Name": "710 Hat AS",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16007,
-    "Name": "710 Hat AS CMD",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16008,
-    "Name": "710 Hat BARK",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16009,
-    "Name": "710 Hat KD",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16010,
-    "Name": "710 Hat Pilot",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16011,
-    "Name": "710 Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16012,
-    "Name": "710 Vest CMD",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16013,
-    "Name": "710 Vest Med",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16014,
-    "Name": "710 CMD",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16020,
-    "Name": "MED Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 16021,
-    "Name": "MED Clothes CMD",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 16022,
-    "Name": "MED Hat ARC",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16023,
-    "Name": "MED Hat ARF 1",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16024,
-    "Name": "MED Hat ARF 2",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16025,
-    "Name": "MED Hat AS",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16026,
-    "Name": "MED Hat AS",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16027,
-    "Name": "MED Hat BARK",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16028,
-    "Name": "MED Hat KD",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16029,
-    "Name": "MED Hat Pilot",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16030,
-    "Name": "MED Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16031,
-    "Name": "MED Vest CMD",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16032,
-    "Name": "MED BackPack CMD",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16034,
-    "Name": "Battle Surgeon Hat",
-    "Type": "Hat",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 16035,
-    "Name": "Battle Surgeon Pants",
-    "Type": "Pants",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 16036,
-    "Name": "Battle Surgeon Shirt",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 16037,
-    "Name": "Battle Surgeon Vest",
-    "Type": "Vest",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 16038,
-    "Name": "Battle Surgeon Vest Officer",
-    "Type": "Vest",
-    "Rarity": "Epic"
-  },
-  {
     "ID": 16200,
     "Name": "AV7 Tank Cannon",
     "Type": "Gun",
@@ -5424,114 +5778,6 @@
     "Rarity": "Legendary"
   },
   {
-    "ID": 16311,
-    "Name": "Hat ARC",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16312,
-    "Name": "Hat ARC 41",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16313,
-    "Name": "Hat ARC 91",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16315,
-    "Name": "Hat ARC",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16316,
-    "Name": "Hat ARC FLEET",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16317,
-    "Name": "Hat ARC GUARD",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16318,
-    "Name": "Hat ARC K9",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16380,
-    "Name": "Hat 501|E",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16420,
-    "Name": "Tahir BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16421,
-    "Name": "Tahir Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 16422,
-    "Name": "Tahir Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16423,
-    "Name": "Tahir Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16424,
-    "Name": "Tahir Козырек",
-    "Type": "Mask",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 16430,
-    "Name": "Охотник BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16431,
-    "Name": "Охотник Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 16432,
-    "Name": "Охотник Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16433,
-    "Name": "Охотник Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16434,
-    "Name": "Нож Охотника",
-    "Type": "Melee",
-    "Rarity": "Rare"
-  },
-  {
     "ID": 16440,
     "Name": "Хром BackPack",
     "Type": "Backpack",
@@ -5560,108 +5806,6 @@
     "Name": "Хром Козырек",
     "Type": "Mask",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 16450,
-    "Name": "BackPack Рифа",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16451,
-    "Name": "Clothes Рифа",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 16452,
-    "Name": "Hat Рифа",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16453,
-    "Name": "Vest Рифа",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16454,
-    "Name": "Козырек Рифа",
-    "Type": "Mask",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 16460,
-    "Name": "Крушила BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16461,
-    "Name": "Крушила Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 16462,
-    "Name": "Крушила Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16463,
-    "Name": "Крушила Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16470,
-    "Name": "Азазель BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16471,
-    "Name": "Clothes RC Азазель",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 16472,
-    "Name": "Hat RC Азазель",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16473,
-    "Name": "Vest RC Азазель",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16474,
-    "Name": "Visor RC Азазель",
-    "Type": "Glasses",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 16475,
-    "Name": "Козырек RC Азазель",
-    "Type": "Mask",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 16511,
-    "Name": "Hat ENG",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16512,
-    "Name": "Hat ENG FLEET",
-    "Type": "Hat",
-    "Rarity": "Mythical"
   },
   {
     "ID": 16549,
@@ -5698,72 +5842,6 @@
     "Name": "Droid_B1_Lost",
     "Type": "Effect",
     "Rarity": null
-  },
-  {
-    "ID": 16570,
-    "Name": "BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16571,
-    "Name": "VK Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 16572,
-    "Name": "VK Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16573,
-    "Name": "VK JetPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16574,
-    "Name": "VK Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 16575,
-    "Name": "VK Козырек",
-    "Type": "Mask",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 17020,
-    "Name": "Fox BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17021,
-    "Name": "Fox Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 17022,
-    "Name": "Fox Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17023,
-    "Name": "Fox Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17024,
-    "Name": "Козырек Fox",
-    "Type": "Mask",
-    "Rarity": "Rare"
   },
   {
     "ID": 17100,
@@ -5826,316 +5904,28 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 17340,
-    "Name": "Dargen BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17341,
-    "Name": "Dargen Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 17342,
-    "Name": "Dargen Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17343,
-    "Name": "Dargen Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17344,
-    "Name": "Козырек Даргена",
-    "Type": "Mask",
+    "ID": 17110,
+    "Name": "Mannequin 11",
+    "Type": "Barricade",
     "Rarity": "Rare"
   },
   {
-    "ID": 17348,
-    "Name": "Dargen ARC Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17349,
-    "Name": "Dargen AS Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17350,
-    "Name": "Dargen BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17351,
-    "Name": "Dargen Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 17352,
-    "Name": "Dargen Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17361,
-    "Name": "41 Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 17362,
-    "Name": "41 Hat ARF",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17363,
-    "Name": "41 Hat AS",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17364,
-    "Name": "41 Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17365,
-    "Name": "41 ARC",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17366,
-    "Name": "41 BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17367,
-    "Name": "41_CT_MV_3",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17368,
-    "Name": "41 Hat Scout",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17369,
-    "Name": "1 Hat Scout",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17371,
-    "Name": "501 Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 17372,
-    "Name": "501 Clothes CMD",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 17373,
-    "Name": "501 Clothes 2",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 17374,
-    "Name": "501 Vest 1",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17375,
-    "Name": "501 Vest CMD",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17376,
-    "Name": "501 Hat CMD",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17390,
-    "Name": "332 Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17391,
-    "Name": "332 Hat ARC",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17392,
-    "Name": "332 Козырек",
-    "Type": "Mask",
+    "ID": 17111,
+    "Name": "Mannequin 12",
+    "Type": "Barricade",
     "Rarity": "Rare"
   },
   {
     "ID": 17393,
-    "Name": "501 Hat Rex",
+    "Name": "Rex Hat",
     "Type": "Hat",
     "Rarity": "Mythical"
-  },
-  {
-    "ID": 17430,
-    "Name": "SPC Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 17431,
-    "Name": "SPC Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17432,
-    "Name": "SPC Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17440,
-    "Name": "Дивини BackPack",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17441,
-    "Name": "Дивини Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 17442,
-    "Name": "Дивини Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17443,
-    "Name": "Дивини Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17444,
-    "Name": "Дивини Козырек",
-    "Type": "Mask",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 17445,
-    "Name": "Дивини Visor",
-    "Type": "Glasses",
-    "Rarity": "Epic"
   },
   {
     "ID": 17732,
     "Name": "Огнемёт дроида",
     "Type": "Gun",
     "Rarity": "Mythical"
-  },
-  {
-    "ID": 17850,
-    "Name": "212 Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 17851,
-    "Name": "Hat ARC 212",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17852,
-    "Name": "212 Hat ARF 1",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17853,
-    "Name": "212 Hat ARF 2",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17854,
-    "Name": "212 Hat AS",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17855,
-    "Name": "212 Hat AS CMD",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17856,
-    "Name": "212 Hat BARK",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17857,
-    "Name": "212 Hat KD",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17858,
-    "Name": "212 Hat Pilot",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17859,
-    "Name": "212 Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17860,
-    "Name": "212 Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17861,
-    "Name": "212 CMD",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 17862,
-    "Name": "212 Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
   },
   {
     "ID": 18050,
@@ -6396,36 +6186,6 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 19319,
-    "Name": "Мед Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 19321,
-    "Name": "Clothes 1УПК",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 19328,
-    "Name": "AT-RT Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 19329,
-    "Name": "AT-RT Helmet",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 19330,
-    "Name": "AT-RT Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
     "ID": 19400,
     "Name": "Super Tactic Clothes",
     "Type": "Shirt",
@@ -6436,30 +6196,6 @@
     "Name": "Super Tactic Helmet",
     "Type": "Hat",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 19421,
-    "Name": "Джексон Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 19422,
-    "Name": "Джексон Hat",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 19423,
-    "Name": "Джексон Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 19424,
-    "Name": "Рюкзак Джексона",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
   },
   {
     "ID": 19521,
@@ -6522,12 +6258,6 @@
     "Rarity": "Mythical"
   },
   {
-    "ID": 19822,
-    "Name": "Dargen Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
     "ID": 20000,
     "Name": "Инъектор с адреналином",
     "Type": "Medical",
@@ -6556,162 +6286,6 @@
     "Name": "Scope RPS",
     "Type": "Sight",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 20549,
-    "Name": "Visor 1 phase",
-    "Type": "Glasses",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 20550,
-    "Name": "Visor",
-    "Type": "Glasses",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 20551,
-    "Name": "Visor",
-    "Type": "Glasses",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 20552,
-    "Name": "Visor",
-    "Type": "Glasses",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 20558,
-    "Name": "Visor Rancor Блиц",
-    "Type": "Glasses",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 20559,
-    "Name": "Visor Rancor Кольт",
-    "Type": "Glasses",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 20560,
-    "Name": "Visor Rancor Хаммер",
-    "Type": "Glasses",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 20561,
-    "Name": "Visor Rancor Хавок",
-    "Type": "Glasses",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 20562,
-    "Name": "ПНВ Mandalorian",
-    "Type": "Glasses",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 20570,
-    "Name": "Visor RC White",
-    "Type": "Glasses",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 20571,
-    "Name": "Visor RC Black",
-    "Type": "Glasses",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 20572,
-    "Name": "Visor RC DOOM",
-    "Type": "Glasses",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 20573,
-    "Name": "Visor CMD RC DOOM",
-    "Type": "Glasses",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 21010,
-    "Name": "SBR Clothes",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 21011,
-    "Name": "SBR Clothes Med",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 21012,
-    "Name": "SBR Clothes КМД",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 21013,
-    "Name": "SBR Hat ARC",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 21014,
-    "Name": "SBR Hat ARF 1",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 21015,
-    "Name": "SBR Hat ARF 2",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 21016,
-    "Name": "SBR Hat AS 0",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 21017,
-    "Name": "SBR Hat AS 1",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 21018,
-    "Name": "SBR Hat AS CMD",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 21019,
-    "Name": "SBR Hat Pilot",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 21020,
-    "Name": "SBR Vest",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 21021,
-    "Name": "SBR Vest CMD",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 21022,
-    "Name": "SBR Vest Med",
-    "Type": "Vest",
-    "Rarity": "Mythical"
   },
   {
     "ID": 21115,
@@ -6820,120 +6394,6 @@
     "Name": "Mandalore Rifle",
     "Type": "Gun",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 22100,
-    "Name": "Hat ARC \"DOOM\"",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 22101,
-    "Name": "Hat ARF \"DOOM\"",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 22102,
-    "Name": "Hat AS \"DOOM\"",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 22103,
-    "Name": "Hat AS CMD \"DOOM\"",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 22104,
-    "Name": "BackPack ARC \"DOOM\"",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 22105,
-    "Name": "BackPack CMD \"DOOM\"",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 22106,
-    "Name": "JetPack \"DOOM\"",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 22107,
-    "Name": "Hat BARK \"DOOM\"",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 22108,
-    "Name": "Clothes \"DOOM\"",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 22109,
-    "Name": "CMD Clothes \"DOOM\"",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 22110,
-    "Name": "FGN Clothes \"DOOM\"",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 22111,
-    "Name": "MED Clothes \"DOOM\"",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 22112,
-    "Name": "Hat FGN \"DOOM\"",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 22113,
-    "Name": "Hat Pilot \"DOOM\"",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 22114,
-    "Name": "Vest \"DOOM\"",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 22115,
-    "Name": "CMD Vest \"DOOM\"",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 22116,
-    "Name": "FGN Vest \"DOOM\"",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 22117,
-    "Name": "MED Vest \"DOOM\"",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 22118,
-    "Name": "Козырек КМД \"DOOM\"",
-    "Type": "Mask",
-    "Rarity": "Rare"
   },
   {
     "ID": 22144,
@@ -7848,6 +7308,12 @@
     "Rarity": "Epic"
   },
   {
+    "ID": 40048,
+    "Name": "Bark(Item)",
+    "Type": "Barricade",
+    "Rarity": "Uncommon"
+  },
+  {
     "ID": 40092,
     "Name": "AAC-1",
     "Type": "Vehicle",
@@ -7861,14 +7327,14 @@
   },
   {
     "ID": 40100,
-    "Name": "Juggernaut",
-    "Type": "Vehicle",
+    "Name": "Арт обстрел (ВАР)",
+    "Type": "Throwable",
     "Rarity": "Uncommon"
   },
   {
     "ID": 40100,
-    "Name": "Арт обстрел (ВАР)",
-    "Type": "Throwable",
+    "Name": "Juggernaut",
+    "Type": "Vehicle",
     "Rarity": "Uncommon"
   },
   {
@@ -7881,6 +7347,12 @@
     "ID": 40150,
     "Name": "AT-RT",
     "Type": "Vehicle",
+    "Rarity": "Uncommon"
+  },
+  {
+    "ID": 40151,
+    "Name": "AT-RT(Item)",
+    "Type": "Barricade",
     "Rarity": "Uncommon"
   },
   {
@@ -8076,210 +7548,6 @@
     "Rarity": "Legendary"
   },
   {
-    "ID": 44999,
-    "Name": "RC Vest (Black) (Balicon)",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 45000,
-    "Name": "RC BackPack (Чёрный)",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 45001,
-    "Name": "RC Clothes (Чёрный)",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 45002,
-    "Name": "RC Hat (Чёрный)",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 45003,
-    "Name": "RC Vest (Чёрный)",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 45004,
-    "Name": "RC BackPack (Подрывник (Чёрный))",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 45005,
-    "Name": "RC Clothes (Снайпер (Чёрный))",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 45006,
-    "Name": "RC BackPack (Техник (Чёрный))",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 45007,
-    "Name": "RC Hat (Техник (Чёрный))",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 45008,
-    "Name": "RC BackPack (Белый)",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 45009,
-    "Name": "RC Clothes (Белый)",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 45010,
-    "Name": "RC Hat (Белый)",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 45011,
-    "Name": "RC Vestk (Белый)",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 45012,
-    "Name": "RC BackPack (Подрывник (Белый))",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 45013,
-    "Name": "RC Clothes (Снайпер (Белый))",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 45014,
-    "Name": "RC BackPack (Техник (Белый))",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 45015,
-    "Name": "RC Hat (Техник (Белый))",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 45020,
-    "Name": "RC Vest (Wnitenoize)",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 45021,
-    "Name": "RC Helmet (Wnitenoize)",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 45022,
-    "Name": "RC Backp  (Wnitenoize)",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 45100,
-    "Name": "RC BackPack (CMD DOOM)",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 45101,
-    "Name": "RC Clothes (CMD DOOM)",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 45102,
-    "Name": "RC Hat (CMD DOOM)",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 45103,
-    "Name": "RC Vestk (CMD DOOM)",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 45104,
-    "Name": "Козырек CMD RC DOOM",
-    "Type": "Mask",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 45105,
-    "Name": "RC BackPack (DOOM)",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 45106,
-    "Name": "RC Clothes (DOOM)",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 45107,
-    "Name": "RC Hat (DOOM)",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 45108,
-    "Name": "RC Vestk (DOOM)",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 45109,
-    "Name": "Козырек RC DOOM",
-    "Type": "Mask",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 45110,
-    "Name": "RC BackPack (Подрывник (DOOM))",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 45111,
-    "Name": "RC Clothes (Снайпер (DOOM))",
-    "Type": "Shirt",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 45112,
-    "Name": "RC BackPack (Техник (DOOM))",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 45113,
-    "Name": "RC Hat (Техник (DOOM))",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
     "ID": 45201,
     "Name": "Airdrop Grenade (КНС)",
     "Type": "Throwable",
@@ -8442,100 +7710,22 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 48323,
-    "Name": "RC \"Katarn\"",
-    "Type": "Shirt",
-    "Rarity": "Mythical"
+    "ID": 47541,
+    "Name": "Blue Umbrella",
+    "Type": "Cloud",
+    "Rarity": "Uncommon"
   },
   {
-    "ID": 48324,
-    "Name": "RC Helmet \"Katarn\"",
-    "Type": "Hat",
-    "Rarity": "Mythical"
+    "ID": 47542,
+    "Name": "Horde Beacon",
+    "Type": "Beacon",
+    "Rarity": "Legendary"
   },
   {
-    "ID": 48325,
-    "Name": "RC Vest \"Katarn\"",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 48326,
-    "Name": "RC Backp V3 \"Katarn\"",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 48328,
-    "Name": "RC \"Katarn\"",
-    "Type": "Shirt",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 48329,
-    "Name": "RC Vest \"Katarn\"",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 48330,
-    "Name": "RC Helmet \"Katarn\"",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 48331,
-    "Name": "RC Backp V3 \"Katarn\"",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 48332,
-    "Name": "RC \"Katarn\"",
-    "Type": "Shirt",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 48333,
-    "Name": "RC Helmet \"Katarn\"",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 48334,
-    "Name": "RC Vest \"Katarn\"",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 48335,
-    "Name": "RC Backp V3 \"Katarn\"",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 48353,
-    "Name": "RC \"Katarn\"",
-    "Type": "Shirt",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 48354,
-    "Name": "RC Vest \"Katarn\"",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 48355,
-    "Name": "RC Backp V3 \"Katarn\"",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 48356,
-    "Name": "RC Helmet \"Katarn\"",
-    "Type": "Hat",
-    "Rarity": "Mythical"
+    "ID": 47543,
+    "Name": "Beacon_Spawn",
+    "Type": "Spawn",
+    "Rarity": null
   },
   {
     "ID": 48357,
@@ -8662,12 +7852,6 @@
     "Name": "S1A3(Фонарь)",
     "Type": "Shirt",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 49199,
-    "Name": "Интегрированный наушник",
-    "Type": "Mask",
-    "Rarity": "Rare"
   },
   {
     "ID": 49850,
@@ -8929,15 +8113,15 @@
   },
   {
     "ID": 54003,
-    "Name": "Картридж для боевой DC-12R \"Click\"",
-    "Type": "Magazine",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 54003,
     "Name": "Laser_Muzzle",
     "Type": "Effect",
     "Rarity": null
+  },
+  {
+    "ID": 54003,
+    "Name": "Картридж для боевой DC-12R \"Click\"",
+    "Type": "Magazine",
+    "Rarity": "Epic"
   },
   {
     "ID": 54004,
@@ -9138,12 +8322,6 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 56004,
-    "Name": "Clone (Турель)",
-    "Type": "Sentry",
-    "Rarity": "Mythical"
-  },
-  {
     "ID": 56005,
     "Name": "B1 Дроид Geonosis (Турель)",
     "Type": "Sentry",
@@ -9306,99 +8484,27 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 58337,
-    "Name": "RC \"Katarn\"",
-    "Type": "Shirt",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58338,
-    "Name": "RC Vest \"Katarn\"",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58339,
-    "Name": "RC Helmet \"Katarn\"",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58340,
-    "Name": "RC Backp V3 \"Katarn\"",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58341,
-    "Name": "RC \"Katarn\"",
-    "Type": "Shirt",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58342,
-    "Name": "RC Vest \"Katarn\"",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58343,
-    "Name": "RC Helmet \"Katarn\"",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58344,
-    "Name": "RC Backp V3 \"Katarn\"",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58345,
-    "Name": "RC \"Katarn\"",
-    "Type": "Shirt",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58346,
-    "Name": "RC Vest \"Katarn\"",
-    "Type": "Vest",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58347,
-    "Name": "RC Helmet \"Katarn\"",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58348,
-    "Name": "RC Backp V3 \"Katarn\"",
-    "Type": "Backpack",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 58349,
-    "Name": "RC \"Katarn\"",
-    "Type": "Shirt",
-    "Rarity": "Mythical"
-  },
-  {
     "ID": 58350,
-    "Name": "RC Helmet \"Katarn\"",
-    "Type": "Hat",
+    "Name": "[1УПК] BackPack FGN",
+    "Type": "Backpack",
     "Rarity": "Mythical"
   },
   {
     "ID": 58351,
-    "Name": "RC Vest \"Katarn\"",
-    "Type": "Vest",
-    "Rarity": "Mythical"
+    "Name": "[Грибник] Clothes",
+    "Type": "Shirt",
+    "Rarity": "Epic"
   },
   {
     "ID": 58352,
-    "Name": "RC Backp V3 \"Katarn\"",
-    "Type": "Backpack",
+    "Name": "[Грибник] Hat",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 58353,
+    "Name": "[Грибник] Vest",
+    "Type": "Vest",
     "Rarity": "Mythical"
   },
   {

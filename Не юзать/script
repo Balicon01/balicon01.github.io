@@ -27,6 +27,13 @@ $(document).ready(function ($) {
         },
       },
       {
+        width: '15%',
+        data: 'Type',
+        render: function (data) {
+          return data || 'N/A';
+        },
+      },
+      {
         data: 'Name',
         render: function (data) {
           return ('<span>' + data + '</span>');
@@ -45,8 +52,12 @@ $(document).ready(function ($) {
         orderable: false,
         targets: 0,
       },
+      {
+        type: 'num',
+        targets: 1, // Ensure ID is sorted numerically
+      }
     ],
-    aaSorting: [[1, 'asc']],
+    aaSorting: [[2, 'asc']], // Sort by Type (index 2)
     searching: true,
     pageLength: 100,
     bSort: true,

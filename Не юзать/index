@@ -332,7 +332,6 @@
     <div class="topnav text-white">
       <button type="button" class="custom-button" id="relsi" autocomplete="off">Eternal</button>
       <button type="button" class="custom-button" id="relorig" autocomplete="off">Original</button>
-      <button type="button" class="custom-button" id="OLD" autocomplete="off">OLD</button>
       <button type="button" class="custom-button" id="toggleCars">Cars</button>
       <div class="form-group">
         <input type="text" class="form-control" id="search" placeholder="Поиск по таблице">
@@ -349,11 +348,11 @@
         <tr>
           <th>Photo</th>
           <th>ID</th>
+          <th>Type</th>
           <th>Name</th>
         </tr>
       </thead>
       <tbody id="dataTable"></tbody>
-      <tbody id="carsDataTable"></tbody>
     </table>
   </div>
 
@@ -373,6 +372,19 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/js/all.min.js" integrity="sha512-u3fPA7V8qQmhBPF4sNZmrEmUQgF7KVoquzP6Thg0waabDAsBxpKufSNgmsfXEdQ7cikxSSVMOunTtLcbVPbfhg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script>
     $(document).ready(function () {
+      // Initialize DataTable
+      const table = $('#display_json_data').DataTable({
+        paging: false,
+        info: false,
+        searching: true,
+        dom: 't', // Only show the table itself, no default controls
+        columnDefs: [
+          { orderable: false, targets: 0 }, // Disable sorting on the "Photo" column
+          { type: 'num', targets: 1 }      // Ensure ID is sorted numerically
+        ],
+        order: [[2, 'asc']] // Default sort by Type (newly added column)
+      });
+
       // Theme toggle functionality
       const themeIcon = document.getElementById('theme-icon');
       const body = document.body;
@@ -420,44 +432,32 @@
       });
 
       $('#relsi').click(function () {
-        Reload('https://Balicon01.github.io/3266436726.json');
+        Reload('https://Balicon01.github.io/3266436726.json', table);
         $("#search").val(''); // Очищает поле поиска
+        table.search('').draw();
       });
 	  
-      $('#OLD').click(function () {
-        Reload('https://Balicon01.github.io/3354942927.json');
-        $("#search").val(''); // Очищает поле поиска
-      });
-
       $("#relorig").click(function () {
-        Reload('https://Balicon01.github.io/3412516593.json');
+        Reload('https://Balicon01.github.io/3412516593.json', table);
         $("#search").val(''); // Очищает поле поиска
+        table.search('').draw();
       });
 
       $("#toggleCars").click(function () {
-        $("#dataTable").empty(); // Очищает таблицу данных для Eternal и Original
         $("#search").val(''); // Очищает поле поиска
-        LoadCarsData('https://balicon01.github.io/3354942093.json'); // Замените на фактический URL вашего JSON файла
+        table.search('').draw();
+        LoadCarsData('https://balicon01.github.io/3354942093.json', table);
       });
 
-      // Поиск по всем таблицам
-      $("#search").keyup(function () {
-        var searchTerm = $(this).val().toLowerCase();
-        // Поиск по таблице Eternal/Original
-        $.each($("#dataTable tr"), function () {
-          $(this).toggle($(this).text().toLowerCase().indexOf(searchTerm) !== -1);
-        });
-        // Поиск по таблице Cars
-        $.each($("#carsDataTable tr"), function () {
-          $(this).toggle($(this).text().toLowerCase().indexOf(searchTerm) !== -1);
-        });
+      // Поиск по таблице
+      $("#search").on('keyup input', function () {
+        table.search($(this).val()).draw();
       });
     });
 
-    function Reload(path) {
+    function Reload(path, table) {
       $.getJSON(path, function (data) {
-        var allRecordsHTML = '';
-        $("#carsDataTable").empty(); // Очищает таблицу Cars
+        var rows = [];
         for (var i = 0; i < data.length; i++) {
           if (data[i].Type == "Object"
             || data[i].Type == "Vehicle"
@@ -465,31 +465,31 @@
             || data[i].Type == "Large"
             || data[i].Type == "Medium"
             || data[i].Type == "Decal") continue;
-          allRecordsHTML += '<tr>';
-          allRecordsHTML += '<td>' + '<img loading="lazy" height="100" class="image" src="https://Balicon01.github.io/images/' + data[i].ID + '.png" onerror=\'this.style.display = "none"\' alt=" "/>' + '</td>';
-          allRecordsHTML += '<td>' + data[i].ID + '</td>';
-          allRecordsHTML += '<td>' + data[i].Name + '</td>';
-          allRecordsHTML += '</tr>';
+          
+          rows.push([
+            '<img loading="lazy" height="100" class="image" src="https://Balicon01.github.io/images/' + data[i].ID + '.png" onerror=\'this.style.display = "none"\' alt=" "/>',
+            data[i].ID,
+            data[i].Type || 'N/A',
+            data[i].Name
+          ]);
         }
-        var table = document.getElementById("dataTable");
-        table.innerHTML = allRecordsHTML;
+        table.clear().rows.add(rows).draw();
         $(".base_dataTable").show(); // Show the table after data is loaded
       });
     };
 
-    function LoadCarsData(path) {
+    function LoadCarsData(path, table) {
       $.getJSON(path, function (data) {
-        var carsRecordsHTML = '';
-        $("#dataTable").empty(); // Очищает таблицу Eternal/Original
+        var rows = [];
         for (var i = 0; i < data.length; i++) {
-          carsRecordsHTML += '<tr>';
-          carsRecordsHTML += '<td>' + '<img loading="lazy" height="100" class="image" src="https://Balicon01.github.io/ImagesVehicle/' + data[i].ID + '.png" onerror=\'this.style.display = "none"\' alt=" "/>' + '</td>';
-          carsRecordsHTML += '<td>' + data[i].ID + '</td>';
-          carsRecordsHTML += '<td>' + data[i].Name + '</td>';
-          carsRecordsHTML += '</tr>';
+          rows.push([
+            '<img loading="lazy" height="100" class="image" src="https://Balicon01.github.io/ImagesVehicle/' + data[i].ID + '.png" onerror=\'this.style.display = "none"\' alt=" "/>',
+            data[i].ID,
+            data[i].Type || 'Vehicle',
+            data[i].Name
+          ]);
         }
-        var carsTable = document.getElementById("carsDataTable");
-        carsTable.innerHTML = carsRecordsHTML;
+        table.clear().rows.add(rows).draw();
         $(".base_dataTable").show(); // Show the table after data is loaded
       });
     }

@@ -30,6 +30,18 @@
     "Rarity": null
   },
   {
+    "ID": 4493,
+    "Name": "7x Scope",
+    "Type": "Sight",
+    "Rarity": "Rare"
+  },
+  {
+    "ID": 4495,
+    "Name": "7x Scope",
+    "Type": "Sight",
+    "Rarity": "Rare"
+  },
+  {
     "ID": 8340,
     "Name": "Hans Vest",
     "Type": "Vest",
@@ -52,18 +64,6 @@
     "Name": "Shadowstalker Mk. II Drum",
     "Type": "Magazine",
     "Rarity": "Mythical"
-  },
-  {
-    "ID": 9603,
-    "Name": "E-11 Blaster",
-    "Type": "Gun",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 9604,
-    "Name": "DH-17 Blaster",
-    "Type": "Gun",
-    "Rarity": "Legendary"
   },
   {
     "ID": 9605,
@@ -108,12 +108,6 @@
     "Rarity": null
   },
   {
-    "ID": 11028,
-    "Name": "DLT-19 Blaster",
-    "Type": "Gun",
-    "Rarity": "Legendary"
-  },
-  {
     "ID": 12000,
     "Name": "Cantina",
     "Type": "Large",
@@ -148,12 +142,6 @@
     "Name": "ThermalDetonatorEffect",
     "Type": "Effect",
     "Rarity": null
-  },
-  {
-    "ID": 26015,
-    "Name": "A280C",
-    "Type": "Gun",
-    "Rarity": "Legendary"
   },
   {
     "ID": 33000,
@@ -2478,12 +2466,6 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 33928,
-    "Name": "A280-CFE",
-    "Type": "Gun",
-    "Rarity": "Epic"
-  },
-  {
     "ID": 33929,
     "Name": "A180",
     "Type": "Gun",
@@ -2623,15 +2605,15 @@
   },
   {
     "ID": 34001,
-    "Name": "Bar Tap",
-    "Type": "Medium",
-    "Rarity": null
-  },
-  {
-    "ID": 34001,
     "Name": "A280-CFE Grip",
     "Type": "Grip",
     "Rarity": "Rare"
+  },
+  {
+    "ID": 34001,
+    "Name": "Bar Tap",
+    "Type": "Medium",
+    "Rarity": null
   },
   {
     "ID": 34002,
@@ -2668,12 +2650,6 @@
     "Name": "Clone Pants",
     "Type": "Pants",
     "Rarity": null
-  },
-  {
-    "ID": 47065,
-    "Name": "DC15s",
-    "Type": "Gun",
-    "Rarity": "Common"
   },
   {
     "ID": 47066,

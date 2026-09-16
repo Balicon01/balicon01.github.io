@@ -4478,8 +4478,8 @@
   {
     "ID": 13391,
     "Name": "[99 Прицельщик] Visor",
-    "Type": "Mask",
-    "Rarity": "Rare"
+    "Type": "Glasses",
+    "Rarity": "Epic"
   },
   {
     "ID": 13392,
@@ -4508,8 +4508,8 @@
   {
     "ID": 13396,
     "Name": "[99 Тех] Visor",
-    "Type": "Mask",
-    "Rarity": "Rare"
+    "Type": "Glasses",
+    "Rarity": "Epic"
   },
   {
     "ID": 13397,

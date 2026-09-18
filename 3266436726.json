@@ -973,15 +973,15 @@
   },
   {
     "ID": 5921,
-    "Name": "Навык силы: Лечение. Уровень 2.",
-    "Type": "Medical",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 5921,
     "Name": "EffectTest",
     "Type": "Effect",
     "Rarity": null
+  },
+  {
+    "ID": 5921,
+    "Name": "Навык силы: Лечение. Уровень 2.",
+    "Type": "Medical",
+    "Rarity": "Legendary"
   },
   {
     "ID": 5922,
@@ -3919,19 +3919,13 @@
   },
   {
     "ID": 13300,
-    "Name": "[127] Hat PLT CMD",
-    "Type": "Hat",
-    "Rarity": "Mythical"
-  },
-  {
-    "ID": 13300,
     "Name": "Laser_Muzzle_Red",
     "Type": "Effect",
     "Rarity": null
   },
   {
-    "ID": 13301,
-    "Name": "[127] Hat PLT OFC",
+    "ID": 13300,
+    "Name": "[127] Hat PLT CMD",
     "Type": "Hat",
     "Rarity": "Mythical"
   },
@@ -3940,6 +3934,12 @@
     "Name": "Laser_Tracer__Red",
     "Type": "Effect",
     "Rarity": null
+  },
+  {
+    "ID": 13301,
+    "Name": "[127] Hat PLT OFC",
+    "Type": "Hat",
+    "Rarity": "Mythical"
   },
   {
     "ID": 13302,
@@ -4521,6 +4521,66 @@
     "ID": 13398,
     "Name": "[Shadow] BackPack Shadow 2",
     "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13399,
+    "Name": "[MED] BackPack 1",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13400,
+    "Name": "[MED] BackPack 2",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13401,
+    "Name": "[MED] BackPack 3",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13402,
+    "Name": "[MED] BackPack 4",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13403,
+    "Name": "[MED] BackPack 5",
+    "Type": "Backpack",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13404,
+    "Name": "[MED] Shirt MED",
+    "Type": "Shirt",
+    "Rarity": "Epic"
+  },
+  {
+    "ID": 13405,
+    "Name": "[MED] Hat AS",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13406,
+    "Name": "[MED] Hat AS CMD",
+    "Type": "Hat",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13407,
+    "Name": "[MED] Vest",
+    "Type": "Vest",
+    "Rarity": "Mythical"
+  },
+  {
+    "ID": 13408,
+    "Name": "[MED] Vest CMD",
+    "Type": "Vest",
     "Rarity": "Mythical"
   },
   {
@@ -5215,12 +5275,18 @@
   },
   {
     "ID": 15500,
+    "Name": "[MS] ETA-2",
+    "Type": "Vehicle",
+    "Rarity": "Legendary"
+  },
+  {
+    "ID": 15500,
     "Name": "INV VEST",
     "Type": "Vest",
     "Rarity": "Mythical"
   },
   {
-    "ID": 15500,
+    "ID": 15501,
     "Name": "[MS] ETA-2",
     "Type": "Vehicle",
     "Rarity": "Legendary"
@@ -5230,12 +5296,6 @@
     "Name": "INV BACKPACK",
     "Type": "Backpack",
     "Rarity": "Mythical"
-  },
-  {
-    "ID": 15501,
-    "Name": "[MS] ETA-2",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
   },
   {
     "ID": 15502,
